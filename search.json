@@ -1,0 +1,21 @@
+---
+layout: null
+---
+{% assign first = true %}
+[
+{% for post in site.posts %}
+    {% if post.band != null and post.band != empty %}
+    {% unless first %},{% endunless %}
+    {
+        "link": "{{ post.url }}",
+        "band": "{{ post.band }}",
+        "recordTitle": "{{ post.recordTitle }}",
+        "label": "{{ post.label }}",
+        "recordFormat": "{{ post.recordFormat }}",
+        "miniDescription": "{{ post.miniDescription }}",
+        "excerpt": "{{ post.excerpt | json }}"
+    }
+    {% assign first = false %}
+    {% endif %}
+{% endfor %}
+]

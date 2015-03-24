@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+<h1 class="postTitle">
+    {% if page.miniDescription %}
+        {{ page.miniDescription }}
+    {% else %}
+        {{ page.title }}
+    {% endif %}
+</h1>
+
+<span class="postMetaIntro">
+    Thoughts about <span class="recordTitle">{{ page.recordTitle }}</span>, <span class="formatPre">{% if page.recordFormat %}an</span> <span class="recordFormat">{{ page.recordFormat }}</span> {% endif %}by <span class="recordArtist">{{ page.band }}.</span>
+</span>
+
+<div class="hiddenSectionWrap">
+
+    <div class="recordMetaBox hiddenSection showPostMetaBox">
+        
+        {% if page.label %}
+            <span class="recordMeta"><span class="recordMetaKey">Record Label:</span> {{ page.label }}</span>
+        {% endif %}
+
+        {% if page.producer %}
+            <span class="recordMeta"><span class="recordMetaKey">Producer:</span> {{ page.producer }}</span>
+        {% endif %}
+
+        {% if page.releaseDate %}
+            <span class="recordMeta"><span class="recordMetaKey">Release Date:</span> {{ page.releaseDate | date: "%B, %Y" }}</span>
+        {% endif %}
+
+        {% if page.buyItLink %}
+            <span class="recordMeta"><span class="recordMetaKey">Buy it here:</span> <a href="{{ page.buyItLink }}">{{ page.buyItLinkTitle }}</a></span>
+        {% endif %}
+
+    </div>
+
+    <button class="button utilityButton openDown showPostMetaToggle">More Info</button>
+
+</div>
+
+<article class="postContent reviewContent mainContent">
+    {%if page.hasExcerpt == true %}
+        <p class="introParagraph">{{ page.excerpt }}</p>
+    {% endif %}
+    {{ content }}
+</article>
+
+<div class="postFooter">
+    <p>Written 
+        {% if page.author %} by {{ page.author }}{% endif %}
+        on the
+        {% assign d = page.date | date: "%-d"  %} 
+        {% case d %}
+            {% when '1' or '21' or '31' %}{{ d }}st
+            {% when '2' or '22' %}{{ d }}nd
+            {% when '3' or '23' %}{{ d }}rd
+            {% else %}{{ d }}th
+        {% endcase %}
+        {{ page.date | date: "%B" }}, 
+        {{ page.date | date: "%Y" }}.</p>
+</div>

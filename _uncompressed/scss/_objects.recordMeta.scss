@@ -1,0 +1,42 @@
+.recordMeta{
+  display:block;
+  width:50%;
+  float:left;
+  line-height:1.2;
+  font-size:.8em;
+  @include bp(d2){width:100%;}
+}
+.recordMetaKey{
+  font-family:$caps;
+  text-transform:lowercase;
+  display:inline-block;
+  min-width:8em;
+  text-align:right;
+  margin-right:.5em;
+}
+
+.hiddenSectionWrap{
+  @extend %cf;
+  margin-bottom:.5em;
+}
+
+.recordMetaBox{
+  display:block;
+  width:100%;
+  clear:both;
+  padding:.5em 0;
+  border-top:.2em solid $black;
+
+  border-bottom:0 solid $black;
+  max-height:0;
+  overflow:hidden;
+  padding:0;
+
+  transition:max-height,border,padding;
+  transition-duration:.2s;
+  &.open{
+    padding:.5em 0;
+    max-height:10em;
+    border-bottom:.2em solid $black;
+  }
+}

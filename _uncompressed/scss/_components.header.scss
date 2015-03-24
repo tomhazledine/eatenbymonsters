@@ -1,0 +1,38 @@
+.mainHeader{
+//  border-bottom:.4em solid $black;
+//  background:$primary;
+//  padding-bottom:.2em;
+//  box-shadow:
+//    inset $cream 0 -.1em 0 0,
+//    inset $black 0 -.2em 0 0;
+}
+.siteTitle{
+//  display:block;
+//  font-family:$caps;
+//  text-transform:lowercase;
+//  line-height:1;
+//  padding:0 .5em;
+  background:$primary;
+  color:$black;
+  &:hover{
+//    background:$black;
+    color:$cream;
+  }
+}
+.mainMenu{
+  @extend %cf;
+  display:block;
+  li{
+    display:block;
+    font-family:$caps;
+    text-transform:lowercase;
+//    display:inline-block;
+    float:left;
+    a{
+      padding:0 .5em;
+      &:hover{
+        color:$cream;
+      }
+    }
+  }
+}

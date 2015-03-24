@@ -1,0 +1,24 @@
+# Site settings
+title: Eaten by Monsters
+email: your-email@domain.com
+description: > # Music blog based in the UK, reviewing bands since 2008.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://eatenbymonsters.com" # the base hostname & protocol for your site
+twitter_username: thomashazledine
+github_username: tomhazledine
+
+# Build settings
+permalink: /:title
+markdown: kramdown
+include: ['.htaccess']
+exclude: [sass/]
+kramdown:
+  auto_ids: false
+
+# Pagination
+paginate: 12
+
+# SASS
+sass:
+    sass_dir: _uncompressed/scss
+    style: :compressed

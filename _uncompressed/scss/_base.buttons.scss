@@ -1,0 +1,62 @@
+%button{
+  background:$primary;
+  color:$white;
+  padding:.5em 1em;
+  border-bottom:$black solid .4em;
+  font-weight:300;
+  line-height:1;
+  font-size:.8em;
+  text-align:center;
+  transition:background;
+  transition-duration:.2s;
+  font-family:$body;
+  text-transform:uppercase;
+  line-height:1;
+  font-style:italic;
+  letter-spacing:.1em;
+  &:hover{
+    background:$secondary;
+  }
+  &:active{
+    background:$black;
+  }
+  &:focus{
+    outline:none;
+  }
+}
+
+.genericButton{
+  @extend %buttonReset;
+  @extend %button;
+}
+
+.utilityButton{
+  @extend %buttonReset;
+  text-transform:lowercase;//uppercase;
+  font-family:$caps;
+//  font-style:italic;
+  font-size:.8em;
+  background:$black;//rgba($black,.15);
+  color:$cream;
+  line-height:1;
+//  margin-top:1em;
+  padding:0em 1em .3em 1em;
+//  margin:0 auto;
+  transition:background,color;
+  transition-duration:.2s;
+  &:hover{
+//    background:rgba($black,.5);
+    color:$primary;
+  }
+  &:focus{
+    outline:none;
+  }
+}
+
+.utilityButton.openDown{
+  @extend %cf;
+  float:right;
+  position:relative;
+  top:-.2em;
+//  padding:0em 1em .2em 1em;
+}

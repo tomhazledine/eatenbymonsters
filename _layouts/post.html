@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<div class="post">
+
+<h1 class="postTitle">
+    {% if page.miniDescription %}
+        {{ page.miniDescription }}
+    {% else %}
+        {{ page.title }}
+    {% endif %}
+</h1>
+
+<article class="postContent articleContent mainContent">
+    {{ content }}
+</article>
+
+<div class="postFooter">
+    <p>Written 
+        {% if page.author %} by {{ page.author }}{% endif %}
+        on the
+        {% assign d = page.date | date: "%-d"  %} 
+        {% case d %}
+            {% when '1' or '21' or '31' %}{{ d }}st
+            {% when '2' or '22' %}{{ d }}nd
+            {% when '3' or '23' %}{{ d }}rd
+            {% else %}{{ d }}th
+        {% endcase %}
+        {{ page.date | date: "%B" }}, 
+        {{ page.date | date: "%Y" }}.</p>
+</div>

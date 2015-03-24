@@ -1,0 +1,31 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+    
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
+    <link rel="shortcut icon" href="{{ "/assets/images/favicon.ico" | prepend: site.baseurl }}" />
+
+    <!-- Modernizr -->
+    <script src="{{ "/assets/js/static/modernizr-2.6.2.min.js" | prepend: site.baseurl }}"></script>
+
+    <!-- Google+ -->
+    <link href='http://fonts.googleapis.com/css?family=Abril+Fatface' rel='stylesheet' type='text/css'>
+
+    <!-- Typekit JS -->
+    <script src="//use.typekit.net/ejw1ruu.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
+
+    <!-- Polyfills -->
+    <!-- [if lt IE 9]>
+    <script src="{{ "/assets/js/static/respond.min.js" | prepend: site.baseurl }}" type="text/javascript"></script>
+    <script src="{{ "/assets/js/static/html5.js" | prepend: site.baseurl }}" type="text/javascript"></script>
+    <![endif] -->
+
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+
+</head>
