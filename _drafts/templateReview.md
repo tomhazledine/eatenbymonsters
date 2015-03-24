@@ -20,4 +20,8 @@ excerpt: REMEMBER_MARKUP
 
 categories:
 - review
+
+audioLinks:
+	- name: XX
+		url: http://xx.mp3
 ---
