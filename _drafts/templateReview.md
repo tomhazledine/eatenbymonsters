@@ -19,7 +19,7 @@ hasExcerpt: true
 excerpt: REMEMBER_MARKUP
 
 categories:
-- review
+	- review
 
 audioLinks:
 	- name: XX
