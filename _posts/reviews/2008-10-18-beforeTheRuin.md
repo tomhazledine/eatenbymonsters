@@ -11,9 +11,6 @@ label: Navigator
 recordFormat: album
 releaseDate: 2008-10-01
 
-<!-- buyItLink: http://???.com/ -->
-<!-- buyItLinkTitle: Band's website -->
-
 categories: review
 ---
 
