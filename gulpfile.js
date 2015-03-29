@@ -37,7 +37,7 @@ gulp.task('sass', function() {
         .pipe(minifycss())
         .pipe(size({title: 'css.min'}))
         .pipe(gulp.dest('assets/css'))
-        .pipe(livereload(server));
+        // .pipe(livereload(server));
 });
 
 // Lets lint our CSS
@@ -59,7 +59,7 @@ gulp.task('scripts', function() {
         .pipe(uglify())
         .pipe(size({title: 'js.min'}))
         .pipe(gulp.dest('assets/js'))
-        .pipe(livereload(server));
+        // .pipe(livereload(server));
 });
 
 // Minify and transfer static JS files
