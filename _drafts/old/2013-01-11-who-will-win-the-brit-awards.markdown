@@ -8,7 +8,7 @@ title: Who will win the Brit Awards?
 wordpress_id: 1554
 categories:
 - news
-tags:
+tags: 
 - Alt J
 - Brit Awards
 ---

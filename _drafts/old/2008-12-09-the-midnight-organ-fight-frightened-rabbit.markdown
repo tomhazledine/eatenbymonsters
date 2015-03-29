@@ -11,7 +11,7 @@ band:
 categories:
 - album
 - review
-tags:
+tags: 
 - Frightened Rabbit
 ---
 

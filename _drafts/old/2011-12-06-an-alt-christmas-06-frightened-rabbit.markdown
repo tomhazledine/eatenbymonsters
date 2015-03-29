@@ -11,7 +11,7 @@ band:
 categories:
 - Alternative Christmas
 - music
-tags:
+tags: 
 - '7'
 - christmas
 - Frightened Rabbit

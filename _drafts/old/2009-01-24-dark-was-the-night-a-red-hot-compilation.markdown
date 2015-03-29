@@ -9,7 +9,7 @@ wordpress_id: 370
 categories:
 - misc.
 - music
-tags:
+tags: 
 - 4AD
 - charity
 - Dark Was The Night

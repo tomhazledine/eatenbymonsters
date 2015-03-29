@@ -9,7 +9,7 @@ wordpress_id: 168
 categories:
 - music
 - review
-tags:
+tags: 
 - El Madmo
 - Norah bloody Jones
 - surprise

@@ -10,7 +10,7 @@ categories:
 - article
 - List
 - media
-tags:
+tags: 
 - Carly Rae Jepsen
 - Clock Opera
 - Mammal Club

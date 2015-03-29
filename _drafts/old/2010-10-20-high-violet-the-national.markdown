@@ -10,7 +10,7 @@ categories:
 - album
 - music
 - review
-tags:
+tags: 
 - '6'
 - High Violet
 - The National

@@ -10,7 +10,7 @@ categories:
 - EP
 - music
 - review
-tags:
+tags: 
 - An Unremarkable Location
 - Anticipate Heat
 - The Actors

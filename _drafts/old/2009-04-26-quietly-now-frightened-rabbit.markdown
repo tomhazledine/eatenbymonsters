@@ -11,7 +11,7 @@ band:
 categories:
 - music
 - review
-tags:
+tags: 
 - Frightened Rabbit
 - Liver! Lung! RF!
 - Quietly Now!

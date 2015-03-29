@@ -10,7 +10,7 @@ band:
 - Bellowhead
 categories:
 - annual-lists
-tags:
+tags: 
 - Bellowhead
 - Broken Records
 - death cab for cutie

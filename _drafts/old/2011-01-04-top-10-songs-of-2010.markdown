@@ -9,7 +9,7 @@ wordpress_id: 772
 categories:
 - music
 - Yearly Top 10
-tags:
+tags: 
 - Gregory &amp; the Hawk
 - Jimmy Eat World
 - Lupen Crook

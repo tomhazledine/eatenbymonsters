@@ -4,8 +4,10 @@ author: Tom
 date: 2008-10-31
 
 title: The Glasses | Story Problems
-
-band: The Glasses
+band:
+- "The Glasses"
+tags:
+- The Glasses
 recordTitle: Story Problems
 label: Self-Released
 recordFormat: album

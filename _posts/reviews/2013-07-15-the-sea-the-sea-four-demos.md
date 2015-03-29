@@ -4,8 +4,8 @@ author: Tom
 date: 2013-07-15
 
 title: The Sea The Sea | Four Demos
-
-band: The Sea The Sea
+tags:
+- "The Sea The Sea"
 recordTitle: Four Demos
 label: Self Released
 recordFormat: EP

@@ -10,7 +10,7 @@ categories:
 - album
 - music
 - review
-tags:
+tags: 
 - '5'
 - Infra
 - Max Richter

@@ -9,7 +9,7 @@ wordpress_id: 1050
 categories:
 - Alternative Christmas
 - music
-tags:
+tags: 
 - '6'
 - Branches
 - christmas

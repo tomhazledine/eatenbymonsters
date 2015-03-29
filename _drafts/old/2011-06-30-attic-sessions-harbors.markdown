@@ -10,7 +10,7 @@ categories:
 - EP
 - music
 - review
-tags:
+tags: 
 - Attic Sessions EP
 - Harbours
 ---

@@ -9,7 +9,7 @@ wordpress_id: 438
 categories:
 - music
 - review
-tags:
+tags: 
 - Kingsbury
 - Lie To Me
 ---

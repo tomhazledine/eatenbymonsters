@@ -10,7 +10,7 @@ categories:
 - album
 - music
 - review
-tags:
+tags: 
 - '3'
 - Band of Horses
 - Infinite Arms

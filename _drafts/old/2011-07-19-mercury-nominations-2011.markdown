@@ -11,7 +11,7 @@ categories:
 - comment
 - Mercury Prize
 - music
-tags:
+tags: 
 - albums of the year
 - Mercury Prize
 - nominations

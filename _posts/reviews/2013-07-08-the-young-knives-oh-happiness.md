@@ -4,8 +4,8 @@ author: Tom
 date: 2013-07-08
 
 title: The Young Knives | Oh Happiness
-
-band: The Young Knives
+tags:
+- "The Young Knives"
 recordTitle: Oh Happiness
 label: Gadzook
 recordFormat: EP

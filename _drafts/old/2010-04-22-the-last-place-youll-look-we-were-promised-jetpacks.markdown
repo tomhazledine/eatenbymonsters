@@ -10,7 +10,7 @@ categories:
 - EP
 - music
 - review
-tags:
+tags: 
 - FatCat
 - The Last Place You'll Look
 - We Were Promised Jetpacks

@@ -9,7 +9,7 @@ wordpress_id: 1202
 categories:
 - review
 - single
-tags:
+tags: 
 - Christian Bale
 - The Mae Shi
 ---

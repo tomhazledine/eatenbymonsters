@@ -4,8 +4,7 @@ author: Tom
 date: 2013-05-14
 
 title: Ian McCulloch | The Killing Moon
-
-band: Ian McCulloch
+tags: "Ian McCulloch"
 recordTitle: The Killing Moon
 label: Demon
 recordFormat: single

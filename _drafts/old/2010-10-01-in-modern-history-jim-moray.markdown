@@ -10,7 +10,7 @@ categories:
 - album
 - music
 - review
-tags:
+tags: 
 - '4'
 - In Modern History
 - Jim Moray

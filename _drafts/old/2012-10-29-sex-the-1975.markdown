@@ -9,7 +9,7 @@ wordpress_id: 1219
 categories:
 - EP
 - review
-tags:
+tags: 
 - The 1975
 ---
 

@@ -13,7 +13,7 @@ categories:
 - review
 label:
 - Song by Toad Records
-tags:
+tags: 
 - '9'
 - Meursault
 - pissing on bonfires kissing with tongues

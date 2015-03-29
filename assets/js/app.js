@@ -10389,6 +10389,8 @@ function rnl_getResults(term){
 
 // Parse the data array into HTML and inject it into the DOM
 function rnl_layout(array,term){
+
+    console.log(typeof array);
     
     // Rebuild array with search filtering
     

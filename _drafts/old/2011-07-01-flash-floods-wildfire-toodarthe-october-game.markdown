@@ -10,7 +10,7 @@ categories:
 - EP
 - music
 - review
-tags:
+tags: 
 - '8'
 - The October Game
 - Toodar

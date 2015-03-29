@@ -10,7 +10,7 @@ categories:
 - EP
 - music
 - review
-tags:
+tags: 
 - '8'
 - Radical Face
 - 'The Bastards: Volume One'

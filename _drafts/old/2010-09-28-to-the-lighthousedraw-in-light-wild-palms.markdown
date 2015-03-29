@@ -10,7 +10,7 @@ categories:
 - music
 - review
 - single
-tags:
+tags: 
 - Draw In Light
 - To The Lighthouse
 - Wild Palms

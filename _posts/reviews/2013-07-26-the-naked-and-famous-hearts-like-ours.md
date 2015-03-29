@@ -4,8 +4,8 @@ author: Tom
 date: 2013-07-26
 
 title: The Naked And Famous | Hearts Like Ours
-
-band: The Naked And Famous
+tags:
+- "The Naked And Famous"
 recordTitle: Hearts Like Ours
 label: Universal
 recordFormat: single

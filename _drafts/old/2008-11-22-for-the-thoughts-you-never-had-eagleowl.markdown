@@ -9,7 +9,7 @@ wordpress_id: 214
 categories:
 - music
 - review
-tags:
+tags: 
 - Eagleowl
 - Fife Kills
 - For the Thoughts You Never Had

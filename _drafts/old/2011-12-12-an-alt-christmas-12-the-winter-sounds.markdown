@@ -9,7 +9,7 @@ wordpress_id: 1032
 categories:
 - Alternative Christmas
 - music
-tags:
+tags: 
 - '8'
 - christmas
 - The Winter Sounds

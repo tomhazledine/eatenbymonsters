@@ -9,7 +9,7 @@ wordpress_id: 797
 categories:
 - music
 - ones to watch
-tags:
+tags: 
 - BBC
 - Sound of 2011
 - The Vaccines

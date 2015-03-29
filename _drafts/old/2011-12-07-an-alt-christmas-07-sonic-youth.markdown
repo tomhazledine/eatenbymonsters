@@ -9,7 +9,7 @@ wordpress_id: 1009
 categories:
 - Alternative Christmas
 - music
-tags:
+tags: 
 - '4'
 - christmas
 - Sonic Youth

@@ -9,7 +9,7 @@ wordpress_id: 1615
 categories:
 - article
 - media
-tags:
+tags: 
 - Analogue vs. Digital
 - Side by Side
 - Sound City

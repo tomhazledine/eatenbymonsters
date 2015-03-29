@@ -12,7 +12,7 @@ categories:
 - live
 - music
 - review
-tags:
+tags: 
 - Frightened Rabbit
 - Gaelic TV
 - live

@@ -13,7 +13,7 @@ categories:
 - music
 - review
 - single
-tags:
+tags: 
 - Frightened Rabbit
 - Fun Stuff
 ---

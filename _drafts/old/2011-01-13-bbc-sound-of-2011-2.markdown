@@ -10,7 +10,7 @@ categories:
 - music
 - news
 - ones to watch
-tags:
+tags: 
 - BBC
 - Jessie J
 - Sound of 2011

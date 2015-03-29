@@ -10,7 +10,7 @@ categories:
 - album
 - music
 - review
-tags:
+tags: 
 - '6'
 - Flattery Not Included
 - Mr B the Gentleman Rhymer

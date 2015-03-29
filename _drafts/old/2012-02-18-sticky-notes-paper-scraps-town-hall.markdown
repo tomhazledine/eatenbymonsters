@@ -10,7 +10,7 @@ categories:
 - EP
 - music
 - review
-tags:
+tags: 
 - '6'
 - Sticky Notes &amp; Paper Scraps
 - Town Hall

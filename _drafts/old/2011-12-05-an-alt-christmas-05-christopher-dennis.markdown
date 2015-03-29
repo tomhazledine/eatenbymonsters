@@ -9,7 +9,7 @@ wordpress_id: 1000
 categories:
 - Alternative Christmas
 - music
-tags:
+tags: 
 - '6'
 - christmas
 - Christopher Dennis

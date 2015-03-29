@@ -11,7 +11,7 @@ wordpress_id: 1933
 categories:
 - album
 - review
-tags:
+tags: 
 - Snowstar Records
 ---
 

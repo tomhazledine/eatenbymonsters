@@ -9,7 +9,7 @@ wordpress_id: 966
 categories:
 - Alternative Christmas
 - music
-tags:
+tags: 
 - '6'
 - christmas
 - Master Slash Slave

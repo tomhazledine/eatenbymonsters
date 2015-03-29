@@ -13,7 +13,7 @@ categories:
 - review
 label:
 - Song by Toad Records
-tags:
+tags: 
 - EP
 - Meursault
 - Nothing Broke

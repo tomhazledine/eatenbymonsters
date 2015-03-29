@@ -9,7 +9,7 @@ wordpress_id: 407
 categories:
 - music
 - review
-tags:
+tags: 
 - Everyone All At Once
 - The Rest
 ---

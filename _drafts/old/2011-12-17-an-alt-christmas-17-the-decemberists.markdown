@@ -9,7 +9,7 @@ wordpress_id: 1054
 categories:
 - Alternative Christmas
 - music
-tags:
+tags: 
 - '4'
 - christmas
 - The Decemberists

@@ -10,7 +10,7 @@ categories:
 - media
 - review
 - single
-tags:
+tags: 
 - Cosmo Jarvis
 ---
 

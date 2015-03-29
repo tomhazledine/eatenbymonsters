@@ -9,7 +9,7 @@ wordpress_id: 378
 categories:
 - music
 - review
-tags:
+tags: 
 - Kid You'll Move Mountains
 - Loomings
 ---

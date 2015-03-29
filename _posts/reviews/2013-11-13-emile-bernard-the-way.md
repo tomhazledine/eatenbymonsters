@@ -4,8 +4,8 @@ author: Tom
 date: 2013-11-13
 
 title: Emile Bernard | The Way
-
-band: Emile Bernard
+tags:
+- "Emile Bernard"
 recordTitle: The Way
 label: Self Released
 recordFormat: single

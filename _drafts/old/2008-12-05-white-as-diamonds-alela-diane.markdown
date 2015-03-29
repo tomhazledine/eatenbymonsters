@@ -9,7 +9,7 @@ wordpress_id: 279
 categories:
 - music
 - review
-tags:
+tags: 
 - Alela Diane
 - Daytrotter
 - music

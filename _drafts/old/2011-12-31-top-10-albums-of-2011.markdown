@@ -22,7 +22,7 @@ band:
 - Peter Gabriel
 categories:
 - annual-lists
-tags:
+tags: 
 - Admiral Fallow
 - Chris Thile
 - Cold War Kids

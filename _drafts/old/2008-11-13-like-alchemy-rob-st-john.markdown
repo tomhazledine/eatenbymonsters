@@ -9,7 +9,7 @@ wordpress_id: 164
 categories:
 - music
 - review
-tags:
+tags: 
 - Fife Kills
 - Like Alchemy
 - Rob St John

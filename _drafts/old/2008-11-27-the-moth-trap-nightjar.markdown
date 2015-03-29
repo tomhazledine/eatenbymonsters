@@ -9,7 +9,7 @@ wordpress_id: 234
 categories:
 - music
 - review
-tags:
+tags: 
 - bluegrass
 - folk
 - music

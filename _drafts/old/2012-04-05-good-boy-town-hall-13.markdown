@@ -10,7 +10,7 @@ categories:
 - music
 - news
 - single
-tags:
+tags: 
 - '4'
 - Good Boy
 - Town Hall

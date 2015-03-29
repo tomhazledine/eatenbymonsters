@@ -9,7 +9,7 @@ wordpress_id: 418
 categories:
 - music
 - review
-tags:
+tags: 
 - The Steps
 ---
 

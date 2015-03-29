@@ -10,7 +10,7 @@ categories:
 - album
 - music
 - review
-tags:
+tags: 
 - '7'
 - Broadcast 2000
 - Get Up and Go

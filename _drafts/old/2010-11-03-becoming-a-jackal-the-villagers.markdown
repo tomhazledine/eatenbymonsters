@@ -10,7 +10,7 @@ categories:
 - album
 - music
 - review
-tags:
+tags: 
 - '7'
 - Becoming a Jackal
 - Villagers

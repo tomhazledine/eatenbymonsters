@@ -8,7 +8,7 @@ title: Top 10 Songs of 2012
 wordpress_id: 1457
 categories:
 - annual-lists
-tags:
+tags: 
 - Chvrches
 - Dan Croll
 - Es Muss Sein

@@ -9,7 +9,7 @@ wordpress_id: 1083
 categories:
 - Alternative Christmas
 - music
-tags:
+tags: 
 - '7'
 - christmas
 - Jim White

@@ -11,7 +11,7 @@ wordpress_id: 1603
 categories:
 - review
 - single
-tags:
+tags: 
 - Haiku Salut
 ---
 

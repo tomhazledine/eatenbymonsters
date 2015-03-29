@@ -9,7 +9,7 @@ wordpress_id: 333
 categories:
 - comment
 - music
-tags:
+tags: 
 - BBC 6 Music
 - Little Boots
 - Ready for the Floor

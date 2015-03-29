@@ -9,7 +9,7 @@ wordpress_id: 389
 categories:
 - music
 - review
-tags:
+tags: 
 - A Time and a Place
 - Popup
 - team love

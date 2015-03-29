@@ -9,7 +9,7 @@ wordpress_id: 1440
 categories:
 - EP
 - music
-tags:
+tags: 
 - grandbrothers
 ---
 

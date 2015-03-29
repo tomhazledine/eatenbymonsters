@@ -10,7 +10,7 @@ categories:
 - EP
 - music
 - review
-tags:
+tags: 
 - '7'
 - Heart Heart
 - Withered Hand

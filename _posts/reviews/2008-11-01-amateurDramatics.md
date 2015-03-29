@@ -4,8 +4,10 @@ author: Tom
 date: 2008-10-31
 
 title: Minotaur Shock | Amateur Dramatics
-
-band: Minotaur Shock
+band:
+- "Minotaur Shock"
+tags:
+- MinotaurShock
 recordTitle: Amateur Dramatics
 label: Self-Released
 recordFormat: album

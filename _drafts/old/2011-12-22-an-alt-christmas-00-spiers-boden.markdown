@@ -11,7 +11,7 @@ band:
 categories:
 - Alternative Christmas
 - music
-tags:
+tags: 
 - '5'
 - christmas
 - Spiers &amp; Boden

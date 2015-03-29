@@ -9,7 +9,7 @@ wordpress_id: 1041
 categories:
 - Alternative Christmas
 - music
-tags:
+tags: 
 - '7'
 - christmas
 - Pictures of Then

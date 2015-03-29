@@ -9,7 +9,7 @@ wordpress_id: 1073
 categories:
 - Alternative Christmas
 - music
-tags:
+tags: 
 - '9'
 - christmas
 - Withered Hand

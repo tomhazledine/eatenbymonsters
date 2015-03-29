@@ -4,8 +4,8 @@ author: Tom
 date: 2013-11-20
 
 title: Eliza And The Bear | It Gets Cold
-
-band: Eliza And The Bear
+tags:
+- "Eliza And The Bear"
 recordTitle: It Gets Cold
 label: Generator
 recordFormat: single

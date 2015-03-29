@@ -9,7 +9,7 @@ wordpress_id: 974
 categories:
 - Alternative Christmas
 - music
-tags:
+tags: 
 - '5'
 - christmas
 - Jimmy Eat World

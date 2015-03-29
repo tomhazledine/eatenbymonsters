@@ -4,8 +4,8 @@ author: Tom
 date: 2013-05-10
 
 title: Everything Everything | Duet [RSD 7"]
-
-band: Everything Everything
+tags:
+- "Everything Everything"
 recordTitle: Duet [RSD 7&Prime;]
 label: RCA Victor
 recordFormat: single

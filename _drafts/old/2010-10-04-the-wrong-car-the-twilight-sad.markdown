@@ -10,7 +10,7 @@ categories:
 - EP
 - music
 - review
-tags:
+tags: 
 - The Twilight Sad
 - The Wrong Car
 ---

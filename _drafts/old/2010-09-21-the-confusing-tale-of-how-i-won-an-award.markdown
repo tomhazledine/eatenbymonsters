@@ -8,7 +8,7 @@ title: The confusing tale of how I won an award...
 wordpress_id: 616
 categories:
 - MetaBlog
-tags:
+tags: 
 - accolades
 - honey I'm home
 - sneaky marketing

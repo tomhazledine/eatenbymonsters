@@ -9,7 +9,7 @@ wordpress_id: 1196
 categories:
 - EP
 - review
-tags:
+tags: 
 - Barbarossa
 - Delifinger
 - Withered Hand

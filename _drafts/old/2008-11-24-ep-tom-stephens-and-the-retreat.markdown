@@ -9,7 +9,7 @@ wordpress_id: 225
 categories:
 - music
 - review
-tags:
+tags: 
 - Tom Stephens and the Retreat
 ---
 

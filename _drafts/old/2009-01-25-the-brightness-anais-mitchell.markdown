@@ -10,7 +10,7 @@ categories:
 - live
 - music
 - review
-tags:
+tags: 
 - Anaïs Mitchell
 - The Brightness
 - The Luminaire

@@ -12,7 +12,7 @@ categories:
 - media
 - review
 - single
-tags:
+tags: 
 - Monument Valley
 ---
 

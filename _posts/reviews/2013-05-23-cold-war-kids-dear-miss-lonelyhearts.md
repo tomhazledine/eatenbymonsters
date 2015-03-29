@@ -4,8 +4,7 @@ author: Tom
 date: 2013-05-23
 
 title: Cold War Kids | Dear Miss Lonelyhearts
-
-band: Cold War Kids
+tags: "Cold War Kids"
 recordTitle: Dear Miss Lonelyhearts
 label: Downtown
 recordFormat: album

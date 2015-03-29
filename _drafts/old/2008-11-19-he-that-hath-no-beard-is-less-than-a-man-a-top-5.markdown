@@ -10,7 +10,7 @@ categories:
 - comment
 - music
 - Wednesday Top Five
-tags:
+tags: 
 - beard
 - hairy
 - hirsute

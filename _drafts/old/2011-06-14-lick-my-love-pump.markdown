@@ -10,7 +10,7 @@ categories:
 - album
 - comment
 - music
-tags:
+tags: 
 - Asceticists
 - This is Spinal Tap
 - Whitehouse

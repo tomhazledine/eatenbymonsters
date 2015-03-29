@@ -8,7 +8,7 @@ title: This says it all about HMV, really...
 wordpress_id: 1570
 categories:
 - news
-tags:
+tags: 
 - HMV
 ---
 

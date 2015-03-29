@@ -12,7 +12,7 @@ wordpress_id: 1944
 categories:
 - review
 - single
-tags:
+tags: 
 - Keaton Henson
 - Record Store Day
 ---

@@ -9,7 +9,7 @@ wordpress_id: 494
 categories:
 - music
 - review
-tags:
+tags: 
 - The Touques
 - The Touques EP
 ---

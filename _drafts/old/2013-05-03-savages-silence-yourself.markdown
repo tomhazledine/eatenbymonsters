@@ -11,7 +11,7 @@ wordpress_id: 1954
 categories:
 - album
 - review
-tags:
+tags: 
 - Savages
 ---
 

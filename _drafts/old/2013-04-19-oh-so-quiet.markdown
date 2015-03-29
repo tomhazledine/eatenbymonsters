@@ -12,7 +12,7 @@ wordpress_id: 1857
 categories:
 - EP
 - review
-tags:
+tags: 
 - Oh So Quiet
 ---
 

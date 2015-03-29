@@ -10,7 +10,7 @@ categories:
 - music
 - Nifty Stuff
 - profile
-tags:
+tags: 
 - conor oberst
 - nate krenkel
 - record label

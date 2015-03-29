@@ -9,7 +9,7 @@ wordpress_id: 473
 categories:
 - music
 - review
-tags:
+tags: 
 - Dark Mean
 - frankencottage
 ---

@@ -21,7 +21,7 @@ band:
 - Two Door Cinema Club
 categories:
 - annual-lists
-tags:
+tags: 
 - Alt J
 - Efterklang
 - Godspeed You! Black Emperor

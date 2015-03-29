@@ -9,7 +9,7 @@ wordpress_id: 1063
 categories:
 - Alternative Christmas
 - music
-tags:
+tags: 
 - '5'
 - Casiotone For The Painfully Alone
 - christmas

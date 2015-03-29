@@ -15,7 +15,7 @@ title: Are Music Festivals Dead?
 wordpress_id: 1966
 categories:
 - article
-tags:
+tags: 
 - Music Festivals
 ---
 

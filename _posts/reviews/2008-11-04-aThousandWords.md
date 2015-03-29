@@ -4,8 +4,10 @@ author: Tom
 date: 2008-11-04
 
 title: Styrofoam | A Thousand Words
-
-band: Styrofoam
+band:
+- Styrofoam
+tags:
+- Styrofoam
 recordTitle: A Thousand Words
 <!-- label: LABEL -->
 recordFormat: album

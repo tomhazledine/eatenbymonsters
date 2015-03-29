@@ -9,7 +9,7 @@ wordpress_id: 1045
 categories:
 - Alternative Christmas
 - music
-tags:
+tags: 
 - '5'
 - Banjo or Freakout
 - christmas

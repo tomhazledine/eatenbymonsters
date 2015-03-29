@@ -9,7 +9,7 @@ wordpress_id: 321
 categories:
 - music
 - Wednesday Top Five
-tags:
+tags: 
 - christmas
 - Decemberists
 - Eels

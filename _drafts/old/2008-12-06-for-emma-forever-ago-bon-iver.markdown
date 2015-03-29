@@ -9,7 +9,7 @@ wordpress_id: 284
 categories:
 - music
 - review
-tags:
+tags: 
 - '9'
 - Blood Bank
 - bon iver

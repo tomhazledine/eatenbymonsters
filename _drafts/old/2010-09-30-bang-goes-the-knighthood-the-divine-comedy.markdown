@@ -10,7 +10,7 @@ categories:
 - album
 - music
 - review
-tags:
+tags: 
 - '8'
 - Bang Goes the Knighthood
 - The Divine Comedy

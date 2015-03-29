@@ -9,7 +9,7 @@ wordpress_id: 500
 categories:
 - music
 - review
-tags:
+tags: 
 - '9'
 - Little Lion Man
 - Mumford and Sons

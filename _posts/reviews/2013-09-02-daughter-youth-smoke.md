@@ -4,8 +4,8 @@ author: Tom
 date: 2013-09-02
 
 title: Daughter | Youth
-
-band: Daughter
+tags:
+- Daughter
 recordTitle: Youth
 label: 4AD
 recordFormat: single

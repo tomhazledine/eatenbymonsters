@@ -9,7 +9,7 @@ wordpress_id: 317
 categories:
 - music
 - review
-tags:
+tags: 
 - Layabout
 - Suburban Legend
 ---

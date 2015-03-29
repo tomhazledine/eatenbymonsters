@@ -4,8 +4,8 @@ author: Tom
 date: 2013-08-31
 
 title: Okkervil River | The Silver Gymnasium
-
-band: Okkervil River
+tags:
+- "Okkervil River"
 recordTitle: The Silver Gymnasium
 label: PIAS
 recordFormat: album

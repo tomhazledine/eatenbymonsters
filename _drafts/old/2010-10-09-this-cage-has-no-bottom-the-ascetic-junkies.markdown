@@ -10,7 +10,7 @@ categories:
 - album
 - music
 - review
-tags:
+tags: 
 - The Ascetic Junkies
 - This Cage Has No Bottom
 ---

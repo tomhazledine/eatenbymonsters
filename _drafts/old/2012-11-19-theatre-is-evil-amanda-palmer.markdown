@@ -12,7 +12,7 @@ categories:
 - album
 - music
 - vinyl
-tags:
+tags: 
 - Amanda Palmer
 ---
 

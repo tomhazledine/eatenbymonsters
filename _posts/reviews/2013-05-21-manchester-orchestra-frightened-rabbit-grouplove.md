@@ -4,8 +4,7 @@ author: Tom
 date: 2013-05-21
 
 title: Manchester Orchestra | Frightened Rabbit & Grouplove Split 12"
-
-band:
+tags:
 - Manchester Orchestra
 - Frightened Rabbit
 - Grouplove

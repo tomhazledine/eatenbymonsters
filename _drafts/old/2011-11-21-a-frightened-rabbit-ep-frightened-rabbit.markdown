@@ -12,7 +12,7 @@ categories:
 - EP
 - music
 - review
-tags:
+tags: 
 - '6'
 - A Frightened Rabbit EP
 - Frightened Rabbit

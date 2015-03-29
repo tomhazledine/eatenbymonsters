@@ -11,7 +11,7 @@ wordpress_id: 917
 categories:
 - article
 - media
-tags:
+tags: 
 - Jon Hopkins
 - Spotify
 ---

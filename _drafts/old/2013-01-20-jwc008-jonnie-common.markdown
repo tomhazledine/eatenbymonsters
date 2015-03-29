@@ -11,7 +11,7 @@ band:
 categories:
 - EP
 - review
-tags:
+tags: 
 - Jonnie Common
 ---
 

@@ -4,8 +4,8 @@ author: Tom
 date: 2013-06-07
 
 title: Chvrches | Gun
-
-band: Chvrches
+tags:
+- Chvrches
 recordTitle: Gun
 label: Universal
 recordFormat: single

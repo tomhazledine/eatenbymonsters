@@ -12,7 +12,7 @@ categories:
 - music
 - review
 - single
-tags:
+tags: 
 - Frightened Rabbit
 - Nothing Like You
 ---

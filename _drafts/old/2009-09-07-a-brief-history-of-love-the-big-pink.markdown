@@ -9,7 +9,7 @@ wordpress_id: 486
 categories:
 - music
 - review
-tags:
+tags: 
 - A Brief History of Love
 - Dominos
 - The Big Pink

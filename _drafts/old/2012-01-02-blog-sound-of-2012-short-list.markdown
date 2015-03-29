@@ -12,7 +12,7 @@ categories:
 - List
 - music
 - news
-tags:
+tags: 
 - Beth Jeans Haughton
 - blogsound2012
 - Daughter

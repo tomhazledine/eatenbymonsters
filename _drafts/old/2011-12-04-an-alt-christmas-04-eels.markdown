@@ -9,7 +9,7 @@ wordpress_id: 992
 categories:
 - Alternative Christmas
 - music
-tags:
+tags: 
 - '5'
 - christmas
 - Eels

@@ -11,7 +11,7 @@ categories:
 - List
 - music
 - news
-tags:
+tags: 
 - Deptford Goth
 - Eels
 - Everything Everything

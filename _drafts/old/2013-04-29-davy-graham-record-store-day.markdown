@@ -12,7 +12,7 @@ wordpress_id: 1910
 categories:
 - review
 - single
-tags:
+tags: 
 - Davy Graham
 - Record Store Day
 ---

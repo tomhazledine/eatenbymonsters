@@ -9,7 +9,7 @@ wordpress_id: 571
 categories:
 - EP
 - review
-tags:
+tags: 
 - Maxwell Panther
 ---
 

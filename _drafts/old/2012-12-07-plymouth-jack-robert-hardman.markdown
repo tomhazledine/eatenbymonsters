@@ -9,7 +9,7 @@ wordpress_id: 1421
 categories:
 - review
 - single
-tags:
+tags: 
 - Jack Robert Hardman
 ---
 

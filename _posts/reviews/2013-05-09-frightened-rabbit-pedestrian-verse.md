@@ -4,8 +4,8 @@ author: Tom
 date: 2013-05-09
 
 title: Frightened Rabbit | Pedestrian Verse
-
-band: Frightened Rabbit
+tags:
+- Frightened Rabbit
 recordTitle: Pedestrian Verse
 label: Atlantic
 recordFormat: album

@@ -11,7 +11,7 @@ wordpress_id: 1881
 categories:
 - review
 - single
-tags:
+tags: 
 - Life
 ---
 

@@ -12,7 +12,7 @@ categories:
 - album
 - music
 - review
-tags:
+tags: 
 - '7'
 - The People's Key
 ---

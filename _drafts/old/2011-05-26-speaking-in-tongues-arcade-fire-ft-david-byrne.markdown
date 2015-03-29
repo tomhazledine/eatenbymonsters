@@ -9,7 +9,7 @@ wordpress_id: 826
 categories:
 - music
 - news
-tags:
+tags: 
 - Arcade Fire
 - David Byrne
 - Dirty Projectors

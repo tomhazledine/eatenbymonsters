@@ -12,7 +12,7 @@ wordpress_id: 1798
 categories:
 - album
 - review
-tags:
+tags: 
 - Deptford Goth
 ---
 

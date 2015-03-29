@@ -11,7 +11,7 @@ wordpress_id: 1828
 categories:
 - album
 - review
-tags:
+tags: 
 - John Grant
 ---
 

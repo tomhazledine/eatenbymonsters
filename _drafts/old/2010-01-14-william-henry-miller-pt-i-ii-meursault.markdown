@@ -15,7 +15,7 @@ categories:
 - vinyl
 label:
 - Song by Toad Records
-tags:
+tags: 
 - Meursault
 - song by toad records
 - William Henry Miller Part 1

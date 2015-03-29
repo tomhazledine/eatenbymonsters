@@ -9,7 +9,7 @@ wordpress_id: 1012
 categories:
 - Alternative Christmas
 - music
-tags:
+tags: 
 - '6'
 - christmas
 - Run-D.M.C.

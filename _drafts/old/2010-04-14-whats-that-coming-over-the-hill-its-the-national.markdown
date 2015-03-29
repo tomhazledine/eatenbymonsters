@@ -11,7 +11,7 @@ categories:
 - news
 - review
 - single
-tags:
+tags: 
 - Bloodbuzz Ohio
 - Kentucky Pill
 - The National

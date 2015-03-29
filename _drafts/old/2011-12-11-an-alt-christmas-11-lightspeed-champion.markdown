@@ -9,7 +9,7 @@ wordpress_id: 1027
 categories:
 - Alternative Christmas
 - music
-tags:
+tags: 
 - '4'
 - christmas
 - Lightspeed Champion

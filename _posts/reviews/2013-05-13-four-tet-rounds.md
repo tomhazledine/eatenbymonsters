@@ -4,8 +4,8 @@ author: Tom
 date: 2013-05-13
 
 title: Four Tet | Rounds
-
-band: Four Tet
+tags:
+- "Four Tet"
 recordTitle: Rounds
 label: Domino
 recordFormat: album

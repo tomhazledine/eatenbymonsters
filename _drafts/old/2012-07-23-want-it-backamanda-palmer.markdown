@@ -9,7 +9,7 @@ wordpress_id: 1194
 categories:
 - music
 - single
-tags:
+tags: 
 - '6'
 - Amanda Palmer
 - Grand Theft Orchestra

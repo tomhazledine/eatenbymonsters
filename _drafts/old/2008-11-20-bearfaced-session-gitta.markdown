@@ -11,7 +11,7 @@ categories:
 - MetaBlog
 - music
 - Nifty Stuff
-tags:
+tags: 
 - Bearfaced Podcast
 - Bearfaced Session
 - Gitta

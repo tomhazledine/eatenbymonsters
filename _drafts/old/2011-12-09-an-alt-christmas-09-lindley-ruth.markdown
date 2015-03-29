@@ -10,7 +10,7 @@ wordpress_id: 1017
 categories:
 - Alternative Christmas
 - music
-tags:
+tags: 
 - '8'
 - christmas
 - Jordan Hull

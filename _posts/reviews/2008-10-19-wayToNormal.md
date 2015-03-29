@@ -4,8 +4,10 @@ author: Tom
 date: 2008-10-19
 
 title: Ben Folds | Way to Normal
-
-band: Ben Folds
+band:
+- "Ben Folds"
+tags:
+- Ben Folds
 recordTitle: Way to Normal
 <!-- label: ?? -->
 recordFormat: album

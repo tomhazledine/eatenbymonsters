@@ -9,7 +9,7 @@ wordpress_id: 1057
 categories:
 - Alternative Christmas
 - music
-tags:
+tags: 
 - '4'
 - christmas
 - They Might Be Giants

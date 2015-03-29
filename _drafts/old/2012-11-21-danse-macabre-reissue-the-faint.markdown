@@ -11,7 +11,7 @@ wordpress_id: 1356
 categories:
 - album
 - review
-tags:
+tags: 
 - the faint
 ---
 

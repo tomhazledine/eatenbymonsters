@@ -4,8 +4,8 @@ author: Tom
 date: 2013-06-15
 
 title: Listener | Time Is A Machine
-
-band: Listener
+tags:
+- Listener
 recordTitle: Time Is A Machine
 label: LABEL
 recordFormat: album

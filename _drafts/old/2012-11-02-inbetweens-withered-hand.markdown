@@ -9,7 +9,7 @@ wordpress_id: 1238
 categories:
 - EP
 - review
-tags:
+tags: 
 - Withered Hand
 ---
 

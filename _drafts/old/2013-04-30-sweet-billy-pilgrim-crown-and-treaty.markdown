@@ -12,7 +12,7 @@ wordpress_id: 1920
 categories:
 - album
 - review
-tags:
+tags: 
 - Sweet Billy Pilgrim
 ---
 
