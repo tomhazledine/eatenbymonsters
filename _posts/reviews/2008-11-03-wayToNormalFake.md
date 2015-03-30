@@ -5,9 +5,9 @@ date: 2008-11-03
 
 title: Ben Folds | Way to Normal [fake]
 band:
-- "Ben Folds"
+- Ben Folds
 tags:
-- BenFolds
+- Ben Folds
 recordTitle: Way to Normal [fake]
 label: Self-Released
 recordFormat: album

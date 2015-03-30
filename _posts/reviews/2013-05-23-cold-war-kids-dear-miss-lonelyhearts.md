@@ -4,12 +4,10 @@ author: Tom
 date: 2013-05-23
 
 title: Cold War Kids | Dear Miss Lonelyhearts
-<<<<<<< HEAD
 
 band: Cold War Kids
-=======
-tags: "Cold War Kids"
->>>>>>> 13be206bf841e76441c8cb47010d22c288ef5f74
+tags:
+- Cold War Kids
 recordTitle: Dear Miss Lonelyhearts
 label: Downtown
 recordFormat: album
@@ -25,15 +23,9 @@ excerpt: A shift of line-up yields good results on <strong>Cold War Kids’</str
   fourth album, <em>Dear Miss Lonelyhearts</em>.
 
 categories:
-<<<<<<< HEAD
-	- review
+- review
 
 audioLinks:
-	- name: Lost That Easy
-		url: http://eatenbymonsters/EbMBlog_mp3s/CWK_LostThatEasy.mp3
-	- name: Bottled Affection
-		url: http://eatenbymonsters/EbMBlog_mp3s/CWK_BottledAffection.mp3
-=======
 - review
 
 audioLinks:
@@ -41,7 +33,6 @@ audioLinks:
   url: http://eatenbymonsters/EbMBlog_mp3s/CWK_LostThatEasy.mp3
 - name: Bottled Affection
   url: http://eatenbymonsters/EbMBlog_mp3s/CWK_BottledAffection.mp3
->>>>>>> 13be206bf841e76441c8cb47010d22c288ef5f74
 ---
 
 This record kicks of with classic **Cold War Kids** swagger; furious piano-bashing and the maniacal air of a band who know what they do best, and are happy to revel in it. But to the discerning ear there are subtle hints that *Dear Miss Lonelyhearts* is _not_ business-as-usual for the band. For starters, the guitar work here sounds _massive_. One of **CWK’**s defining features has always been the angular, caustic nature of the guitar playing, but on this record — and particularly on opener *Miracle Mile* — the guitar sounds considerably more produced, more considered, more punchy. Where early **Cold War Kids** records went for the neck, this one aims for the gut.

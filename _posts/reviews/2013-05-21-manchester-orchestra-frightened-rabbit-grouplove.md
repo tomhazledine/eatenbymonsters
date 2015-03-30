@@ -9,10 +9,12 @@ band:
 - Manchester Orchestra
 - Frightened Rabbit
 - Grouplove
+
 tags:
 - Manchester Orchestra
 - Frightened Rabbit
 - Grouplove
+
 recordTitle: Split 12&Prime;
 label: Canvasback
 recordFormat: single

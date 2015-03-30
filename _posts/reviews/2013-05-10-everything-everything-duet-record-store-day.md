@@ -3,7 +3,7 @@ layout: review
 author: Tom
 date: 2013-05-10
 
-title: Everything Everything | Duet [RSD 7"]
+title: Everything Everything | Duet [RSD 7&Prime;]
 
 band: Everything Everything
 tags:
@@ -16,7 +16,7 @@ releaseDate: 2013-05-20
 buyItLink: http://www.amazon.co.uk/s/?_encoding=UTF8&camp=1634&creative=19450&field-keywords=everything%20everything%20duet&linkCode=ur2&tag=eatebymons-21&url=search-alias%3Daps
 buyItLinkTitle: Amazon
 
-miniDescription: Another Record Store Day exclusive: free ink!
+miniDescription: "Another Record Store Day exclusive: free ink!"
 hasExcerpt: true
 excerpt: <strong>Everything Everything</strong> give away part of their soul with
   their <strong>RSD</strong> vinyl release of <strong>Duet</strong>.

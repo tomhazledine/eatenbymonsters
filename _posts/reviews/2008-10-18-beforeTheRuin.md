@@ -7,7 +7,7 @@ title: Drever, McCusker, Woomble | Before the Ruin
 band:
 - "Drever, McCusker, Woomble"
 tags:
-- Drever McCusker Woomble
+- Drever, McCusker, Woomble
 recordTitle: Before the Ruin
 label: Navigator
 recordFormat: album

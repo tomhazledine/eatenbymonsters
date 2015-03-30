@@ -25,7 +25,7 @@ if (rnl_wrapper.length){
 
 // Get the Band List data initially
 function rnl_getStartList(){
-    $.getJSON('/search.json', function(data){
+    $.getJSON('/searchrecords.json', function(data){
         rnl_layout(data,"");
     })
     .always(function(){
@@ -38,7 +38,7 @@ function rnl_getStartList(){
 function rnl_getResults(term){
     // Show the loading image when AJAX starts
     rnl_loader.removeClass('hidden');
-    var initialLoad = $.getJSON('/search.json', function(data){
+    var initialLoad = $.getJSON('/searchrecords.json', function(data){
         rnl_layout(data,term);
     })
     .always(function(){
@@ -49,8 +49,6 @@ function rnl_getResults(term){
 
 // Parse the data array into HTML and inject it into the DOM
 function rnl_layout(array,term){
-
-    console.log(typeof array);
     
     // Rebuild array with search filtering
     
@@ -62,10 +60,29 @@ function rnl_layout(array,term){
         if (rnl_name.search(term) != -1) {
             // Build the <li> entries:
             output += '<li>';
-            output += '<a class="rnl_entry" href="' + array[i].link + '">';
+            output += '<a class="rnl_entry" href="' + array[i].url + '">';
             output += '<span class="rnl_title"><em>' + rnl_name + '</em></span>';
             output += '</a>';
-            output += '<span class="bandName"> by <strong>' + array[i].band + '</strong></span>';
+            output += '<span class="bandName"> by <strong>';
+            
+            // Count how many bands the post has
+            var bandNumber = array[i].bands.length;
+
+            if (bandNumber > 1 ) {
+                // If there's more than 1 band, loop through them as join with ", & "
+                for (var i2 = 0; i2 < bandNumber; i2++) {
+                    output += array[i].bands[i2].band;
+                    if ((i2+2) != bandNumber && (i2+2) < bandNumber) {
+                        output += ', ';
+                    } else if ((i2+1) != bandNumber && (i2+1) < bandNumber) {
+                        output += ', </strong>and<strong> ';
+                    }
+                }
+            } else {
+                output += array[i].bands[0].band;
+            }
+
+            output += '</strong></span>';
             output += '<div class="rnl_linksWrapper closed"></div>';
             output += '</li>';
         }

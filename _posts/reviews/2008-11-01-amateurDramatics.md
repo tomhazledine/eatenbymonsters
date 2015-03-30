@@ -7,7 +7,7 @@ title: Minotaur Shock | Amateur Dramatics
 band:
 - "Minotaur Shock"
 tags:
-- MinotaurShock
+- Minotaur Shock
 recordTitle: Amateur Dramatics
 label: Self-Released
 recordFormat: album

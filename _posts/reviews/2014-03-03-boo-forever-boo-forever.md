@@ -5,8 +5,7 @@ date: 2014-03-03 07:00:40+00:00
 
 title: Boo, Forever | Boo, Forever
 tags:
-- Boo Forever
-- A Test Band
+- Boo, Forever
 recordTitle: Boo, Forever
 label: Something Something
 recordFormat: album
