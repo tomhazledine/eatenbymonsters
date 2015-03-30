@@ -4,7 +4,10 @@ author: Tom
 date: YYYYDASHMMDASHDD
 
 title: BANDNAME | FULLTITLE
-tags: BANDNAME
+band:
+- BANDNAME
+tags:
+- BANDNAME
 recordTitle: FULLTITLE
 label: LABEL
 recordFormat: EP album single
@@ -18,9 +21,9 @@ hasExcerpt: true
 excerpt: REMEMBER_MARKUP
 
 categories:
-	- review
+- review
 
 audioLinks:
-	- name: XX
-		url: http://xx.mp3
+- name: XX
+  url: http://xx.mp3
 ---

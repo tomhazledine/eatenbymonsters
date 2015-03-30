@@ -67,7 +67,7 @@ function bl_layout(array,term){
             
             // Count how many posts the band has
             var postNumber = array[i].posts.length;
-            // Loop through them as join with ", & "
+            // Loop through them and echo out each one as a link
             for (var i2 = 0; i2 < postNumber; i2++) {
                 output += '<li> – ';
                 output += '<a href="';

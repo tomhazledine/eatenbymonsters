@@ -3,7 +3,7 @@ layout: post
 title: TITLE
 date: YYYYDASHMMDASHDD
 categories:
-	- comment
+- comment
 
 miniDescription: XX
 hasExcerpt: true
