@@ -6,7 +6,9 @@ date: 2013-05-10
 title: Everything Everything | Duet [RSD 7"]
 
 band: Everything Everything
-recordTitle: Duet [RSD 7"]
+tags:
+- Everything Everything
+recordTitle: Duet [RSD 7&Prime;]
 label: RCA Victor
 recordFormat: single
 releaseDate: 2013-05-20
@@ -20,7 +22,7 @@ excerpt: <strong>Everything Everything</strong> give away part of their soul wit
   their <strong>RSD</strong> vinyl release of <strong>Duet</strong>.
 
 categories:
-	- review
+- review
 ---
 
 Yep, you read it right, **Everything Everything** went ‘all out’ for *Record Store Day 2013* by taking the unprecedented step of scribbling on the cover of their latest **7"** single, *Duet*. Okay, joking aside this maybe isn't the most impressive of the ‘special editions’ that were released for **RSD** this year (or ever), but at least they're making _some_ effort for a good cause.

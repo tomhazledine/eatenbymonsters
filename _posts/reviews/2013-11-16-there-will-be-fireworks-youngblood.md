@@ -4,8 +4,8 @@ author: Tom
 date: 2013-11-16
 
 title: There Will Be Fireworks | Youngblood
-
-band: There Will Be Fireworks
+tags:
+- "There Will Be Fireworks"
 recordTitle: Youngblood
 label: Comets & Cartwheels
 recordFormat: single

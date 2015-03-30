@@ -4,8 +4,10 @@ author: Tom
 date: 2008-10-18
 
 title: Drever, McCusker, Woomble | Before the Ruin
-
-band: Drever, McCusker, Woomble
+band:
+- "Drever, McCusker, Woomble"
+tags:
+- Drever McCusker Woomble
 recordTitle: Before the Ruin
 label: Navigator
 recordFormat: album

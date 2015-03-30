@@ -4,8 +4,9 @@ author: Tom
 date: 2014-03-03 07:00:40+00:00
 
 title: Boo, Forever | Boo, Forever
-
-band: Boo, Forever
+tags:
+- Boo Forever
+- A Test Band
 recordTitle: Boo, Forever
 label: Something Something
 recordFormat: album
@@ -24,8 +25,8 @@ categories:
 - review
 
 audioLinks:
-	- name: Bones
-		url: http://somethingsomethingrecords.bandcamp.com/album/boo-forever
+- name: Bones
+  url: http://somethingsomethingrecords.bandcamp.com/album/boo-forever
 ---
 
 From their press release I get the impression that **Boo, Forever** are really proud that they sound like **Bon Iver**. It's not all that hard to understand, either; the last, eponymous, **Bon Iver** record was one of the best albums to have been made in the last few years, and there's no shame in having high ambitions. There's no denying, either, that **Boo, Forever** do a damn good impersonation. In *Bones* this ‘collective’ of lo-fi folktronicists have written one song, at least, that could well have come straight from the pen (and vocal chords) of Justin Vernon himself.

@@ -4,8 +4,9 @@ author: Tom
 date: 2014-02-27 11:16:36+00:00
 
 title: Kim Churchill | Fear The Fire
-
-band: Kim Churchill
+tags:
+- Kim Churchill
+- Broken Records
 recordTitle: Fear The Fire
 label: LABEL
 recordFormat: single

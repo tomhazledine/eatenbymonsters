@@ -161,8 +161,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/87"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 545,
 name: "Broken Records",
@@ -459,8 +458,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/535"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 547,
 name: "Boo Forever",
@@ -648,8 +646,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/534"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 548,
 name: "Kim Churchill",
@@ -883,8 +880,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/253"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 549,
 name: "Matthew and the Atlas",
@@ -1383,8 +1379,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/72"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 550,
 name: "Bellowhead",
@@ -1579,8 +1574,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/482"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 551,
 name: "Eliza and the Bear",
@@ -1860,8 +1854,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/532"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 552,
 name: "There Will Be Fireworks",
@@ -2127,8 +2120,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/category/terms/491"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 553,
 name: "Saint Raymond",
@@ -2323,8 +2315,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/529"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 555,
 name: "Emile Bernard",
@@ -2558,8 +2549,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/528"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 556,
 name: "Ablu",
@@ -2786,8 +2776,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/115"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 557,
 name: "Daughter",
@@ -4983,8 +4972,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/522"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 558,
 name: "Frightened Rabbit",
@@ -5970,8 +5958,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/170"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 558,
 name: "Frightened Rabbit",
@@ -8871,8 +8858,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/115"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 557,
 name: "Daughter",
@@ -9285,8 +9271,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/220"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 563,
 name: "Jonnie Common",
@@ -11270,8 +11255,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/115"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 557,
 name: "Daughter",
@@ -13358,8 +13342,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/220"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 563,
 name: "Jonnie Common",
@@ -14500,8 +14483,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/461"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 577,
 name: "Alt J",
@@ -16450,8 +16432,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/170"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 558,
 name: "Frightened Rabbit",
@@ -18699,8 +18680,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/390"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 557,
 name: "Daughter",
@@ -18984,8 +18964,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/290"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 564,
 name: "Admiral Fallow",
@@ -19597,8 +19576,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/category/terms/13"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 550,
 name: "Bellowhead",
@@ -21757,8 +21735,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/category/terms/13"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 558,
 name: "Frightened Rabbit",
@@ -21978,8 +21955,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/75"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 557,
 name: "Daughter",
@@ -22705,8 +22681,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/80"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 564,
 name: "Admiral Fallow",
@@ -23319,8 +23294,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/category/terms/19"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 558,
 name: "Frightened Rabbit",
@@ -24264,8 +24238,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/category/terms/19"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 575,
 name: "Bright Eyes",
@@ -25572,8 +25545,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/428"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 561,
 name: "Meursault",
@@ -27604,8 +27576,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/170"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 558,
 name: "Frightened Rabbit",
@@ -29873,8 +29844,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/174"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 558,
 name: "Frightened Rabbit",
@@ -31253,8 +31223,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/422"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 561,
 name: "Meursault",
@@ -31463,8 +31432,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/282"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 558,
 name: "Frightened Rabbit",
@@ -32882,8 +32850,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/281"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 561,
 name: "Meursault",
@@ -33049,8 +33016,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/299"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 558,
 name: "Frightened Rabbit",
@@ -35428,8 +35394,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/303"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 558,
 name: "Frightened Rabbit",
@@ -36605,8 +36570,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/413"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 550,
 name: "Bellowhead",
@@ -36847,8 +36811,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/170"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 558,
 name: "Frightened Rabbit",
@@ -37456,8 +37419,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/409"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 561,
 name: "Meursault",
@@ -38644,8 +38606,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/329"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 561,
 name: "Meursault",
@@ -40171,8 +40132,7 @@ version-history: "http://eatenbymonsters/wp-json/posts/128/revisions"
 }
 },
 featured_image: null,
-terms: {
-band: [
+terms: {tags:[
 {
 ID: 575,
 name: "Bright Eyes",
@@ -41481,8 +41441,7 @@ self: "http://eatenbymonsters/wp-json/taxonomies/post_tag/terms/423"
 }
 }
 }
-],
-band: [
+],tags:[
 {
 ID: 575,
 name: "Bright Eyes",

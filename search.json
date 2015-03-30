@@ -12,8 +12,9 @@ layout: null
         "recordTitle": "{{ post.recordTitle }}",
         "label": "{{ post.label }}",
         "recordFormat": "{{ post.recordFormat }}",
-        "miniDescription": "{{ post.miniDescription }}",
+        "miniDescription": "{{ post.miniDescription }}"{% if post.hasExcerpt == true %},
         "excerpt": "{{ post.excerpt | json }}"
+        {% endif %}
     }
     {% assign first = false %}
     {% endif %}

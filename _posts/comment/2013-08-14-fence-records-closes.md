@@ -3,7 +3,7 @@ layout: post
 title: Fence Records Closes
 date: 2013-08-14
 categories:
-	- comment
+- comment
 
 miniDescription: Fence Is Dead! Long Live Fence Mk II?
 hasExcerpt: true

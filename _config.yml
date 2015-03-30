@@ -11,7 +11,10 @@ github_username: tomhazledine
 permalink: /:title
 markdown: kramdown
 include: ['.htaccess']
-exclude: [sass/]
+exclude:
+- sass/
+- node_modules
+
 kramdown:
   auto_ids: false
 

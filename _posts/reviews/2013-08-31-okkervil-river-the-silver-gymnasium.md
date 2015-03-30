@@ -6,6 +6,8 @@ date: 2013-08-31
 title: Okkervil River | The Silver Gymnasium
 
 band: Okkervil River
+tags:
+- Okkervil River
 recordTitle: The Silver Gymnasium
 label: PIAS
 recordFormat: album
@@ -20,7 +22,7 @@ excerpt: With such a good history of writing great songs, I'd come to expect mor
   of <strong>Okkervil River</strong>.
 
 categories:
-	- review
+- review
 ---
 
 In all honesty, I can't bring myself to call this record ‘bad’, but by the same token neither can I call it ‘good’. **Okkervil River** have a very distinct and refined ‘sound’; of the five albums of theirs I own (including this, *The Silver Gymnasium*; their latest effort) there is barely a second amongst them that is not instantly identifiable as **Okkervil River**. And there's also no escaping the fact that it's a sound and image that aligns seamlessly with what I consider to be ’proper’ music. *The Silver Gymnasium*, like the records that preceded it, is a real band making real music with real instruments (a true mark of distinction in my eyes). **Okkervil River'**s music is taught and well-arranged, put together with care, skill and attention to detail, and yet still rough enough around the edges to be credible in this world of over-produced, over-dressed, and overly-melismatic drivel that pervades the airwaves and the populist imagination.

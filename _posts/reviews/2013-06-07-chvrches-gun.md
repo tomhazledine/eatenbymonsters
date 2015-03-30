@@ -6,6 +6,8 @@ date: 2013-06-07
 title: Chvrches | Gun
 
 band: Chvrches
+tags:
+- Chvrches
 recordTitle: Gun
 label: Universal
 recordFormat: single
@@ -20,11 +22,11 @@ excerpt: Darlings of the blogosphere, <strong>Chvrches</strong> unleash another 
   electro-pop masterclass.
 
 categories:
-	- review
+- review
 
 audioLinks:
-	- name: Gun
-		url: http://eatenbymonsters/EbMBlog_mp3s/Chvrches_Gun.mp3
+- name: Gun
+  url: http://eatenbymonsters/EbMBlog_mp3s/Chvrches_Gun.mp3
 ---
 
 The past three **Chvrches** singles were notable for their immediacy; *Lies*, *The Mother We Share*, and *Recover* were all instantly-accessible pop hits. This applies both in terms of medium _and_ construction: instantly available to stream on the ’net – emerging fully formed and universally embraced with the kind of fervour only the very best best hype-bands can manage – and instantly understandable from a musical perspective. There are no secrets of structure here, no complex mystery that has to be coaxed out over many listening sessions. This is pop music, plain and simple.

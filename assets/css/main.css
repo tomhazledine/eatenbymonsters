@@ -21,14 +21,14 @@ a::selection {
   font-weight: normal;
   font-style: normal; }
 
-.utilityButton.openDown:before, .hiddenSectionWrap:before, .mainMenu:before, .utilityButton.openDown:after, .hiddenSectionWrap:after, .mainMenu:after {
+.utilityButton.openDown:before, .hiddenSectionWrap:before, .mainMenu:before, .clearfix:before, .utilityButton.openDown:after, .hiddenSectionWrap:after, .mainMenu:after, .clearfix:after {
   content: ' ';
   display: table; }
 
-.utilityButton.openDown:after, .hiddenSectionWrap:after, .mainMenu:after {
+.utilityButton.openDown:after, .hiddenSectionWrap:after, .mainMenu:after, .clearfix:after {
   clear: both; }
 
-.utilityButton.openDown, .hiddenSectionWrap, .mainMenu {
+.utilityButton.openDown, .hiddenSectionWrap, .mainMenu, .clearfix {
   zoom: 1; }
 
 .genericButton, .utilityButton {
@@ -299,6 +299,31 @@ blockquote {
 
 .mainContent h2 {
   padding-bottom: 0.5em; }
+
+.hidden {
+  display: none !important;
+  visibility: hidden; }
+
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px; }
+
+.visuallyhidden.focusable:active, .visuallyhidden.focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto; }
+
+.invisible {
+  visibility: hidden; }
 
 .testWrap {
   width: 100%;

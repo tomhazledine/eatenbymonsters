@@ -4,8 +4,7 @@ author: Tom
 date: YYYYDASHMMDASHDD
 
 title: BANDNAME | FULLTITLE
-
-band: BANDNAME
+tags: BANDNAME
 recordTitle: FULLTITLE
 label: LABEL
 recordFormat: EP album single

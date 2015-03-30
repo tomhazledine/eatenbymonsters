@@ -6,6 +6,8 @@ date: 2013-05-13
 title: Four Tet | Rounds
 
 band: Four Tet
+tags:
+- Four Tet
 recordTitle: Rounds
 label: Domino
 recordFormat: album
@@ -20,13 +22,13 @@ excerpt: The tenth anniversary of <em>Rounds</em> sees <strong>Four Tet’</stro
   seminal ‘folktronica’ album reissued in a double vinyl set.
 
 categories:
-	- review
+- review
 
 audioLinks:
 - name: Hands
-	url: http://eatenbymonsters/EbMBlog_mp3s/FourTet_Hands.mp3
+  url: http://eatenbymonsters/EbMBlog_mp3s/FourTet_Hands.mp3
 - name: My Angel Rocks Back And Forth
-	url: http://eatenbymonsters/EbMBlog_mp3s/FourTet_MyAngel.mp3
+  url: http://eatenbymonsters/EbMBlog_mp3s/FourTet_MyAngel.mp3
 ---
 
 An appreciation of the music made by [**The Books**](http://rcm-uk.amazon.co.uk/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=eatebymons-21&o=2&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B0007XMKXU) is a source of much pleasure for me, but an inclination toward their complex conjunction of found-sound and exquisitely crafted acoustics was not something that came naturally; I had to be lead there, slowly and with baby steps. The first record that set me on the path was **Tunng’**s *Comments of the Inner Chorus*; intrigued by the ‘folktronica’ tag, their naïve juxtaposition of singer-songwriter tunesmithery and electronic noodling was just enough to make me overcome my innate distrust of any music made primarily with a computer.

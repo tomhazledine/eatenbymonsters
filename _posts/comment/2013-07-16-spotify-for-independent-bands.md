@@ -3,7 +3,7 @@ layout: post
 title: Spotify for Independent Bands
 date: 2013-07-16
 categories:
-	- comment
+- comment
 
 miniDescription: Nigel Godrich and Thom York hate Spotify. Should we, too? 
 hasExcerpt: true

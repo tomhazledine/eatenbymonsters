@@ -6,6 +6,8 @@ date: 2013-07-26
 title: The Naked And Famous | Hearts Like Ours
 
 band: The Naked And Famous
+tags:
+- The Naked And Famous
 recordTitle: Hearts Like Ours
 label: Universal
 recordFormat: single
@@ -21,7 +23,7 @@ excerpt: <strong>The Naked And Famous</strong> mark the announcement of a new al
   record, but that's no bad thing.
 
 categories:
-	- review
+- review
 ---
 
 When the world first became aware of **The Naked And Famous** it was easy to dismiss them as all style and no substance. Their breakthrough single *Young Blood* was an infectious shot of over-produced indie rock that bypassed any cerebral functions and aimed straight for your hind-brain. The metronomic rhythm section, the distorted primary-colours synth hook, the “oh-yeah-a-yeah-a-yeah-a-yeah”s all hinted at a future career full of advertising synchs and drivetime radio appearances.

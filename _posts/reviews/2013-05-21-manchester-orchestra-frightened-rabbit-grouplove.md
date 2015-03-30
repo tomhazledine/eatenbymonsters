@@ -3,13 +3,17 @@ layout: review
 author: Tom
 date: 2013-05-21
 
-title: Manchester Orchestra | Frightened Rabbit & Grouplove Split 12"
+title: Manchester Orchestra | Frightened Rabbit & Grouplove Split 12&Prime;
 
 band:
 - Manchester Orchestra
 - Frightened Rabbit
 - Grouplove
-recordTitle: Split 12"
+tags:
+- Manchester Orchestra
+- Frightened Rabbit
+- Grouplove
+recordTitle: Split 12&Prime;
 label: Canvasback
 recordFormat: single
 releaseDate: 2013-05-21
@@ -21,7 +25,7 @@ hasExcerpt: true
 excerpt: <strong>Manchester Orchestra</strong> team up with <strong>Grouplove</strong> and <strong>EbM</strong>-favourites <strong>Frightened Rabbit</strong> for a special Record Store Day vinyl.
 
 categories:
-	- review
+- review
 ---
 
 At times I worry this site is become a [**Frightened Rabbit** fan-page](http://eatenbymonsters/?s=frightened+rabbit), as whenever they release anything it tends to drown out other records. But if this blog is anything at all, it's a reflection of what I'm listening to and what I'm enjoying; to hide my fandom under a bushel would be to defeat the point. I _do_ like **Manchester Orchestra** – the lynchpin of this two-track 12" – on his own merit, but probably wouldn't have shelled out for this [Record Store Day special release](http://www.recordstoreday.co.uk/) had it not had the **FR** name on the cover.

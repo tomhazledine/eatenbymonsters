@@ -6,6 +6,8 @@ date: 2013-07-08
 title: The Young Knives | Oh Happiness
 
 band: The Young Knives
+tags:
+- The Young Knives
 recordTitle: Oh Happiness
 label: Gadzook
 recordFormat: EP
@@ -22,7 +24,7 @@ excerpt: Feeling hamstrung by the commercial and artistic limitations of the mus
   reap the benefits.
 
 categories:
-	- review
+- review
 ---
 
 The [**Young Knives**](http://www.young-knives.com/) are, one would assume, a successful band. They've had a fair bit of national **TV** coverage, a few high-profile licensing synchs, and most tellingly, their first two albums were released by major-indie Transgressive. But appearances can be deceptive and despite the veneer of comfortable mid-league success, the **Young Knives** were not as happy with the arrangement as an outsider might have assumed.

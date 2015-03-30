@@ -4,8 +4,8 @@ author: Tom
 date: 2014-03-11
 
 title: Broken Records | Toska
-
-band: Broken Records
+tags:
+- Broken Records
 recordTitle: Toska
 label: Self-released
 recordFormat: EP

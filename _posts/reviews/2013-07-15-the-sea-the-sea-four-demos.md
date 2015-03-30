@@ -6,6 +6,8 @@ date: 2013-07-15
 title: The Sea The Sea | Four Demos
 
 band: The Sea The Sea
+tags:
+- The Sea The Sea
 recordTitle: Four Demos
 label: Self Released
 recordFormat: EP
@@ -20,7 +22,7 @@ excerpt: If these demos are anything to go by, Oxford-based quintet <strong>The 
   The Sea</strong> are surely on the brink of making a five-star record.
 
 categories:
-	- review
+- review
 ---
 
 **The Sea The Sea** are an indie five-piece from Oxford who are hoping to be the next great band to hail from the dreaming spires. This **EP**, called *Four Demos*, contains – wait for it! – four demos. It might be easy to pour scorn on an uninspired choice of name, but hold your horses for just a second, because their **EP** title is more savvy that it first appears.

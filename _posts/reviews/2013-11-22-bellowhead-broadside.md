@@ -4,8 +4,8 @@ author: Tom
 date: 2013-11-22
 
 title: Bellowhead | Broadside
-
-band: Bellowhead
+tags:
+- Bellowhead
 recordTitle: Broadside
 label: Navigator
 recordFormat: album

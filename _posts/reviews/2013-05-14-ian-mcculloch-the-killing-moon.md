@@ -6,6 +6,8 @@ date: 2013-05-14
 title: Ian McCulloch | The Killing Moon
 
 band: Ian McCulloch
+tags:
+- Ian McCulloch
 recordTitle: The Killing Moon
 label: Demon
 recordFormat: single
@@ -17,15 +19,15 @@ buyItLinkTitle: Amazon
 miniDescription: A nice curiosity for any Bunnymen fans out there.
 hasExcerpt: true
 excerpt: Former <strong>Echo And The Bunnymen</strong> frontman releases a live version
-  of classic track <em>The Killing Moon</em> on <strong>7"</strong> for Record
+  of classic track <em>The Killing Moon</em> on <strong>7&Prime;</strong> for Record
   Store Day.
 
 categories:
-	- review
+- review
 
 audioLinks:
-	- name: The Killing Moon
-		url: http://eatenbymonsters/EbMBlog_mp3s/TheKillingMoon.mp3
+- name: The Killing Moon
+  url: http://eatenbymonsters/EbMBlog_mp3s/TheKillingMoon.mp3
 ---
 
 In May last year, **Ian M**c**Culloch** — late of **Echo And The Bunnymen** — had some fun mucking about with a string quartet at London’s premier venue for ‘mature’ rock musicians, Union Chapel. That concert was evidently recorded for posterity and is now seeing itself  released as a live album. To advertise the fact, and to show a little love for independent record shops, **M**c**Culloch** has put out a nifty little **7"** under the Record Store Day banner, containing two songs from that concert.
