@@ -5,7 +5,7 @@ var rnl_searchInput = $('#rnl_searchInput')
 var bandList = 'empty';
 var rnl_loader = $('.loadingImage');
 
-// If there is a "band list" element on the page...
+// If there is a "record names list" element on the page...
 if (rnl_wrapper.length){
     
     // Load the un-filtered AJAX results
@@ -23,7 +23,7 @@ if (rnl_wrapper.length){
 
 }
 
-// Get the Band List data initially
+// Get the Record Names List data initially
 function rnl_getStartList(){
     $.getJSON('/searchrecords.json', function(data){
         rnl_layout(data,"");
@@ -34,7 +34,7 @@ function rnl_getStartList(){
     });
 }
 
-// Get the Band List data when there is a Search Term
+// Get the Record Names data when there is a Search Term
 function rnl_getResults(term){
     // Show the loading image when AJAX starts
     rnl_loader.removeClass('hidden');
@@ -69,7 +69,7 @@ function rnl_layout(array,term){
             var bandNumber = array[i].bands.length;
 
             if (bandNumber > 1 ) {
-                // If there's more than 1 band, loop through them as join with ", & "
+                // If there's more than 1 band, loop through them and join with ", & "
                 for (var i2 = 0; i2 < bandNumber; i2++) {
                     output += array[i].bands[i2].band;
                     if ((i2+2) != bandNumber && (i2+2) < bandNumber) {
