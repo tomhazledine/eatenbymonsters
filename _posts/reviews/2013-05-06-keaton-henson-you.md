@@ -16,7 +16,7 @@ releaseDate: 2013-05-06
 buyItLink: http://www.keatonhenson.com/
 buyItLinkTitle: Band's website
 
-miniDescription: Delicate, warped, fragile: and that's just the record itself!
+miniDescription: Delicate, warped, fragile. And that's just the record itself!
 hasExcerpt: true
 excerpt: <strong>Keaton Henson</strong> treats us to another piece of his love-lorn
   whimsy with his latest single, <em>You</em>. Another Record Store

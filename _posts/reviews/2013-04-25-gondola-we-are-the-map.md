@@ -16,10 +16,9 @@ releaseDate: 2013-04-25
 buyItLink: http://gondolamusic.bandcamp.com/
 buyItLinkTitle: Bandcamp
 
-miniDescription: This is more like it: real music on real instruments, and it's really good.
+miniDescription: This is more like it. Real music on real instruments, and it's really good.
 hasExcerpt: true
-excerpt: <strong>Gondola</strong> run the gamut from breezy acoustic pop to rowdy
-  indie with an assured deftness that's never less than charming.
+excerpt: <strong>Gondola</strong> run the gamut from breezy acoustic pop to rowdy ndie with an assured deftness that's never less than charming.
 
 categories:
 - review
