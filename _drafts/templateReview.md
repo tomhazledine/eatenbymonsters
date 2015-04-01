@@ -11,7 +11,7 @@ tags:
 recordTitle: FULLTITLE
 label: LABEL
 recordFormat: EP album single
-releaseDate: YYYDASHMMDASHDD
+releaseDate: YYYYDASHMMDASHDD
 
 buyItLink: http://XX.com/
 buyItLinkTitle: XX
