@@ -4,8 +4,10 @@ author: Tom
 date: 2013-11-20
 
 title: Eliza And The Bear | It Gets Cold
+band:
+- Eliza And The Bear
 tags:
-- "Eliza And The Bear"
+- Eliza And The Bear
 recordTitle: It Gets Cold
 label: Generator
 recordFormat: single
@@ -16,8 +18,7 @@ buyItLinkTitle: Soundcloud
 
 miniDescription: Can Eliza and the Bear live up to their early promise?
 hasExcerpt: true
-excerpt: <strong>It Gets Cold</strong> is the new single from Eaten by Monsters favourites
-  <strong>Eliza and the Bear</strong>, and it&#8217;s just as good as their last one.
+excerpt: <em>It Gets Cold</em> is the new single from Eaten by Monsters favourites <strong>Eliza and the Bear</strong>, and it&#8217;s just as good as their last one.
 
 categories:
 - review
