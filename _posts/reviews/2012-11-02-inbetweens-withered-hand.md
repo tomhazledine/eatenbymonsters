@@ -29,27 +29,9 @@ audioLinks:
   url: http://www.eatenbymonsters.com/EbMBlog_mp3s/WitheredHand/WH_WonderfulLie.mp3
 - name: It's A Wonderful Lie (old version)
   url: http://www.bearfacedrecords.com/EbMBlog_mp3s/Christmas/WitheredHand_ItsAWonderfulLie.mp3
-
-soundcloud:
-- FULL_URL
 ---
 
----
-author: Tom
-comments: true
-date: 2012-11-02 00:45:50+00:00
-layout: post
-slug: inbetweens-withered-hand
-title: 'Inbetweens: Withered Hand'
-wordpress_id: 1238
-categories:
-- EP
-- review
-tags: 
-- Withered Hand
----
-
-![Inbetweens EP cover](http://eatenbymonsters.files.wordpress.com/2012/11/withered-hand-inbetweens.png)](http://eatenbymonsters.files.wordpress.com/2012/11/withered-hand-inbetweens.png)
+![Inbetweens EP cover](http://eatenbymonsters.files.wordpress.com/2012/11/withered-hand-inbetweens.png)
 
 Moving on from all the **7**"s that have been covered on these pages lately, here's a **10**" **EP** from **EbM** favourites **Withered Hand**. While the last **WH** release - the [_Heart Heart_](http://eatenbymonsters.wordpress.com/2012/02/25/heart-heart-withered-hand/) **7**" that came out in Feb. - represented a new direction for Dan Wilson's project, _Inbetweens_ is more representative of **Withered Hand's** general sound. What I've always loved about **WH**, and which was perhaps slightly lacking in _Heart Heart_, is his ability to take the generic setup of acoustic guitar and crackly voice and turn it into something ultimately rather esoteric. Aside from his distinctive voice, there's nothing overtly groundbreaking in the aesthetics of WH's recorded output, but it does serve as a fine canvas to perfectly showcase the quality of the songwriting; to the point where his  **2009** **LP** has been slowly creeping to the top of my all-time favourite albums list.
 
