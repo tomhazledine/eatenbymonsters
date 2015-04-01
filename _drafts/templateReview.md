@@ -13,7 +13,7 @@ label: LABEL
 recordFormat: EP album single
 releaseDate: YYYYDASHMMDASHDD
 
-buyItLink: http://XX.com/
+buyItLink: FULL_URL
 buyItLinkTitle: XX
 
 miniDescription: XX
@@ -25,5 +25,10 @@ categories:
 
 audioLinks:
 - name: XX
-  url: http://xx.mp3
+  url: FULL_URL
+- name: XX
+  url: FULL_URL
+
+soundcloud:
+- FULL_URL
 ---
