@@ -29,28 +29,6 @@ audioLinks:
   url: http://www.bearfacedrecords.com/EbMBlog_mp3s/Meursault/Meursault_AFewKindWords.mp3
 ---
 
----
-author: Tom
-comments: true
-date: 2008-11-21 10:00:35+00:00
-layout: post
-slug: pissing-on-bonfireskissing-with-tongues-meursault
-title: 'Pissing on Bonfires/Kissing With Tongues: Meursault'
-wordpress_id: 206
-band:
-- Meursault
-categories:
-- music
-- review
-label:
-- Song by Toad Records
-tags: 
-- '9'
-- Meursault
-- pissing on bonfires kissing with tongues
-- song by toad records
----
-
 ![Pissing on Bonfires/Kissing With Tongues](http://eatenbymonsters.files.wordpress.com/2008/11/meursault_pissingkissingcover.jpg)
 
 I don't know if anyone else feels this, but it seems to me that really good records are few and far between. I don't even mean _great_ records; just good ones. By good, in this context, I mean a record that can stand up to repeat listening and that delivers on all fronts - technical ability of the players, the quality of the songs, the production values, everything. Sure, a new album can impress on first listening, but does it still sound as engaging ten or twenty listens down the line? Sadly, the answer is often no.
