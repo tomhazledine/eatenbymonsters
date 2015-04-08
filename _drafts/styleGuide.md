@@ -13,3 +13,8 @@ Copy should ideally be run through the Hemingway app to check for *passive voice
 
 Arabic numerals (**0**–**9**) should be written in **bold** (because the small caps font includes old-style/text figures), except when used as tabular data.
 
+### Overused Phrases:
+
+* EbM favourites
+* I await their next release with much anticipation
+
