@@ -5,11 +5,9 @@ date: 2013-05-01
 
 title: Snowstar Records | 10 Year Anniversary Compilation
 band:
-- Snowstar Records
 - Kim Janssen
 - I Am Oak
 tags:
-- Snowstar Records
 - Kim Janssen
 - I Am Oak
 recordTitle: 10 Year Anniversary Compilation

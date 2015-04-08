@@ -1,22 +1,12 @@
 ---
-author: Tom
-comments: true
-date: 2010-01-20 14:43:16+00:00
 layout: post
-slug: remixes-eurgh
 title: Remixes = eurgh!
-wordpress_id: 540
+date: 2010-01-20
 categories:
 - comment
-- misc.
-- music
-- review
-tags: 
-- BbopNRokstedy
-- Jeremy Warmsley
-- Miyauchi Yuri
-- Phoenix
-- remix
+
+hasExcerpt: false
+excerpt: REMEMBER_MARKUP
 ---
 
 I may be in danger of alienating some readers here, but I really don't see the appeal of remixes.  I know a decent proportion of you will have been directed here from [*The Hype Machine*](http://hypem.com/) - where remixes seem to be quite popular - so I guess a fair few of you are remix-connoisseurs, but I just don't understand it myself.  Now don't get me wrong, a good remix can be an enjoyable listening experience, but stumbling upon the mythic beast that is a "good remix" is a very uncommon occurrence. It seems to me that **99%** of them are just plain rubbish. Of course, the joy of being a music blog is that I can bombard you with examples of both good and bad remixes, and I certianly intend to do just that...

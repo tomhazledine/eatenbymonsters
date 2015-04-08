@@ -1,18 +1,25 @@
 ---
+layout: review
 author: Tom
-comments: true
-date: 2011-01-14 11:32:09+00:00
-layout: post
-slug: ones-to-watch-for-2011-the-vaccines
-title: 'Ones to Watch for 2011?: The Vaccines'
-wordpress_id: 797
-categories:
-- music
-- ones to watch
-tags: 
-- BBC
-- Sound of 2011
+date: 2011-01-14
+
+title: The Vaccines | Ones to Watch for 2011?
+band:
 - The Vaccines
+- Claire Maguire
+- Jamie Woon
+- James Blake
+tags:
+- The Vaccines
+- Claire Maguire
+- Jamie Woon
+- James Blake
+
+hasExcerpt: false
+excerpt: REMEMBER_MARKUP
+
+categories:
+- review
 ---
 
 ![](http://eatenbymonsters.files.wordpress.com/2011/01/thevaccines.png?w=300)
@@ -45,6 +52,3 @@ Against this morass of iniquity, London-based indie quartet [**The Vaccines**](h
 Bands have been making this sort of music since sex was first discovered in the sixties, and if you were to drop **The Vaccines** into any point in the last decade nobody would have batted an eyelid; **The Vaccines** are the concept of "indie" as an aesthetic writ large.  But maybe that's enough? There are, after all, only twelve notes - and in the world of pop there's only really three chords - so what if they are re-treading old ground? Is that reason enough to begrudge them their success?
 
 I know many people who would say yes, it is - particularly in this instance when the music being made is so derivative - and in my more cold-hearted moments I would be inclined to agree.  But perhaps it's the optimism of the new year, perhaps it's the heady promise of spring-just-around-the-corner, or perhaps it's merely just because they're simply the lesser of quite a few evils, but whatever the reason, I'm inclined to give The Vaccines the benefit of the doubt and say that they really are a "one to watch" for the coming year.
-
-If You Wanna (Marc Riley session)
-http://www.bearfacedrecords.com/EbMBlog_mp3s/OnesToWatch/TheVaccines_IfYouWanna_live.mp3
