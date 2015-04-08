@@ -13,8 +13,13 @@ Copy should ideally be run through the Hemingway app to check for *passive voice
 
 Arabic numerals (**0**–**9**) should be written in **bold** (because the small caps font includes old-style/text figures), except when used as tabular data.
 
+### Misc Grammar rules
+* favour English spelling, using OED as ultimate reference
+* tonne not ton
+
 ### Overused Phrases:
 
 * EbM favourites
 * I await their next release with much anticipation
+* If I'm honest
 

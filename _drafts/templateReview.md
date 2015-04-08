@@ -31,4 +31,7 @@ audioLinks:
 
 soundcloud:
 - FULL_URL
+
+youtube:
+- FULL_URL
 ---
