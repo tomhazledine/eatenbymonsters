@@ -16,8 +16,7 @@ buyItLinkTitle: Label Site
 
 miniDescription: This has made me really angry
 hasExcerpt: true
-excerpt: <strong>There Will Be Fireworks</strong> have simultaneously released one
-  of the best songs of the year <em>and</em> convinced me that they're bloody idiots.
+excerpt: <strong>There Will Be Fireworks</strong> have simultaneously released one of the best songs of the year <em>and</em> convinced me that they're bloody idiots.
 
 categories:
 - review
