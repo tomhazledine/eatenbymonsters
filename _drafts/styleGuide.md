@@ -22,4 +22,8 @@ Arabic numerals (**0**–**9**) should be written in **bold** (because the small
 * EbM favourites
 * I await their next release with much anticipation
 * If I'm honest
+* Dark
+* Edgy
+* Stylish
+* Sexy
 
