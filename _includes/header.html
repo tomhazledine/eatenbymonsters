@@ -1,17 +1,25 @@
 <header class="mainHeader">
+    
+    <div class="logo">
+        <a href="{{ site.baseurl }}/" class="siteTitle">EBM</a>
+    </div>
+
+    <button id="mobileNavToggle" class="navToggle"><span class="navicon"></span><span class="visuallyhidden">Menu</span></button>
+    
     <nav>
-        <ul class="mainMenu">
-            <li><a class="siteTitle" href="{{ site.baseurl }}/">{{ site.title }}</a></li>
+        <ul id="mainMenu" class="mainMenu">
 
             {% for page in site.pages %}
                 {% if page.title %}
                     <li>
                         <a href="{{ page.url | prepend: site.baseurl }}">
-                            {% if page.shortTitle%}
-                                {{ page.shortTitle }}
-                            {% else %}
-                                {{ page.title }}
-                            {% endif %}
+                            <span class="menuLinkInner">
+                                {% if page.shortTitle%}
+                                    {{ page.shortTitle }}
+                                {% else %}
+                                    {{ page.title }}
+                                {% endif %}
+                            </span>
                         </a>
                     </li>
                 {% endif %}

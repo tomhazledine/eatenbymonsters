@@ -4,6 +4,8 @@ author: Tom
 date: 2014-03-03 07:00:40+00:00
 
 title: Boo, Forever | Boo, Forever
+band:
+- Boo, Forever
 tags:
 - Boo, Forever
 recordTitle: Boo, Forever
