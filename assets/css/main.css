@@ -271,32 +271,33 @@ blockquote {
   z-index: 3;
   -webkit-box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 -1px;
           box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 -1px; }
-  .navToggle:hover {
-    -webkit-animation: buttonPulse 2s infinite;
-            animation: buttonPulse 2s infinite; }
   .navToggle:focus {
     outline: none; }
   .navToggle.open {
     background: #7fbbcb; }
+
+.mainHeader:hover .navToggle {
+  -webkit-animation: buttonPulse 4s infinite;
+          animation: buttonPulse 4s infinite; }
 
 @-webkit-keyframes buttonPulse {
   0% {
     -webkit-box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 -1px;
             box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 -1px; }
 
-  15% {
+  10% {
     -webkit-box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 10px;
             box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 10px; }
 
-  30% {
+  20% {
     -webkit-box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 -1px;
             box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 -1px; }
 
-  45% {
+  30% {
     -webkit-box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 10px;
             box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 10px; }
 
-  60% {
+  40% {
     -webkit-box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 -1px;
             box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 -1px; }
 
@@ -309,19 +310,19 @@ blockquote {
     -webkit-box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 -1px;
             box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 -1px; }
 
-  15% {
+  10% {
     -webkit-box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 10px;
             box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 10px; }
 
-  30% {
+  20% {
     -webkit-box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 -1px;
             box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 -1px; }
 
-  45% {
+  30% {
     -webkit-box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 10px;
             box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 10px; }
 
-  60% {
+  40% {
     -webkit-box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 -1px;
             box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 -1px; }
 
