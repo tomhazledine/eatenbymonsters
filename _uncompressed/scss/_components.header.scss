@@ -17,7 +17,7 @@
   position:relative;
   transition:left,width;
   transition-duration:.2s;
-  width:3em;
+  width:3.2em;
   font-size:1em;
   @extend %cf;
   &:hover{
@@ -40,17 +40,22 @@
   transition-duration:.2s;
   &.letterE{
     width:.6em;
+    margin-right:.05em;
+    // background:$yellow;
   }
   &.letterB{
     width:.6em;
+    letter-spacing:1px;
+    // background:$blue;
   }
   &.letterM{
-    width:.8em;
+    width:.85em;
+    // background:$orange;
   }
 }
 .siteTitle:hover{
   // left:.4em;
-  width:9.7em;
+  width:9.8em;
   .logoInitial{
     &.letterE{
       width:3em;
