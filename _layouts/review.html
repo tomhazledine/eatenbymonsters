@@ -11,7 +11,12 @@ layout: default
 </h1>
 
 <span class="postMetaIntro">
-    Thoughts about <span class="recordTitle">{{ page.recordTitle }}</span>, <span class="formatPre">{% if page.recordFormat %}an</span> <span class="recordFormat">{{ page.recordFormat }}</span> {% endif %}by <span class="recordArtist">{{ page.band }}.</span>
+    {% if page.recordFormat == 'single' %}
+        {% assign formatArticle = 'a' %}
+    {% else %}
+        {% assign formatArticle = 'an' %}
+    {% endif %}
+    Thoughts about <span class="recordTitle">{{ page.recordTitle }}</span>, <span class="formatPre">{% if page.recordFormat %}{{ formatArticle }}</span> <span class="recordFormat">{{ page.recordFormat }}</span> {% endif %}by <span class="recordArtist">{{ page.band }}.</span>
 </span>
 
 <div class="hiddenSectionWrap">
