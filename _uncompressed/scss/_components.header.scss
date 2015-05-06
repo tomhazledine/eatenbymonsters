@@ -13,7 +13,12 @@
   line-height:1;
   padding:.5em .5em 0 .5em;
   display:inline-block;
-  height:1em;
+  height:1.5em;
+  position:relative;
+  transition:left,width;
+  transition-duration:.2s;
+  width:3em;
+  font-size:1em;
   @extend %cf;
   &:hover{
     background:inherit;
@@ -21,11 +26,13 @@
 }
 
 .logoInitial{
+  font-size:1em;
   display:block;
   height:1em;
   line-height:1;
   // background:$yellow;
   width:1em;
+  // left:0;
   float:left;
   overflow:hidden;
   text-align:left;
@@ -42,6 +49,8 @@
   }
 }
 .siteTitle:hover{
+  // left:.4em;
+  width:9.7em;
   .logoInitial{
     &.letterE{
       width:3em;
@@ -102,7 +111,11 @@
 }
 
 .mainHeader:hover .navToggle{
-  animation:buttonPulse 4s infinite;
+  // animation:buttonPulse 4s infinite;
+}
+.mainHeader .navToggle:hover{
+  animation:none;
+  box-shadow:rgba($primary,.3) 0 0 0 10px;
 }
 
 @keyframes buttonPulse{

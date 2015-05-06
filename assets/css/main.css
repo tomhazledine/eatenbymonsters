@@ -257,11 +257,19 @@ blockquote {
   line-height: 1;
   padding: 0.5em 0.5em 0 0.5em;
   display: inline-block;
-  height: 1em; }
+  height: 1.5em;
+  position: relative;
+  -webkit-transition: left, width;
+          transition: left, width;
+  -webkit-transition-duration: 0.2s;
+          transition-duration: 0.2s;
+  width: 3em;
+  font-size: 1em; }
   .siteTitle:hover {
     background: inherit; }
 
 .logoInitial {
+  font-size: 1em;
   display: block;
   height: 1em;
   line-height: 1;
@@ -280,12 +288,14 @@ blockquote {
   .logoInitial.letterM {
     width: 0.8em; }
 
-.siteTitle:hover .logoInitial.letterE {
-  width: 3em; }
-.siteTitle:hover .logoInitial.letterB {
-  width: 1.4em; }
-.siteTitle:hover .logoInitial.letterM {
-  width: 4.3em; }
+.siteTitle:hover {
+  width: 9.7em; }
+  .siteTitle:hover .logoInitial.letterE {
+    width: 3em; }
+  .siteTitle:hover .logoInitial.letterB {
+    width: 1.4em; }
+  .siteTitle:hover .logoInitial.letterM {
+    width: 4.3em; }
 
 .navToggle {
   padding: 10px;
@@ -306,9 +316,11 @@ blockquote {
   .navToggle.open {
     background: #7fbbcb; }
 
-.mainHeader:hover .navToggle {
-  -webkit-animation: buttonPulse 4s infinite;
-          animation: buttonPulse 4s infinite; }
+.mainHeader .navToggle:hover {
+  -webkit-animation: none;
+          animation: none;
+  -webkit-box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 10px;
+          box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 10px; }
 
 @-webkit-keyframes buttonPulse {
   0% {
