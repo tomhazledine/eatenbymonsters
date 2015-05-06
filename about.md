@@ -6,6 +6,7 @@ permalink: /about/
 intro: "<strong>Eaten by Monsters<strong> is a name that’s been applied to many things thus far, so I guess an explanation might be in order."
 menuTitle: About Eaten by Monsters
 mainMenu: true
+footerMenu: true
 ---
 
 Many moons ago I used to play in a band called **Eaten by Monsters**. We had a few reviews, mostly good, some indifferent and a few outright nasty, but we never really took off in the way we had hoped (I have, to this day, yet to headline the main stage at Glastonbury). The band is long-dead, but this website – which began back in **2008** as a university project – has long since become the more successful of the ventures to bear the **Eaten by Monsters** name, and has thus inherited the prestigious .**com** domain.

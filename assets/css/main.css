@@ -145,16 +145,16 @@ blockquote {
       margin: 0 0 1em 0; } }
 
 .mainWrap {
-  margin: 0.5em 4em 3em 4em;
+  margin: 0.5em 4em 0.5em 4em;
   padding: 6em 1em;
   background: #fff8d8; }
   @media (max-width: 750px) {
     .mainWrap {
-      margin: 0.5em 2em 1.5em 2em;
+      margin: 0.5em 2em 0.5em 2em;
       padding: 4em 1em; } }
   @media (max-width: 400px) {
     .mainWrap {
-      margin: 0.5em 1em 1em 1em;
+      margin: 0.5em 1em 0.5em 1em;
       padding: 2em 1em; } }
 
 .genericButton {
@@ -508,6 +508,52 @@ blockquote {
 
 .mainContent h2 {
   padding-bottom: 0.5em; }
+
+.footerMenu {
+  display: block;
+  padding: 0 1em;
+  text-align: center; }
+  .footerMenu li {
+    font-family: "ff-meta-sc-web-pro", "ff-meta-web-pro", "Helvetica Neue", helvetica, arial, sans-serif;
+    text-transform: lowercase;
+    letter-spacing: 0.05em;
+    display: inline-block;
+    margin-right: 1.5em; }
+    .footerMenu li:last-of-type {
+      margin-right: 0; }
+    @media (max-width: 400px) {
+      .footerMenu li {
+        margin-right: 0;
+        display: block; } }
+    .footerMenu li a {
+      font-size: 0.7em;
+      display: block;
+      line-height: 1;
+      padding: 0.2em 0; }
+      .footerMenu li a:hover {
+        background: inherit;
+        -webkit-box-shadow: #7fbbcb 0 0.2em 0 0;
+                box-shadow: #7fbbcb 0 0.2em 0 0; }
+      @media (max-width: 400px) {
+        .footerMenu li a {
+          margin-right: 0;
+          display: block;
+          font-size: 1em; }
+          .footerMenu li a:hover {
+            -webkit-box-shadow: none;
+                    box-shadow: none; } }
+
+.credits {
+  font-size: 0.7em;
+  font-family: "ff-meta-sc-web-pro", "ff-meta-web-pro", "Helvetica Neue", helvetica, arial, sans-serif;
+  text-transform: lowercase;
+  text-align: center;
+  display: block;
+  padding: 0.5em 0 1em 0; }
+  @media (max-width: 400px) {
+    .credits {
+      font-size: 1em;
+      padding-top: 1em; } }
 
 .hidden {
   display: none !important;

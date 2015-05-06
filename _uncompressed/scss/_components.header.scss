@@ -68,27 +68,6 @@
     }
   }
 }
-// .logoSpan{
-//   display:inline-block;
-//   // line-height:1;
-//   height:1em;
-//   background:$green;
-//   top:0;
-// }
-// .seeLogo{
-
-// }
-// .hideLogo{
-//   overflow:hidden;
-//   max-width:0;
-//   transition:max-width;
-//   transition-duration:.4s;
-// }
-// .siteTitle:hover{
-//   .hideLogo{
-//     max-width:10em;
-//   }
-// }
 
 .navToggle{
   @extend %buttonReset;

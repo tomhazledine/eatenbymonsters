@@ -1,65 +1,50 @@
-footer{
-	background:$blueMid;
-}
-.footerInner{
-	@extend %mainWrap;
-	padding:2em 0;
-	h3{
-		font-size:1.2em;
-		padding-bottom:.5em;
-	}
-	a{text-decoration:none;}
-	.footerBlock{
-		font-size:.8em;
-		line-height:1.4em;
+.footerMenu{
+	display:block;
+	padding:0 1em;
+	text-align:center;
+	li{
+		font-family:$caps;
+		text-transform:lowercase;
+		letter-spacing:.05em;
+		display:inline-block;
+		margin-right:1.5em;
+		&:last-of-type{margin-right:0;}
+		@include bp(d3){
+			margin-right:0;
+			display:block;
+		}
+		a{
+			font-size:.7em;
+			display:block;
+			line-height:1;
+			padding:.2em 0;
+			&:hover{
+				background:inherit;
+				// color:$primary;
+				box-shadow:$primary 0 .2em 0 0;
+			}
+			@include bp(d3){
+				margin-right:0;
+				display:block;
+				font-size:1em;
+				&:hover{
+					box-shadow:none;
+				}
+			}
+		}
+
 	}
 }
 
-.footerSocialLinks{
+.credits{
+	font-size:.7em;
+	font-family:$caps;
+	text-transform:lowercase;
+	text-align:center;
 	display:block;
-}
-.addressLine{
-	display:block;
-}
-.footerLink{
-	display:block;
-	a{
-		font-family:$display;
-		font-style:italic;
-	}
-}
-
-.footerStrip{
-	background:$dark;
-	color:$white;
-}
-.footerStripInner{
-	@extend %mainWrap;
-	position:relative;
-	padding:1em 0;
-	span{
-		display:block;
-	}
-	.registered{
-		width:50%;
-		float:left;
-		padding-right:2em;
-		font-size:.8em;
-	}
-	.footerLogo{
-		width:3em;
-		height:1em;
-		background:$red;
-		position:absolute;
-		top:1em;
-		left:50%;
-		margin-left:-1.5em;
-	}
-	.copyright{
-		text-align:right;
-		width:50%;
-		float:right;
-		padding-left:2em;
-		font-size:.8em;
+	padding:.5em 0 1em 0;
+	@include bp(d3){
+		font-size:1em;
+		padding-top:1em;
 	}
 }

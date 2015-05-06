@@ -109,15 +109,15 @@ blockquote{
 }
 
 .mainWrap{
-  margin:.5em 4em 3em 4em;
+  margin:.5em 4em .5em 4em;
   padding:6em 1em;
   background:$cream;
   @include bp(d2){
-    margin:.5em 2em 1.5em 2em;
+    margin:.5em 2em .5em 2em;
     padding:4em 1em;
   }
   @include bp(d3){
-    margin:.5em 1em 1em 1em;
+    margin:.5em 1em .5em 1em;
     padding:2em 1em;
   }
 }
