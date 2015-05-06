@@ -145,16 +145,16 @@ blockquote {
       margin: 0 0 1em 0; } }
 
 .mainWrap {
-  margin: 0.5em 3.5em 2em 3.5em;
+  margin: 0.5em 4em 3em 4em;
   padding: 6em 1em;
   background: #fff8d8; }
   @media (max-width: 750px) {
     .mainWrap {
-      margin: 1.5em 2em;
+      margin: 0.5em 2em 1.5em 2em;
       padding: 4em 1em; } }
   @media (max-width: 400px) {
     .mainWrap {
-      margin: 1em;
+      margin: 0.5em 1em 1em 1em;
       padding: 2em 1em; } }
 
 .genericButton {
@@ -280,31 +280,32 @@ blockquote {
   -webkit-transition: width;
           transition: width;
   -webkit-transition-duration: 0.2s;
-          transition-duration: 0.2s; }
+          transition-duration: 0.2s;
+  letter-spacing: 0.05em; }
   .logoInitial.letterE {
     width: 0.6em;
     margin-right: 0.05em; }
   .logoInitial.letterB {
-    width: 0.6em;
-    letter-spacing: 1px; }
+    width: 0.6em; }
   .logoInitial.letterM {
     width: 0.85em; }
 
 .siteTitle:hover {
-  width: 9.8em; }
+  width: 10.4em; }
   .siteTitle:hover .logoInitial.letterE {
-    width: 3em; }
+    width: 3.2em; }
   .siteTitle:hover .logoInitial.letterB {
     width: 1.4em; }
   .siteTitle:hover .logoInitial.letterM {
-    width: 4.3em; }
+    width: 4.7em; }
 
 .navToggle {
-  padding: 10px;
+  padding: 6px;
   border-radius: 50%;
-  width: 40px;
-  height: 40px;
+  width: 32px;
+  height: 32px;
   margin: 0 auto;
+  margin-top: -0.5em;
   -webkit-transition: background, -webkit-box-shadow;
           transition: background, box-shadow;
   -webkit-transition-duration: 0.2s;
@@ -319,8 +320,6 @@ blockquote {
     background: #7fbbcb; }
 
 .mainHeader .navToggle:hover {
-  -webkit-animation: none;
-          animation: none;
   -webkit-box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 10px;
           box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 10px; }
 
@@ -379,7 +378,7 @@ blockquote {
   height: 3px;
   background: #333333;
   display: block;
-  margin-top: 6px;
+  margin-top: 5px;
   margin-bottom: 6px;
   position: relative;
   border-radius: 1px;
@@ -439,7 +438,7 @@ blockquote {
   -webkit-transition-duration: 0.2s;
           transition-duration: 0.2s;
   padding-top: 5em;
-  padding-bottom: 1em;
+  padding-bottom: 3em;
   top: -40em;
   -webkit-box-shadow: rgba(51, 51, 51, 0.2) 0 1em 0 0;
           box-shadow: rgba(51, 51, 51, 0.2) 0 1em 0 0; }

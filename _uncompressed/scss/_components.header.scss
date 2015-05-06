@@ -38,6 +38,7 @@
   text-align:left;
   transition:width;
   transition-duration:.2s;
+  letter-spacing:.05em;
   &.letterE{
     width:.6em;
     margin-right:.05em;
@@ -45,7 +46,6 @@
   }
   &.letterB{
     width:.6em;
-    letter-spacing:1px;
     // background:$blue;
   }
   &.letterM{
@@ -55,16 +55,16 @@
 }
 .siteTitle:hover{
   // left:.4em;
-  width:9.8em;
+  width:10.4em;
   .logoInitial{
     &.letterE{
-      width:3em;
+      width:3.2em;
     }
     &.letterB{
       width:1.4em;
     }
     &.letterM{
-      width:4.3em;
+      width:4.7em;
     }
   }
 }
@@ -92,12 +92,13 @@
 
 .navToggle{
   @extend %buttonReset;
-  padding:10px;
+  padding:6px;
   border-radius:50%;
-  width:40px;
-  height:40px;
+  width:32px;
+  height:32px;
   // position:relative;
   margin:0 auto;
+  margin-top:-.5em;
   transition:background, box-shadow;
   transition-duration:.2s;
   position:relative;
@@ -116,10 +117,9 @@
 }
 
 .mainHeader:hover .navToggle{
-  // animation:buttonPulse 4s infinite;
+  // animation:buttonPulse 4s;
 }
 .mainHeader .navToggle:hover{
-  animation:none;
   box-shadow:rgba($primary,.3) 0 0 0 10px;
 }
 
@@ -137,7 +137,7 @@
   height:3px;
   background:$black;
   display:block;
-  margin-top:6px;
+  margin-top:5px;
   margin-bottom:6px;
   position:relative;
   // top:;
@@ -197,7 +197,7 @@
   transition:max-height,padding,top;
   transition-duration:.2s;
   padding-top:5em;
-  padding-bottom:1em;
+  padding-bottom:3em;
   top:-40em;
   // border-bottom:lighten($primary,10%) .2em solid;
   box-shadow:rgba($black,.2) 0 1em 0 0;
