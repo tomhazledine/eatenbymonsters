@@ -3,6 +3,8 @@ layout: page
 title: Articles
 shortTitle: Articles
 permalink: /articles/
+menuTitle: Browse all long-form articles
+mainMenu: true
 ---
 
 <ul>

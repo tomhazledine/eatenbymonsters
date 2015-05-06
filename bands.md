@@ -4,6 +4,8 @@ title: Bands Search
 shortTitle: Bands
 permalink: /bands/
 intro: "Search all the bands reviewed on this site"
+menuTitle: Search Reviews by Band Name
+mainMenu: true
 ---
 
 <section>

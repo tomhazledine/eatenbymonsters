@@ -4,6 +4,8 @@ title: Record Name Search
 shortTitle: Records
 permalink: /records/
 intro: "Search all the records reviewed on this site"
+menuTitle: Search Reviews by Record Title
+mainMenu: true
 ---
 
 <section>

@@ -10,18 +10,22 @@
         <ul id="mainMenu" class="mainMenu">
 
             {% for page in site.pages %}
-                {% if page.title %}
-                    <li>
-                        <a href="{{ page.url | prepend: site.baseurl }}">
-                            <span class="menuLinkInner">
-                                {% if page.shortTitle%}
-                                    {{ page.shortTitle }}
-                                {% else %}
-                                    {{ page.title }}
-                                {% endif %}
-                            </span>
-                        </a>
-                    </li>
+                {% if page.mainMenu == true %}
+                    {% if page.title %}
+                        <li>
+                            <a href="{{ page.url | prepend: site.baseurl }}">
+                                <span class="menuLinkInner">
+                                    {% if page.menuTitle %}
+                                        {{ page.menuTitle }}
+                                    {% else if page.shortTitle %}
+                                        {{ page.shortTitle }}
+                                    {% else %}
+                                        {{ page.title }}
+                                    {% endif %}
+                                </span>
+                            </a>
+                        </li>
+                    {% endif %}
                 {% endif %}
             {% endfor %}
 

@@ -250,7 +250,16 @@ blockquote {
 .siteTitle {
   font-family: 'abril-fatface';
   line-height: 1;
-  padding: 0.5em; }
+  padding: 0.5em;
+  position: relative;
+  -webkit-transition: color, text-shadow, top;
+          transition: color, text-shadow, top;
+  -webkit-transition-duration: 0.2s;
+          transition-duration: 0.2s;
+  top: 0; }
+  .siteTitle:hover {
+    background: inherit;
+    top: 0.05em; }
 
 .logo {
   text-align: center;
@@ -412,7 +421,8 @@ blockquote {
     text-transform: lowercase;
     font-family: "ff-meta-sc-web-pro", "ff-meta-web-pro", "Helvetica Neue", helvetica, arial, sans-serif;
     letter-spacing: 0.1em;
-    color: #fff8d8; }
+    color: #fff8d8;
+    padding: 0 1em; }
     .mainMenu li a .menuLinkInner {
       display: inline-block;
       padding: 0.5em 0;
