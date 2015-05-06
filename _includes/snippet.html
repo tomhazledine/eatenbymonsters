@@ -1,0 +1,33 @@
+<h2>
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        {% if post.miniDescription %}
+            {{ post.miniDescription }}
+        {% else %}
+            {{ post.title }}
+        {% endif %}
+    </a>
+</h2>
+
+{% if post.band %}
+    <p>
+        {% if post.recordFormat == 'single' %}
+            {% assign formatArticle = 'a' %}
+        {% else %}
+            {% assign formatArticle = 'an' %}
+        {% endif %}
+        Thoughts about <span class="recordTitle">{{ post.recordTitle }}</span>, <span class="formatPre">{% if post.recordFormat %}{{ formatArticle }}</span> <span class="recordFormat">{{ post.recordFormat }}</span> {% endif %}by <span class="recordArtist">{{ post.band }}.</span>
+    </p>
+
+    {% if post.releaseDate %}
+        <p class=""><span class="">Release Date:</span> {{ post.releaseDate | date: "%B, %Y" }}</p>
+    {% endif %}
+
+    {% if post.label %}
+        <p class=""><span class="">Record Label:</span> {{ post.label }}</p>
+    {% endif %}
+    
+{% endif %}
+
+{% if post.hasExcerpt == true %}
+    <p>{{ post.excerpt }}</p>
+{% endif %}

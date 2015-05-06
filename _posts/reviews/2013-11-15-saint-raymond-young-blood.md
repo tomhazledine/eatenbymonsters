@@ -5,7 +5,9 @@ date: 2013-11-15
 
 title: Saint Raymond | Young Blood
 tags:
-- "Saint Raymond"
+- Saint Raymond
+band:
+- Saint Raymond
 recordTitle: Young Blood
 label: National Anthem
 recordFormat: single

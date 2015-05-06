@@ -6,6 +6,8 @@ date: 2013-11-22
 title: Bellowhead | Broadside
 tags:
 - Bellowhead
+band:
+- Bellowhead
 recordTitle: Broadside
 label: Navigator
 recordFormat: album
