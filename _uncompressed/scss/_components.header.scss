@@ -2,29 +2,79 @@
   position:relative;
 }
 
-.siteTitle{
-  font-family:$display;
-  // font-style:italic;
-  // display:block;
-  line-height:1;
-  padding:.5em;
-  position:relative;
-  transition:color,text-shadow,top;
-  transition-duration:.2s;
-  top:0;
-  &:hover{
-    background:inherit;
-    top:.05em;
-    // color:$cream;
-    // text-shadow:$primary 0 0 .2em;
-  }
-}
 .logo{
-  // margin:0 auto;
   text-align:center;
   position:relative;
   z-index:4;
 }
+
+.siteTitle{
+  font-family:$display;
+  line-height:1;
+  padding:.5em .5em 0 .5em;
+  display:inline-block;
+  height:1em;
+  @extend %cf;
+  &:hover{
+    background:inherit;
+  }
+}
+
+.logoInitial{
+  display:block;
+  height:1em;
+  line-height:1;
+  // background:$yellow;
+  width:1em;
+  float:left;
+  overflow:hidden;
+  text-align:left;
+  transition:width;
+  transition-duration:.2s;
+  &.letterE{
+    width:.6em;
+  }
+  &.letterB{
+    width:.6em;
+  }
+  &.letterM{
+    width:.8em;
+  }
+}
+.siteTitle:hover{
+  .logoInitial{
+    &.letterE{
+      width:3em;
+    }
+    &.letterB{
+      width:1.4em;
+    }
+    &.letterM{
+      width:4.3em;
+    }
+  }
+}
+// .logoSpan{
+//   display:inline-block;
+//   // line-height:1;
+//   height:1em;
+//   background:$green;
+//   top:0;
+// }
+// .seeLogo{
+
+// }
+// .hideLogo{
+//   overflow:hidden;
+//   max-width:0;
+//   transition:max-width;
+//   transition-duration:.4s;
+// }
+// .siteTitle:hover{
+//   .hideLogo{
+//     max-width:10em;
+//   }
+// }
 
 .navToggle{
   @extend %buttonReset;
