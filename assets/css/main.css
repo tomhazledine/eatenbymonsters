@@ -319,9 +319,9 @@ blockquote {
   .navToggle.open {
     background: #7fbbcb; }
 
-.mainHeader .navToggle:hover {
-  -webkit-box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 10px;
-          box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 10px; }
+.mainHeader:hover .navToggle {
+  -webkit-animation: buttonPulse 4s;
+          animation: buttonPulse 4s; }
 
 @-webkit-keyframes buttonPulse {
   0% {
