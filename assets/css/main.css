@@ -527,6 +527,11 @@ blockquote {
 .mainContent h2 {
   padding-bottom: 0.5em; }
 
+.mainContent h3 {
+  font-size: 1.2em;
+  font-weight: bold;
+  padding-bottom: 1rem; }
+
 .footerMenu {
   display: block;
   padding: 0 1em;

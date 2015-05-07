@@ -8,6 +8,9 @@ layout: default
   </header>
 
   <article class="postContent articleContent mainContent">
+    {% if page.intro %}
+        <h3>{{ page.intro}}</h3>
+    {% endif %}
     {{ content }}
   </article>
 

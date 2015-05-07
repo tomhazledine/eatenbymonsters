@@ -37,7 +37,7 @@ It still won't guarantee you a review. If the music's not interesting I won't wr
 
 ## 4. Have a thick skin.
 
-It's something I try to avoid doing, but I'm a master of the backhanded compliment. Unless I'm going on a vitriolic rant (which I only do once in a blue moon) I'll only write about a record if there's some kernel of worth within it. What I won't do is skirt around aspects of the music that I don't like. I'll be constructive when I can be, but I'll never say a record's better than I actually think it is. Remember, I'm rating records against every other record ever released. I've had the pleasure of discovering a great many new bands who's music is better than **Zeppelin**, **The Clash**, **The Specials** *et al*, but the truth is that not much music is *that* good. There's no shame in not being as good as talented as **Jimmy Page**. Few of us are. If I've written about you at all it's because I think you're better than **90%** of the music that's ever been made. There's a lot of crap out there!
+It's something I try to avoid doing, but I'm a master of the backhanded compliment. Unless I'm going on a vitriolic rant (which I only do once in a blue moon) I'll only write about a record if there's some kernel of worth within it. What I won't do is skirt around aspects of the music that I don't like. I'll be constructive when I can be, but I'll never say a record's better than I actually think it is. Remember, I'm rating records against every other record ever released. I've had the pleasure of discovering a great many new bands who's music is better than **Zeppelin**, **The Clash**, **The Specials** *et al*, but the truth is that not much music is *that* good. There's no shame in not being as good as talented as **Jimmy Page**. Few of us are. If I've written about you at all it's because I think you're better than 90% of the music that's ever been made. There's a lot of crap out there!
 
 ## 5. If your band is completely unknown then I'd recommend the personal touch.
 
@@ -55,7 +55,7 @@ I like to have details of the full band line-up and a brief biog. I also like to
 
 ## 8. If I'm reviewing an album I usually include two tracks off it to stream and for download.
 
-This is something I've been doing less of lately. The beauty of **Soundcloud** embeds is that the band themselves can decide whether it's available for download. And as iTunes and other digital services get better and easier, there are fewer and fewer reasons to include ‘illegal downloads’ with a review. Still, the whole point of an **mp3** blog such as this one is that people can hear and keep your music.
+This is something I've been doing less of lately. The beauty of **Soundcloud** embeds is that the band themselves can decide whether it's available for download. And as iTunes and other digital services get better and easier, there are fewer and fewer reasons to include ‘illegal downloads’ with a review. Still, the whole point of an mp3 blog such as this one is that people can hear and keep your music.
 
 If you'd rather I didn't include a download then say so straight away. I completely understand bands who want to preserve the value of their songs. I won't think less of you if you don't want to make a download available. Most acts are eager for the added exposure a download brings. 
 
@@ -72,11 +72,11 @@ Do be aware, though, that if your music is bloody awful then I will say so publi
 
 If all this still hasn't put you off, then I salute you! And I look forward to hearing your record.
 
-<script type="text/javascript" language="JavaScript">// <![CDATA[
-var username = "tom";
-var hostname = "eatenbymonsters.com";
-var linktext = username + "@" + hostname ;
-document.write("<a href='" + "mail" + "to:" + linktext + "'>" + linktext + "</a>");
-// ]]></script>
+<script type="text/javascript" language="JavaScript">
+    var username = "tom";
+    var hostname = "eatenbymonsters.com";
+    var linktext = username + "@" + hostname ;
+    document.write("<p><a href='" + "mail" + "to:" + linktext + "'>" + linktext + "</a></p>");
+</script>
 
-If you have an issue with any of the **mp3s** posted here then get in touch. Use the address above and I'll be happy to remove the file. The **mp3s** I post are a promotional tool to generate interest for new bands. It is not my intention to encourage sneaky file pinching.
+If you have an issue with any of the mp3s posted here then get in touch. Use the address above and I'll be happy to remove the file. The mp3s I post are a promotional tool to generate interest for new bands. It is not my intention to encourage sneaky file pinching.
