@@ -1,4 +1,29 @@
 <footer>
+
+    <nav>
+        <ul id="footerMenu" class="footerMenu clearfix">
+
+            {% for page in site.pages %}
+                {% if page.footerMenu == true %}
+                    {% if page.title %}
+                        <li>
+                            <a href="{{ page.url | prepend: site.baseurl }}">
+                                {% if page.shortTitle %}
+                                    {{ page.shortTitle }}
+                                {% else %}
+                                    {{ page.title }}
+                                {% endif %}
+                            </a>
+                        </li>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+
+        </ul>
+    </nav>
+
+    <span class="credits">Est. MMVIII</span>
+
     <div class="footerMeta">
 
         <div class="scripts">

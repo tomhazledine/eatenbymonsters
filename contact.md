@@ -2,6 +2,7 @@
 layout: page
 title: Nine Tips To Help You Get A Review
 shortTitle: Contact
+footerMenu: true
 permalink: /contact/
 intro: "It's a tough business, getting your music in front of reviewers. I know, I've tried it myself and had both good and bad responses and, inevitably, far more cases of no-response-at-all than either of the former."
 ---

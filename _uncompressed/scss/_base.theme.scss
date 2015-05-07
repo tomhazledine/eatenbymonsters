@@ -46,7 +46,7 @@ h1{
   font-size:3em;
   font-family:$display;
   line-height:1.1;
-  padding:0;
+  padding:0 0 1em 0;
   @include bp(d2){
     font-size:2em;
   }
@@ -109,15 +109,15 @@ blockquote{
 }
 
 .mainWrap{
-  margin:.5em 4em 3em 4em;
+  margin:.5em 4em .5em 4em;
   padding:6em 1em;
   background:$cream;
   @include bp(d2){
-    margin:.5em 2em 1.5em 2em;
+    margin:.5em 2em .5em 2em;
     padding:4em 1em;
   }
   @include bp(d3){
-    margin:.5em 1em 1em 1em;
+    margin:.5em 1em .5em 1em;
     padding:2em 1em;
   }
 }

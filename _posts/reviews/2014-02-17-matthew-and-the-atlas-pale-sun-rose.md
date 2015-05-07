@@ -6,6 +6,8 @@ date: 2014-02-17
 title: Matthew and the Atlas | Pale Sun Rose
 tags:
 - Matthew and the Atlas
+band:
+- Matthew and the Atlas
 recordTitle: Pale Sun Rose
 label: Communion
 recordFormat: single
