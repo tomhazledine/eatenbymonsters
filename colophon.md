@@ -2,7 +2,7 @@
 layout: page
 title: Colophon
 permalink: /colophon/
-footerMenu: true
+footerMenu: false
 intro: "It's a tough business, getting your music in front of reviewers. I know, I've tried it myself and had both good and bad responses and, inevitably, far more cases of no-response-at-all than either of the former."
 ---
 
