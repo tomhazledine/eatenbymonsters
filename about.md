@@ -3,7 +3,7 @@ layout: page
 title: A Short History of Eaten by Monsters
 shortTitle: About
 permalink: /about/
-intro: "<strong>Eaten by Monsters<strong> is a name that’s been applied to many things thus far, so I guess an explanation might be in order."
+intro: "<strong>Eaten by Monsters</strong> is a name that’s been applied to many things thus far, so I guess an explanation might be in order."
 menuTitle: About Eaten by Monsters
 mainMenu: true
 footerMenu: true

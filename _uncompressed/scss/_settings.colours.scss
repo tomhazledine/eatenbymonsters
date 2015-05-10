@@ -30,10 +30,10 @@ $creamDark:#eee8d8;
 
 // Selection Colours
 ::selection{
-  color:$white;
-  background:$black;
+  // color:$white;
+  background:rgba($primary,.5);
 }
 a::selection{
   color:$black;
-  background:$primary;
+  background:rgba($secondary,.5);
 }

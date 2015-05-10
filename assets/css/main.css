@@ -1,18 +1,16 @@
 ::-moz-selection {
-  color: #ffffff;
-  background: #333333; }
+  background: rgba(127, 187, 203, 0.5); }
 
 ::selection {
-  color: #ffffff;
-  background: #333333; }
+  background: rgba(127, 187, 203, 0.5); }
 
 a::-moz-selection {
   color: #333333;
-  background: #7fbbcb; }
+  background: rgba(251, 174, 23, 0.5); }
 
 a::selection {
   color: #333333;
-  background: #7fbbcb; }
+  background: rgba(251, 174, 23, 0.5); }
 
 @font-face {
   font-family: 'iconFont';
@@ -94,7 +92,9 @@ h1 {
   font-size: 3em;
   font-family: 'abril-fatface';
   line-height: 1.1;
-  padding: 0 0 1em 0; }
+  padding: 0 0 1em 0;
+  -webkit-font-variant-ligatures: normal;
+          font-variant-ligatures: normal; }
   @media (max-width: 750px) {
     h1 {
       font-size: 2em; } }
@@ -105,7 +105,9 @@ h2 {
   font-style: italic;
   padding: 0;
   line-height: 1.3;
-  padding-top: 0.2em; }
+  padding-top: 0.2em;
+  -webkit-font-variant-ligatures: normal;
+          font-variant-ligatures: normal; }
 
 p {
   padding-bottom: 1em; }
@@ -158,29 +160,43 @@ blockquote {
       padding: 2em 1em; } }
 
 .genericButton {
+  display: inline-block;
   background: #7fbbcb;
   color: #ffffff;
-  padding: 0.5em 1em;
+  padding: 0.5em 1em 0.3em 1em;
   border-bottom: #333333 solid 0.4em;
   font-weight: 300;
   line-height: 1;
   font-size: 0.8em;
   text-align: center;
-  -webkit-transition: background;
-          transition: background;
+  -webkit-transition: background, color, -webkit-box-shadow;
+          transition: background, color, box-shadow;
   -webkit-transition-duration: 0.2s;
           transition-duration: 0.2s;
   font-family: "ff-meta-web-pro", "Helvetica Neue", helvetica, arial, sans-serif;
   text-transform: uppercase;
   line-height: 1;
   font-style: italic;
-  letter-spacing: 0.1em; }
+  letter-spacing: 0.1em;
+  -webkit-box-shadow: inset #fbae17 0 0 0 0, inset #7fbbcb 0 -1.8em 0 0;
+          box-shadow: inset #fbae17 0 0 0 0, inset #7fbbcb 0 -1.8em 0 0; }
   .genericButton:hover {
-    background: #fbae17; }
+    background: #fbae17;
+    color: #ffffff;
+    -webkit-box-shadow: inset #fbae17 0 -1.8em 0 0, inset #7fbbcb 0 -1.8em 0 0;
+            box-shadow: inset #fbae17 0 -1.8em 0 0, inset #7fbbcb 0 -1.8em 0 0; }
   .genericButton:active {
-    background: #333333; }
+    color: #333333; }
   .genericButton:focus {
     outline: none; }
+
+.genericButton.disabled {
+  background: #bbb;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  cursor: default; }
+  .genericButton.disabled:active {
+    color: #ffffff; }
 
 .utilityButton {
   text-transform: lowercase;
@@ -202,7 +218,8 @@ blockquote {
 .utilityButton.openDown {
   float: right;
   position: relative;
-  top: -0.2em; }
+  top: -0.2em;
+  padding: 0.2em 1em 0.2em 1em; }
 
 .recordMeta {
   display: block;
@@ -512,17 +529,32 @@ blockquote {
 .recordTitle {
   font-style: italic; }
 
-.mainContent p a {
-  -webkit-box-shadow: inset 0 -0.2em 0 0 #fff8d8, inset 0 -0.3em 0 0 #7fbbcb;
-          box-shadow: inset 0 -0.2em 0 0 #fff8d8, inset 0 -0.3em 0 0 #7fbbcb;
+.mainContent p a, .mainContent h2 a, .mainContent h3 a, .mainContent h4 a, .mainContent h5 a, .mainContent h6 a {
+  -webkit-box-shadow: inset 0 -0.2em 0 0 #fff8d8, inset 0 0em 0 0 #fbae17, inset 0 -0.3em 0 0 #7fbbcb;
+          box-shadow: inset 0 -0.2em 0 0 #fff8d8, inset 0 0em 0 0 #fbae17, inset 0 -0.3em 0 0 #7fbbcb;
   -webkit-transition: color, background, -webkit-box-shadow;
           transition: color, background, box-shadow;
   -webkit-transition-duration: 0.2s;
           transition-duration: 0.2s; }
-  .mainContent p a:hover {
+  .mainContent p a:hover, .mainContent h2 a:hover, .mainContent h3 a:hover, .mainContent h4 a:hover, .mainContent h5 a:hover, .mainContent h6 a:hover {
     background: none;
-    -webkit-box-shadow: inset 0 -0.2em 0 0 #fff8d8, inset 0 -1.6em 0 0 #7fbbcb;
-            box-shadow: inset 0 -0.2em 0 0 #fff8d8, inset 0 -1.6em 0 0 #7fbbcb; }
+    -webkit-box-shadow: inset 0 -0.2em 0 0 #fff8d8, inset 0 0em 0 0 #fbae17, inset 0 -1.6em 0 0 #7fbbcb;
+            box-shadow: inset 0 -0.2em 0 0 #fff8d8, inset 0 0em 0 0 #fbae17, inset 0 -1.6em 0 0 #7fbbcb; }
+  .mainContent p a:active, .mainContent h2 a:active, .mainContent h3 a:active, .mainContent h4 a:active, .mainContent h5 a:active, .mainContent h6 a:active {
+    -webkit-box-shadow: inset 0 -0.2em 0 0 #fff8d8, inset 0 -1.6em 0 0 #fbae17, inset 0 -1.6em 0 0 #7fbbcb;
+            box-shadow: inset 0 -0.2em 0 0 #fff8d8, inset 0 -1.6em 0 0 #fbae17, inset 0 -1.6em 0 0 #7fbbcb;
+    color: #fff8d8; }
+
+.mainContent h3 a {
+  -webkit-box-shadow: inset 0 -0.1em 0 0 #fff8d8, inset 0 0em 0 0 #fbae17, inset 0 -0.3em 0 0 #7fbbcb;
+          box-shadow: inset 0 -0.1em 0 0 #fff8d8, inset 0 0em 0 0 #fbae17, inset 0 -0.3em 0 0 #7fbbcb; }
+  .mainContent h3 a:hover {
+    -webkit-box-shadow: inset 0 -0.1em 0 0 #fff8d8, inset 0 0em 0 0 #fbae17, inset 0 -1.6em 0 0 #7fbbcb;
+            box-shadow: inset 0 -0.1em 0 0 #fff8d8, inset 0 0em 0 0 #fbae17, inset 0 -1.6em 0 0 #7fbbcb; }
+  .mainContent h3 a:active {
+    -webkit-box-shadow: inset 0 -0.2em 0 0 #fff8d8, inset 0 -1.6em 0 0 #fbae17, inset 0 -1.6em 0 0 #7fbbcb;
+            box-shadow: inset 0 -0.2em 0 0 #fff8d8, inset 0 -1.6em 0 0 #fbae17, inset 0 -1.6em 0 0 #7fbbcb;
+    color: #fff8d8; }
 
 .mainContent h2 {
   padding-bottom: 0.5em; }
@@ -530,7 +562,62 @@ blockquote {
 .mainContent h3 {
   font-size: 1.2em;
   font-weight: bold;
-  padding-bottom: 1rem; }
+  padding-bottom: 1rem;
+  line-height: 1.3; }
+  .mainContent h3 strong {
+    font-family: "ff-meta-web-pro", "Helvetica Neue", helvetica, arial, sans-serif;
+    text-transform: uppercase; }
+
+.mainContent h4 {
+  font-weight: bold;
+  padding-bottom: 1rem;
+  line-height: 1.3; }
+
+.dividerBlock, .mainContent h5 {
+  display: block;
+  padding: 0.6em 0.6em 0.4em 0.6em;
+  font-size: 0.8em;
+  line-height: 1;
+  background: #333333;
+  color: #fff8d8;
+  margin-bottom: 1rem;
+  font-style: italic; }
+  .dividerBlock strong, .dividerBlock .bold, .mainContent h5 strong, .mainContent h5 .bold {
+    font-style: normal;
+    font-family: "ff-meta-web-pro", "Helvetica Neue", helvetica, arial, sans-serif;
+    text-transform: none;
+    font-weight: bold;
+    padding-right: 0.5em; }
+
+.dividerWrapper {
+  text-align: center;
+  margin-bottom: 1rem;
+  position: relative; }
+  .dividerWrapper:before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    margin-top: -1px;
+    top: 50%;
+    background: #333333;
+    z-index: 1; }
+
+.dividerLine, .mainContent h6 {
+  position: relative;
+  z-index: 2;
+  display: inline-block;
+  padding: 0.4em 0.4em 0.2em 0.4em;
+  font-size: 0.8em;
+  font-weight: bold;
+  line-height: 1;
+  background: #fff8d8;
+  border: 2px solid #333333;
+  margin-bottom: 1rem; }
+
+.dividerWrapper .dividerLine, .dividerWrapper h6 {
+  margin-bottom: 0; }
 
 .footerMenu {
   display: block;
@@ -602,6 +689,17 @@ blockquote {
 
 .invisible {
   visibility: hidden; }
+
+.centered {
+  text-align: center; }
+
+.small {
+  font-size: 0.8em;
+  line-height: 1.2;
+  margin-bottom: 1rem; }
+
+.block {
+  display: block; }
 
 .testWrap {
   width: 100%;
