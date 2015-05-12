@@ -5,15 +5,16 @@ date: 2010-01-20
 categories:
 - comment
 
+miniDescription: XX
 hasExcerpt: false
 excerpt: REMEMBER_MARKUP
 ---
 
-I may be in danger of alienating some readers here, but I really don't see the appeal of remixes.  I know a decent proportion of you will have been directed here from [*The Hype Machine*](http://hypem.com/) - where remixes seem to be quite popular - so I guess a fair few of you are remix-connoisseurs, but I just don't understand it myself.  Now don't get me wrong, a good remix can be an enjoyable listening experience, but stumbling upon the mythic beast that is a "good remix" is a very uncommon occurrence. It seems to me that **99%** of them are just plain rubbish. Of course, the joy of being a music blog is that I can bombard you with examples of both good and bad remixes, and I certianly intend to do just that...
+I may be in danger of alienating some readers here, but I really don't see the appeal of remixes. I know a decent proportion of you will have been directed here from [*The Hype Machine*](http://hypem.com/) - where remixes seem to be quite popular - so I guess a fair few of you are remix-connoisseurs, but I just don't understand it myself. Now don't get me wrong, a good remix can be an enjoyable listening experience, but stumbling upon the mythic beast that is a "good remix" is a very uncommon occurrence. It seems to me that **99%** of them are just plain rubbish. Of course, the joy of being a music blog is that I can bombard you with examples of both good and bad remixes, and I certianly intend to do just that...
 
 ## The Good Remix
 
-In my eyes a good remix builds on the foundation of a good track and creates a complimentary companion to the original.  Most of the good remixes I'm aware of can stand alone as musical works in their own right, but even with the really good ones you're only getting half the picture. To make a remix is to make a work that is inextricably tied to another piece of work; a musical Castor and Pollux. A good remix from a bad song can be interesting as an academic speculation, but is ultimately as redundant an exercise as a bad remix from a good song (and this is where remixes differ from cover versions; a good cover version from a bad song can be a wondrous achievement).
+In my eyes a good remix builds on the foundation of a good track and creates a complimentary companion to the original. Most of the good remixes I'm aware of can stand alone as musical works in their own right, but even with the really good ones you're only getting half the picture. To make a remix is to make a work that is inextricably tied to another piece of work; a musical Castor and Pollux. A good remix from a bad song can be interesting as an academic speculation, but is ultimately as redundant an exercise as a bad remix from a good song (and this is where remixes differ from cover versions; a good cover version from a bad song can be a wondrous achievement).
 
 There are many exponents of the "good remix"; artists from **Four Tet** to **The Postal Service** have delivered sterling work in this field, most notably with **Kings of Convenience** and **Feist** respectively, but for now I will focus on the [**Miyauchi Yuri**](http://www.miyauchiyuri.com/bio.html) remix of [**Jeremy Warmsley**](http://www.jeremywarmsley.com)'s track _If He Breaks Your Heart_ (full info [here](http://www.jeremywarmsley.com/heart/)).
 

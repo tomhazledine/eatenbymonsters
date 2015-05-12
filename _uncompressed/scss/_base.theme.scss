@@ -12,6 +12,9 @@ body{
   color:$black;
   font-size:1.2em;
   line-height:1.6;
+  text-rendering:optimizeLegibility;
+  font-variant-ligatures:common-ligatures;
+
 //  padding:2.5em;
 //  box-shadow:inset $white 0 0 0 2em;
 //  @include bp(d3){

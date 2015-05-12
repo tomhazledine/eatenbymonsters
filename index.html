@@ -2,40 +2,73 @@
 layout: default
 ---
 
-<h1 class="page-heading">the Eaten by Monsters music blog</h1>
+{% if paginator.page == 1 %}
 
-<article class="postContent mainContent">
-  <h3>Writing semi-coherently about new music since 2008. An award-winning, taste-making, discourse-shaping powerhouse (albeit in a very specific niche).</h3>
-  <p></p>
+    <h1 class="page-heading">the Eaten by Monsters music blog</h1>
 
-  <div class="dividerWrapper">
-    <h6>Reviews</h6>
-    <div class="arrow down"></div>
-  </div>
+    <article class="postContent mainContent">
+        <h3>Writing semi-coherently about new music since 2008. An award-winning, taste-making, discourse-shaping powerhouse (albeit in a very specific niche).</h3>
+        <!-- <p></p> -->
 
-</article>
+        <div class="dividerWrapper">
+            <h6>Reviews</h6>
+            <div class="arrow down"></div>
+        </div>
 
-<div class="post-list clearfix">
-    {% for post in paginator.posts %}
-        <!-- <li> -->
-            {% include snippet.html %}
-        <!-- </li> -->
-    {% endfor %}
+    </article>
+
+{% else %}
+
+    <article class="postContent mainContent">
+        {% if paginator.page == 2 %}
+            <p class="small">You made it to page two. Congratulations; you are the 1%. Go forth, multiply, and be prosperous. With your positive attitude, the world is yours for the taking.</p>
+        {% endif %}
+
+        <div class="dividerWrapper">
+            <h6>Reviews: Page {{ paginator.page }}</h6>
+            <div class="arrow down"></div>
+        </div>
+
+    </article>
+
+{% endif %}
+
+<div class="postList homepagePostList clearfix">
+        {% for post in paginator.posts %}
+                <!-- <li> -->
+                {% include snippet.html %}
+                <!-- </li> -->
+        {% endfor %}
 </div>
 
 <!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
+<div class="pagination mainContent">
+
+    {% if paginator.page == 1 %}
+
+        <h5><strong>There are {{ site.posts | size }} posts on this site</strong> so there are {{ paginator.total_pages }} pages</h5>
+
+        <p class="small">That's a lot of pages. Most people don't ever make it past the first. So tell me; have <em>you</em> got what it takes? Is your commitment to music unfaltering? </p>
+
+        <a href="{{ paginator.next_page_path }}" class="genericButton block bottomMargin">Oh yeah! Take me to the next page, baby!</a>
+
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="genericButton block">No way. Get me out of here!</a>
+
+    {% else %}
+        <h5><strong>You are on page {{ paginator.page }}</strong> there are {{ paginator.total_pages }} pages in total</h5>        
+    {% endif %}
+
+    {% if paginator.page == 2 %}
+
+        <p class="small">So where to now? <a href="/">Back to the home page?</a> Or are you made of sterner stuff? <a href="{{ paginator.next_page_path }}">Come further up, come further in.</a></p>
+
+    {% endif %}
+
+    {% if paginator.page == 3 %}
+
+        <p class="small"><a href="/">Back to the home page</a>? <a href="{{ paginator.previous_page_path }}">The previous page</a>. <a href="{{ paginator.next_page_path }}">The next page</a>.</p>
+
+    {% endif %}
 </div>
 
 <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->

@@ -11,16 +11,14 @@ band:
 recordTitle: Pale Sun Rose
 label: Communion
 recordFormat: single
-releaseDate: 20140115
+releaseDate: 2014-01-15
 
 buyItLink: http://matthewandtheatlas.com/
 buyItLinkTitle: Band's website
 
 miniDescription: An early contender for Song Of The Year
 hasExcerpt: true
-excerpt: Long-time fans rejoice as <strong>Matthew and the Atlas</strong> herald the
-  release of their debut <strong>LP</strong> with the fantastic single, <strong>Pale
-  Sun Rose</strong>.
+excerpt: Long-time fans rejoice as <strong>Matthew and the Atlas</strong> herald the release of their debut <strong>LP</strong> with the fantastic single, <strong>Pale Sun Rose</strong>.
 
 categories:
 - review
