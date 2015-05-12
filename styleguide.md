@@ -3,7 +3,7 @@ layout: page
 title: A first-level heading
 shortTitle: styleguide
 permalink: /styleguide/
-footerMenu: true
+footerMenu: false
 ---
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.

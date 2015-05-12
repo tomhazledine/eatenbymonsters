@@ -283,6 +283,83 @@ blockquote {
   line-height: 1.4;
   padding: 0 0 0.5em 0; }
 
+.dividerBlock, .mainContent h5 {
+  display: block;
+  padding: 0.6em 0.6em 0.4em 0.6em;
+  font-size: 0.8em;
+  line-height: 1;
+  background: #333333;
+  color: #fff8d8;
+  margin-bottom: 1rem;
+  font-style: italic; }
+  .dividerBlock strong, .dividerBlock .bold, .mainContent h5 strong, .mainContent h5 .bold {
+    font-style: normal;
+    font-family: "ff-meta-web-pro", "Helvetica Neue", helvetica, arial, sans-serif;
+    text-transform: none;
+    font-weight: bold;
+    padding-right: 0.5em; }
+
+.dividerWrapper {
+  text-align: center;
+  margin-bottom: 1rem;
+  position: relative; }
+  .dividerWrapper:before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    margin-top: -1px;
+    top: 50%;
+    background: #333333;
+    z-index: 1; }
+
+.dividerLine, .mainContent h6 {
+  position: relative;
+  z-index: 2;
+  display: inline-block;
+  padding: 0.4em 0.4em 0.2em 0.4em;
+  font-size: 0.8em;
+  font-weight: bold;
+  line-height: 1;
+  background: #fff8d8;
+  border: 2px solid #333333;
+  margin-bottom: 1rem; }
+
+.dividerWrapper .dividerLine, .dividerWrapper h6 {
+  margin-bottom: 0; }
+
+.arrow {
+  position: absolute;
+  width: 2px;
+  height: 1.5em;
+  background: #333333;
+  top: 50%;
+  left: 50%;
+  margin-left: -1px; }
+  .arrow:after, .arrow:before {
+    content: "";
+    display: block;
+    width: 2px;
+    position: absolute;
+    top: 1em;
+    height: 0.5em;
+    background: #333333; }
+  .arrow:after {
+    -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+            transform: rotate(45deg);
+    -webkit-transform-origin: 100% 100%;
+        -ms-transform-origin: 100% 100%;
+            transform-origin: 100% 100%; }
+  .arrow:before {
+    -webkit-transform: rotate(-45deg);
+        -ms-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+    -webkit-transform-origin: 0 100%;
+        -ms-transform-origin: 0 100%;
+            transform-origin: 0 100%; }
+
 .mainHeader {
   position: relative; }
 
@@ -572,52 +649,6 @@ blockquote {
   font-weight: bold;
   padding-bottom: 1rem;
   line-height: 1.3; }
-
-.dividerBlock, .mainContent h5 {
-  display: block;
-  padding: 0.6em 0.6em 0.4em 0.6em;
-  font-size: 0.8em;
-  line-height: 1;
-  background: #333333;
-  color: #fff8d8;
-  margin-bottom: 1rem;
-  font-style: italic; }
-  .dividerBlock strong, .dividerBlock .bold, .mainContent h5 strong, .mainContent h5 .bold {
-    font-style: normal;
-    font-family: "ff-meta-web-pro", "Helvetica Neue", helvetica, arial, sans-serif;
-    text-transform: none;
-    font-weight: bold;
-    padding-right: 0.5em; }
-
-.dividerWrapper {
-  text-align: center;
-  margin-bottom: 1rem;
-  position: relative; }
-  .dividerWrapper:before {
-    content: "";
-    display: block;
-    position: absolute;
-    width: 100%;
-    height: 2px;
-    margin-top: -1px;
-    top: 50%;
-    background: #333333;
-    z-index: 1; }
-
-.dividerLine, .mainContent h6 {
-  position: relative;
-  z-index: 2;
-  display: inline-block;
-  padding: 0.4em 0.4em 0.2em 0.4em;
-  font-size: 0.8em;
-  font-weight: bold;
-  line-height: 1;
-  background: #fff8d8;
-  border: 2px solid #333333;
-  margin-bottom: 1rem; }
-
-.dividerWrapper .dividerLine, .dividerWrapper h6 {
-  margin-bottom: 0; }
 
 .footerMenu {
   display: block;
