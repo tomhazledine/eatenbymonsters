@@ -26,13 +26,16 @@ nuffin:
 
 I know a decent proportion of you will have arrived here from *The Hype Machine* . Remixes seem quite popular there, so I'll bet a few of you are remix-connoisseurs. I just don't understand it myself.
 
-Don't get me wrong; a good remix can be an enjoyable listening experience. Yet stumbling upon the mythic beast that is a "good remix" is uncommon. It seems to me that 99% of them are just plain rubbish.
-
-## The Good Remix
+> A good remix can be an enjoyable listening experience. Yet stumbling upon the mythic beast that is a "good remix" is uncommon. It seems to me that 99% of them are just plain rubbish.
 
 In my eyes good remixes build on the foundation of a good track. They create a complimentary companion-piece to the original. Most of the *good* remixes I'm aware of can stand alone as musical works in their own right. But even with the good ones you're only getting half the picture.
 
 To make a remix is to make a work that is inextricably tied to another; a musical Castor and Pollux. A good remix from a bad song can be interesting as an academic speculation. But without a solid foundation it is as redundant as a bad remix from a good song. This is where remixes differ from cover versions. A good cover version from a bad song can be a wondrous achievement.
+
+<div class="dividerWrapper">
+    <h6>The Good Remix</h6>
+    <div class="arrow down"></div>
+</div>
 
 Despite my misgivings, there are exponents of the "good remix". Many of my favourite acts have delivered sterling work in this field. In particular, **Four Tet**  (with **Kings of Convenience**) and **The Postal Service** (with **Feist**). My current favourite is the **Miyauchi Yuri** remix of _If He Breaks Your Heart_, by **Jeremy Warmsley**.
 
@@ -42,11 +45,16 @@ Despite my misgivings, there are exponents of the "good remix". Many of my favou
 
 This remix undeniably butchers the harmonic content of the song by flattening it beyond belief. Here, though, it's defensible as a deliberate artistic choice. The sparse, angular substance of J-Wo's original acoustic version morphs into a lush soundscape. But despite this recrafting, the body of the song remains intact. It's a song with a definite arc and a "message"\*, and both remain in evidence in the remix. It retains the essence of the original whilst being a wholly new musical experience.
 
-## The Bad Remix
+<div class="dividerWrapper">
+    <h6>The Bad Remix</h6>
+    <div class="arrow down"></div>
+</div>
 
 Bad remixes are much thicker on the ground than good ones. The choices for a salient example were legion. **BbopNRokstedy** drew the short straw, as theirs was the most recent remix to land in my inbox. This one is a remix of **Phoenix's** track _1901_, who's parent album is excellent. 2009's _Wolfgang Amadeus Phoenix_ is a bona fide triumph of a record. Alas we cannot say the same for the remix...
 
 Here the relationship between original and remix is slender indeed. It appears **BbopNRokstedy** have hardly done any work at all. They've cut a couple of vocal snippets from *1901* and looped them over a godawful dance track. And that seems to be it! They've removed any trace of the original's structure or arc. That this outfit have the gall to call this abomination a "remix" beggars belief.
+
+## Conclusion
 
 I realize I sound rather vitriolic at this point, but then that's why I'm writing. This kind of behaviour annoys me. I honestly enjoy listening to a good remix, but finding those good ones is too hard. The only sure-fire way to tell if a remix is going to be any good or not is to actually listen to the thing.
 
