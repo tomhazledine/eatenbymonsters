@@ -1,10 +1,15 @@
-<!-- <button class="amplitude-play">Play</button> -->
-
-{% for audioLink in page.audioLinks %}
-    <div class="standardAudioPlayer">
-        <p><span class="label">Track name: </span> {{ audioLink.name }}</p>
-        <audio controls>
-            <source src="{{ audioLink.url }}">
-        </audio>    
+<div id="player" class="player">
+    <div id="player-top">
+        <div id="now-playing-title" amplitude-song-info="name"></div>
+        <div class="album-information"><span amplitude-song-info="artist"></span> - <span amplitude-song-info="album"></span></div>
     </div>
-{% endfor %}
+    <div id="amplitude-visualization">
+        
+    </div>
+    <div id="player-bottom">
+        <div id="control-container">
+            <button class="amplitude-prev">Prev</button>
+            <button class="amplitude-play-pause amplitude-paused" amplitude-main-play-pause="true">Play/Pause</button>
+            <button class="amplitude-next">Next</button>
+        </div>
+</div>
