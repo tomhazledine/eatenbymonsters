@@ -10307,6 +10307,11 @@ return jQuery;
 
 }));
 
+var audioWrapper = $('#audio');
+
+if (audioWrapper.length) {
+  console.log('There is audio on this page!');
+};
 
 var mobileNavToggle = $('#mobileNavToggle');
 var mainMenu = $('#mainMenu');

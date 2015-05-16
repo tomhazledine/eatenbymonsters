@@ -29,10 +29,10 @@ categories:
 audioLinks:
 - name: City of the Dead
   band: Kim Janssen
-  url: http://eatenbymonsters/EbMBlog_mp3s/Janssen_CityOfTheDead.mp3
+  url: http://eatenbymonsters.com/EbMBlog_mp3s/Janssen_CityOfTheDead.mp3
 - name: Clouds Looming
   band: I Am Oak
-  url: http://eatenbymonsters/EbMBlog_mp3s/IAmOak_CloudsLooming.mp3
+  url: http://eatenbymonsters.com/EbMBlog_mp3s/IAmOak_CloudsLooming.mp3
 ---
 
 Dutch indie label [Snowstar Records](http://www.snowstar.nl/) are completely new to me, which is surprising as they're celebrating their tenth anniversary this year, and on the evidence of these nine tracks the music they release is very good indeed. I often worry that I'm too Anglocentric, and while I do often feature music from our American cousins, I very rarely explore music from Europe or the wider world. When such music does penetrate my insular listening bubble it generally turns out to be very good.

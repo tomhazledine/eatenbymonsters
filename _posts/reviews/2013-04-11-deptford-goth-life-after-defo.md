@@ -25,9 +25,9 @@ categories:
 
 audioLinks:
 - name: Union
-  url: http://eatenbymonsters/EbMBlog_mp3s/DeptfordGoth_Union.mp3
+  url: http://eatenbymonsters.com/EbMBlog_mp3s/DeptfordGoth_Union.mp3
 - name: Guts No Glory
-  url: http://eatenbymonsters/EbMBlog_mp3s/DeptfordGoth_GutsNoGlory.mp3
+  url: http://eatenbymonsters.com/EbMBlog_mp3s/DeptfordGoth_GutsNoGlory.mp3
 ---
 
 **2013** is already shaping up to be a great year for music, with a plethora of both great albums _and_ great singles having been released already. Even with the overall quality of releases being so high, **Deptford Goth**'s single *Union* was a genuine highlight and left me more excited about the prospect of getting my hands on the full **LP** than any other release of the year so far (with perhaps the exception of the latest **Frightened Rabbit** record). My sense of giddy anticipation was only heightened by the fact that despite having pre-ordered *Life After Defo* well in advance, my **12**" didn't arrive until a week or so after the release date. Annoying, yes, but it was well worth the wait.

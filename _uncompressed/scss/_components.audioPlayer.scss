@@ -1,0 +1,27 @@
+.player{
+  border-top:1px solid $black;
+  border-bottom:1px solid $black;
+  margin:1em 0;
+  padding:1em 0;
+}
+
+.player .playPause{
+  // width:3em;
+  // height:3em;
+  padding:1em;
+  background:$primary;
+  cursor:pointer;
+  user-select:none;
+  &:before{content:"Pause";}
+  &.amplitude-paused:before{content:"Play";}
+}
+
+.standardAudioPlayer{
+  // border-top:2px solid $black;
+  border-bottom:4px solid $black;
+  margin:2em 0;
+  padding:.2em 0;
+  p{
+    padding-bottom:0;
+  }
+}

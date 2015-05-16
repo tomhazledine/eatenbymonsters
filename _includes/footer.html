@@ -29,7 +29,13 @@
         <div class="scripts">
             <!-- Javascript -->
             <script src="{{ "/assets/js/app.min.js" | prepend: site.baseurl }}"></script>
+
+            {% if page.audioLinks %}
+                <!-- Audio Data -->
+                {% include audioLinkJson.html %}
+            {% endif %}
         </div>
+
 
     </div>
 </footer>

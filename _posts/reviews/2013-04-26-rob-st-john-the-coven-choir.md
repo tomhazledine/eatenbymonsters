@@ -29,7 +29,7 @@ categories:
 
 audioLinks:
 - name: Charcoal Black & the Bonnie Grey
-  url: http://eatenbymonsters/EbMBlog_mp3s/RobStJohn_Charcoal.mp3
+  url: http://eatenbymonsters.com/EbMBlog_mp3s/RobStJohn_Charcoal.mp3
 ---
 
 [**Rob St.John**](http://robstjohn.tumblr.com/) has always been a favourite here at **Eaten by Monsters**, and new releases of his are eagerly awaited and avidly consumed. It's always been clear, however, that his music is very much an acquired taste. To the unprepared, his ghostlike baritone and the meandering, lilting nature of his records can easily sweep far over their heads. Thankfully for **St.John** and those of us who follow his efforts, he is not short of supporters and chief amongst those is Matthew Young from [Song, by Toad](http://songbytoadrecords.com/rob-st-john/rob-st-john-the-coven-choir/). A contrary little fucker if ever there was one**†**, it's clear Young would release records like this even if it _lost_ him money. So this new **7**" single is just the latest in a string of great records from **St.John**, although with this one it feels like there was something different in the mix.

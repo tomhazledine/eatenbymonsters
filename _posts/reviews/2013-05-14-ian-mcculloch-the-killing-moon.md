@@ -27,7 +27,7 @@ categories:
 
 audioLinks:
 - name: The Killing Moon
-  url: http://eatenbymonsters/EbMBlog_mp3s/TheKillingMoon.mp3
+  url: http://eatenbymonsters.com/EbMBlog_mp3s/TheKillingMoon.mp3
 ---
 
 In May last year, **Ian M**c**Culloch** — late of **Echo And The Bunnymen** — had some fun mucking about with a string quartet at London’s premier venue for ‘mature’ rock musicians, Union Chapel. That concert was evidently recorded for posterity and is now seeing itself  released as a live album. To advertise the fact, and to show a little love for independent record shops, **M**c**Culloch** has put out a nifty little **7"** under the Record Store Day banner, containing two songs from that concert.

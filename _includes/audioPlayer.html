@@ -1,0 +1,10 @@
+<!-- <button class="amplitude-play">Play</button> -->
+
+{% for audioLink in page.audioLinks %}
+    <div class="standardAudioPlayer">
+        <p><span class="label">Track name: </span> {{ audioLink.name }}</p>
+        <audio controls>
+            <source src="{{ audioLink.url }}">
+        </audio>    
+    </div>
+{% endfor %}

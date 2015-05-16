@@ -703,6 +703,32 @@ blockquote {
       font-size: 1em;
       padding-top: 1em; } }
 
+.player {
+  border-top: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  margin: 1em 0;
+  padding: 1em 0; }
+
+.player .playPause {
+  padding: 1em;
+  background: #7fbbcb;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none; }
+  .player .playPause:before {
+    content: "Pause"; }
+  .player .playPause.amplitude-paused:before {
+    content: "Play"; }
+
+.standardAudioPlayer {
+  border-bottom: 4px solid #333333;
+  margin: 2em 0;
+  padding: 0.2em 0; }
+  .standardAudioPlayer p {
+    padding-bottom: 0; }
+
 .hidden {
   display: none !important;
   visibility: hidden; }

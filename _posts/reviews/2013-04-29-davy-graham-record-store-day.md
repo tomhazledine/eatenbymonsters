@@ -27,10 +27,10 @@ categories:
 
 audioLinks:
 - name: Anji
-  url: http://eatenbymonsters/EbMBlog_mp3s/Graham_Anji.mp3
+  url: http://eatenbymonsters.com/EbMBlog_mp3s/Graham_Anji.mp3
   notes: This version has some bass on it, unlike the solo one on the record, but the joy of vinyl is that it can't be downloaded, so you'll have to make do with this
 - name: Cry Me A River
-  url: http://eatenbymonsters/EbMBlog_mp3s/Graham_River.mp3
+  url: http://eatenbymonsters.com/EbMBlog_mp3s/Graham_River.mp3
   notes: Taken from <strong>Graham's</strong> <strong>1967</strong> album, <em>The Guitar Player<em>
 ---
 

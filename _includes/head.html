@@ -12,6 +12,11 @@
     <!-- Modernizr -->
     <script src="{{ "/assets/js/static/modernizr-2.6.2.min.js" | prepend: site.baseurl }}"></script>
 
+    <!-- Page-Specific Scripts -->
+    {% if page.customScript %}
+        <script src="{{ site.baseurl }}/assets/js/static/{{ page.customScript }}"></script>
+    {% endif %}
+
     <!-- Google+ -->
     <link href='http://fonts.googleapis.com/css?family=Abril+Fatface' rel='stylesheet' type='text/css'>
 

@@ -26,7 +26,7 @@ categories:
 
 audioLinks:
 - name: Eyes To The Ground For A Change
-  url: http://eatenbymonsters/EbMBlog_mp3s/Listener_EyesToTheGround.mp3
+  url: http://eatenbymonsters.com/EbMBlog_mp3s/Listener_EyesToTheGround.mp3
 ---
 
 It can be tough pinning down exactly why you like a new band, but quite often it can be due to one specific moment. Whether it's the vocal-collapse in the middle-eight of *Slipping Husband* that makes you re-listen to **The National's** back-catalogue, or the suspended melody line before the chorus in *Wild Youth* that proves **Daughter** are actually deserving of all the hype, the dividing line between _not-interested_ and _interested_ can very often be crossed by the tiniest of musical moments. This, of course, can then lead to a frustrating search for further signs of that first flash of inspiration; scouring the depths of **Airborne Toxic Event's** output with the vain hope of finding something even half as good as the climax of *Sometime Around Midnight* for instance, or sitting through interminable hours of **Imogen Heap** hoping to relive the excitement of hearing *Hide and Seek* for the first time.
