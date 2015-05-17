@@ -1,5 +1,36 @@
 <div id="player" class="player">
-    <div id="player-top">
+
+    {% assign count = 0 %}
+    {% for audioLink in page.audioLinks %}
+        <div class="playlistSongWrapper amplitude-song-container" amplitude-song-index="{{ count }}">
+            <button class="playlistSongTrigger amplitude-play-pause amplitude-paused" amplitude-song-index="{{ count }}">
+                <span class="playPauseIcon"></span>
+                <span class="playlistInfo playlistSongName">{{ audioLink.name}}</span>
+                <span class="playlistInfo playlistInfoBandAlbum">
+                    <span class="playlistBandName">{% if audioLink.artist %}{{ audioLink.artist }}{% else if page.band %}{{ page.band }}{% endif %}</span> – <span class="playlistAlbumName"><em>{% if audioLink.album %}{{ audioLink.album }}{% else if page.recordTitle %}{{ page.recordTitle }}{% endif %}</em></span>
+                </span>
+            </button>
+
+            <div class="songProgress clearfix">
+
+                <div class="songPlayTimer">
+                    <span class="amplitude-current-minutes" amplitude-song-index="{{ count }}">0</span>:<span class="amplitude-current-seconds" amplitude-song-index="{{ count }}">00</span>
+                </div>
+
+                <input type="range" class="songProgressSlider amplitude-song-slider" amplitude-song-index="{{ count }}" value="0"/>
+
+                <div class="songDuration">
+                    <span class="amplitude-duration-minutes" amplitude-song-index="{{ count }}">0</span>:<span class="amplitude-duration-seconds" amplitude-song-index="{{ count }}">00</span></span>
+                </div>
+
+            </div>
+        </div>
+        {% assign count = count | plus: 1 %}
+    {% endfor %}
+
+
+
+    <!-- <div id="player-top">
         
         <div id="now-playing-title" amplitude-song-info="name"></div>
         <div class="album-information"><span amplitude-song-info="artist"></span> - <span amplitude-song-info="album"></span></div>
@@ -21,5 +52,5 @@
             <span id="audio-duration">
                 <span class="amplitude-duration-minutes" amplitude-single-duration-minutes="true">0</span>:<span class="amplitude-duration-minutes" amplitude-single-duration-seconds="true">00</span>
             </span>
-        </div>
+        </div> -->
 </div>
