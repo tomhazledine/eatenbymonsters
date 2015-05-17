@@ -1,15 +1,25 @@
 <div id="player" class="player">
     <div id="player-top">
+        
         <div id="now-playing-title" amplitude-song-info="name"></div>
         <div class="album-information"><span amplitude-song-info="artist"></span> - <span amplitude-song-info="album"></span></div>
-    </div>
-    <div id="amplitude-visualization">
-        
+
     </div>
     <div id="player-bottom">
+        
         <div id="control-container">
             <button class="amplitude-prev">Prev</button>
             <button class="amplitude-play-pause amplitude-paused" amplitude-main-play-pause="true">Play/Pause</button>
             <button class="amplitude-next">Next</button>
+        </div>
+
+        <div id="current-song-information">
+            <span id="current-time">
+                <span class="amplitude-current-minutes" amplitude-single-current-minutes="true">0</span>:<span class="amplitude-current-seconds" amplitude-single-current-seconds="true">00</span>
+            </span>
+            <input type="range" id="song-time-slider" class="amplitude-song-slider" amplitude-singular-song-slider="true" value="0"/>
+            <span id="audio-duration">
+                <span class="amplitude-duration-minutes" amplitude-single-duration-minutes="true">0</span>:<span class="amplitude-duration-minutes" amplitude-single-duration-seconds="true">00</span>
+            </span>
         </div>
 </div>
