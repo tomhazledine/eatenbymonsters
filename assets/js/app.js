@@ -10414,6 +10414,14 @@ function updateProgress(){
   // console.log(currentSongIndex);
 }
 
+function sliderScrub(newPosition,index){
+  // var what = index;
+  var duration = myAudio[index].duration;
+  var targetTime = duration * (newPosition / 100);
+  myAudio[index].currentTime = targetTime;
+  // console.log(what);
+}
+
 var mobileNavToggle = $('#mobileNavToggle');
 var mainMenu = $('#mainMenu');
 
