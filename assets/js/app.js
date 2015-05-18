@@ -10381,9 +10381,19 @@ function playSong(index,button){
 }
 
 function secondsToMMSS(seconds){
-  var mmss = seconds / 60;
+  var mins = Math.floor(seconds % 3600 / 60);
+  mins = mins.toFixed(0);
+  mins = mins.toString();
+  var secs = Math.floor(seconds % 3600 % 60);
+  secs = secs.toFixed(0);
+  secs = secs.toString();
+  if (secs < 10) {
+    secs = '0' + secs;
+  };
+  var mmss = mins + ':' + secs; 
+  // var mmss = seconds / 60;
   // mmss = mmss / 60;
-  mmss = mmss.toFixed(2);
+  // mmss = mmss.toFixed(2);
   return mmss;
 }
 
