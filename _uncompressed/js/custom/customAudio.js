@@ -3,6 +3,7 @@ var rawAudioData = $('#audioData');
 
 var songPlayPause = $('.playlistSongTrigger');
 
+var currentSongIndex = false;
 var myAudio = [];
 
 if (audioWrapper.length && rawAudioData.length) {
@@ -11,35 +12,37 @@ if (audioWrapper.length && rawAudioData.length) {
     myAudio[i] = new Audio(songs[i].url);
   };
 
-
+  getUpdates();
 
 };
 
 songPlayPause.on('click',function(){
   var clickedButton = $(this);
   var songIndex = clickedButton.data('song-index');
-  console.log(songIndex);
-  console.log(myAudio[songIndex]);
+  // console.log(songIndex);
+  // console.log(myAudio[songIndex]);
   // myAudio[songIndex].play();
 
   if (clickedButton.hasClass('songPlaying')) {
-    console.log('Pause!');
+    // console.log('Pause!');
     myAudio[songIndex].pause();
     clickedButton.removeClass('songPlaying');
     clickedButton.addClass('songPaused');
   } else {
-    console.log('Play!');
+    // console.log('Play!');
     songPlayPause.removeClass('songPlaying');
     songPlayPause.addClass('songPaused');
     playSong(songIndex,clickedButton);
     clickedButton.removeClass('songPaused');
     clickedButton.addClass('songPlaying');
+    console.log(currentSongIndex);
   }
 
 });
 
 function playSong(index,button){
   // stop all songs playing
+  currentSongIndex = index;
   for (var i = 0; i < songs.length; i++) {
     if (i != index) {
       myAudio[i].pause();
@@ -52,20 +55,52 @@ function playSong(index,button){
   if (button.hasClass('notPlayedYet')) {
     var songLength = myAudio[index].duration;
     //console.log(songLength);
-    var mmss = songLength / 60;
-    mmss = mmss.toFixed(2);
+    // var mmss = songLength / 60;
+    // mmss = mmss.toFixed(2);
+    var duration = secondsToMMSS(songLength);
 
     var songClass = '.song' + index;
     var songLengthBox = $(songClass).find('.songDuration');
-    songLengthBox.html(mmss);
+    songLengthBox.html(duration);
 
     // secondsToMMSS(songLength);
     // console.log(mmss);
     button.removeClass('notPlayedYet');
   };
+  // Set the event listener for progress updates
+  // myAudio[index].addEventListener('timeupdate',updateProgress(index),false);
 }
 
 function secondsToMMSS(seconds){
   var mmss = seconds / 60;
+  // mmss = mmss / 60;
+  mmss = mmss.toFixed(2);
   return mmss;
+}
+
+function getUpdates(){
+  for (var i = 0; i < songs.length; i++) {
+    var progress = 'progress';
+    myAudio[i].addEventListener('timeupdate', updateProgress, false);
+  };
+};
+
+function updateProgress(){
+  var progressBarClass = '.song' + currentSongIndex;
+  var songElement = $(progressBarClass);
+  var playTimer = songElement.find('.songPlayTimer');
+  var progressBar = songElement.find('.songProgressSlider');
+  // console.log(progressBar);
+
+  var progress = myAudio[currentSongIndex].currentTime;
+  var duration = myAudio[currentSongIndex].duration;
+  progressParsed = secondsToMMSS(progress);
+  playTimer.html(progressParsed);
+
+  var progressPercent = (progress / duration * 100).toFixed(2);
+
+  progressBar.val(progressPercent);
+
+  // console.log(progressPercent);
+  // console.log(currentSongIndex);
 }
