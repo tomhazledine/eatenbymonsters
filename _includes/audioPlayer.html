@@ -2,8 +2,8 @@
 
     {% assign count = 0 %}
     {% for audioLink in page.audioLinks %}
-        <div class="playlistSongWrapper amplitude-song-container" amplitude-song-index="{{ count }}">
-            <button class="playlistSongTrigger amplitude-play-pause amplitude-paused" amplitude-song-index="{{ count }}">
+        <div class="playlistSongWrapper song{{ count }}" data-song-index="{{ count }}">
+            <button class="playlistSongTrigger songPaused notPlayedYet" data-song-index="{{ count }}">
                 <span class="playPauseIcon"></span>
                 <span class="playlistInfo playlistSongName">{{ audioLink.name}}</span>
                 <span class="playlistInfo playlistInfoBandAlbum">

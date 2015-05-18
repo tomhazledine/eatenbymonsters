@@ -64,7 +64,7 @@
   }
 }
 
-.playlistSongTrigger.amplitude-playing{
+.playlistSongTrigger.songPlaying{
   background:$secondary;
   // background-image:linear-gradient(
   //     to right,
@@ -88,7 +88,7 @@
 //   }
 // }
 
-.playlistSongTrigger.amplitude-paused .playPauseIcon{
+.playlistSongTrigger.songPaused .playPauseIcon{
   &:before{
     content:"";
     display:block;
@@ -104,7 +104,7 @@
   }
 }
 
-.playlistSongTrigger.amplitude-playing .playPauseIcon{
+.playlistSongTrigger.songPlaying .playPauseIcon{
   &:before{
     content:"";
     display:block;

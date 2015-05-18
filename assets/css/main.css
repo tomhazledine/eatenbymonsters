@@ -855,10 +855,10 @@ input[type=range].songProgressSlider:focus::-ms-fill-upper {
     background: #7fbbcb;
     background: rgba(127, 187, 203, 0.6); }
 
-.playlistSongTrigger.amplitude-playing {
+.playlistSongTrigger.songPlaying {
   background: #fbae17; }
 
-.playlistSongTrigger.amplitude-paused .playPauseIcon:before {
+.playlistSongTrigger.songPaused .playPauseIcon:before {
   content: "";
   display: block;
   position: absolute;
@@ -870,7 +870,7 @@ input[type=range].songProgressSlider:focus::-ms-fill-upper {
   border-left: 0.6em solid #fff8d8;
   border-bottom: 0.5em solid transparent; }
 
-.playlistSongTrigger.amplitude-playing .playPauseIcon:before {
+.playlistSongTrigger.songPlaying .playPauseIcon:before {
   content: "";
   display: block;
   position: absolute;
