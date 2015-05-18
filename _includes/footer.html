@@ -27,9 +27,14 @@
     <div class="footerMeta">
 
         <div class="scripts">
+            {% if page.audioLinks %}
+                <!-- Audio Data -->
+                {% include audioLinkJson.html %}
+            {% endif %}
             <!-- Javascript -->
-            <script src="{{ "/assets/js/app.min.js" | prepend: site.baseurl }}"></script>
+            <script id="audioData" src="{{ "/assets/js/app.min.js" | prepend: site.baseurl }}"></script>
         </div>
+
 
     </div>
 </footer>

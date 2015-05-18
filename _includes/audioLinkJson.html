@@ -1,0 +1,40 @@
+<script type="text/javascript">
+    Amplitude.init({
+        "songs": [
+            {% assign first = true %}
+            {% for audioLink in page.audioLinks %}
+                {% unless first %},{% endunless %}
+                {
+                    {% if audioLink.name %}
+                        "name": "{{ audioLink.name }}",
+                    {% endif %}
+
+                    {% if audioLink.artist %}
+                        "artist": "{{ audioLink.artist }}",
+                    {% else if page.band %}
+                        "artist":"{{ page.band }}",
+                    {% endif %}
+
+                    {% if audioLink.album %}
+                        "album": "{{ audioLink.album }}",
+                    {% else if page.recordTitle %}
+                        "album":"{{ page.recordTitle }}",
+                    {% endif %}
+
+                    {% if audioLink.art %}
+                        "cover_art_url": "{{ audioLink.art }}",
+                    {% else %}
+                        "cover_art_url":"/",
+                    {% endif %}
+
+                    {% if audioLink.url %}
+                        "url": "{{ audioLink.url }}"
+                    {% endif %}
+                }
+                {% assign first = false %}
+            {% endfor %}
+        ],
+        "soundcloud_client": 'f5db8f794d0160b355e69fc93bd50f7b',
+        "debug": true
+    });
+</script>

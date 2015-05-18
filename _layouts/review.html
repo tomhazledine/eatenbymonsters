@@ -1,5 +1,6 @@
 ---
 layout: default
+customScript: amplitude.js
 ---
 
 <h1 class="postTitle">
@@ -47,13 +48,24 @@ layout: default
 
 <article class="postContent reviewContent mainContent">
     {%if page.hasExcerpt == true %}
-        <p class="introParagraph">{{ page.excerpt }}</p>
+        <h3>{{ page.excerpt }}</h3>
     {% endif %}
     {{ content }}
+
+    {% if page.audioLinks %}
+        <div id="audio">
+            <div class="dividerWrapper">
+                <h6>Hear it in action</h6>
+            </div>
+
+            {% include audioPlayer.html %}
+        </div>
+
+    {% endif %}
 </article>
 
-<div class="postFooter">
-    <p>Written 
+<div class="postFooter mainContent">
+    <h5>Written 
         {% if page.author %} by {{ page.author }}{% endif %}
         on the
         {% assign d = page.date | date: "%-d"  %} 
@@ -64,5 +76,5 @@ layout: default
             {% else %}{{ d }}th
         {% endcase %}
         {{ page.date | date: "%B" }}, 
-        {{ page.date | date: "%Y" }}.</p>
+        {{ page.date | date: "%Y" }}.</h5>
 </div>
