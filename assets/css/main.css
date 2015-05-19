@@ -466,6 +466,26 @@ input[type=range].songProgressSlider:focus::-ms-fill-upper {
         -ms-transform-origin: 0 100%;
             transform-origin: 0 100%; }
 
+.coverImageWrapper {
+  float: right;
+  max-width: 50%;
+  margin: 0 -25% 0.5em 0.5em; }
+  .coverImageWrapper img {
+    max-width: 100%;
+    height: auto; }
+  @media (max-width: 960px) {
+    .coverImageWrapper {
+      margin: 0 -10% 0.5em 0.5em; } }
+  @media (max-width: 750px) {
+    .coverImageWrapper {
+      margin: 0 0 0.5em 0.5em; } }
+  @media (max-width: 400px) {
+    .coverImageWrapper {
+      float: none;
+      max-width: 100%;
+      width: 100%;
+      margin: 0 0 0.5em 0; } }
+
 .mainHeader {
   position: relative; }
 

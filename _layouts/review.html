@@ -45,10 +45,17 @@ layout: default
 
 </div>
 
-<article class="postContent reviewContent mainContent">
+<main class="postContent reviewContent mainContent">
     {%if page.hasExcerpt == true %}
         <h3>{{ page.excerpt }}</h3>
     {% endif %}
+
+    {% if page.coverImage %}
+        <div class="coverImageWrapper">
+            <img src="/assets/images/covers/{{ page.coverImage }}" alt="The cover image of {{ page.recordTitle }} by {{ page.band }}">
+        </div>
+    {% endif %}
+    
     {{ content }}
 
     {% if page.audioLinks %}
@@ -61,7 +68,7 @@ layout: default
         </div>
 
     {% endif %}
-</article>
+</main>
 
 <div class="postFooter mainContent">
     <h5>Written 

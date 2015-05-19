@@ -20,6 +20,8 @@ miniDescription: Broken Records remind us why they're great
 hasExcerpt: true
 excerpt: <strong>Broken Records</strong> trail their upcoming album with a new <strong>EP</strong>, <em>Toska</em>. Worth buying for the last track alone.
 
+coverImage: brokenRecords_toska.png
+
 categories:
 - review
 
