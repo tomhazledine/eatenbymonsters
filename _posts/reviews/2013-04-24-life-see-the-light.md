@@ -23,6 +23,8 @@ excerpt: New London four-piece <strong>Life</strong> blend synthetic elements wi
 
 categories:
 - review
+
+coverImage: covers/life1.jpg
 ---
 
 London band **Life** are a new four-piece hoping to make a mark with their debut single, *See The Light*. Taken from an upcoming **EP** – *Elixir*, released in June – if *See The Light* is indicative of the rest of their output we may have stumbled upon something very special here.

@@ -23,6 +23,8 @@ excerpt: This eponymous release from <strong>Stay On The Bike</strong> came clos
 categories:
 - review
 
+coverImage: covers/styn1.jpg
+
 audioLinks:
 - name: Left
   url: http://eatenbymonsters.com/EbMBlog_mp3s/StayOnTheBike_Left.mp3

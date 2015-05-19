@@ -23,6 +23,8 @@ excerpt: Indie trio <strong>Daughter</strong> have been making waves in the blog
 categories:
 - review
 
+coverImage: covers/dght3.jpg
+
 audioLinks:
 - name: Human
   url: http://eatenbymonsters.com/EbMBlog_mp3s/Daughter_Human.mp3

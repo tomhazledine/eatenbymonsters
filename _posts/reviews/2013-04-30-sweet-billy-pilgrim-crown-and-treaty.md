@@ -25,6 +25,8 @@ excerpt: A year after its release, <strong>Sweet Billy Pilgrim</strong> are givi
 categories:
 - review
 
+coverImage: covers/swtb1.jpg
+
 audioLinks:
 - name: Joyful Reunion
   url: http://eatenbymonsters.com/EbMBlog_mp3s/SBP_JoyfulReunion.mp3

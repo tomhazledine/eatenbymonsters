@@ -27,6 +27,8 @@ layout: post
 categories:
 - review
 
+coverImage: covers/rbst1.jpg
+
 audioLinks:
 - name: Charcoal Black & the Bonnie Grey
   url: http://eatenbymonsters.com/EbMBlog_mp3s/RobStJohn_Charcoal.mp3

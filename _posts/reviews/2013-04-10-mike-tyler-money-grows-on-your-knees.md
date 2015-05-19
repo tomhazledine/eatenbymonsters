@@ -23,6 +23,8 @@ excerpt: <strong>mike tyler</strong> writes songs that are one part sly intellig
 categories:
 - review
 
+coverImage: covers/mkty1.jpg
+
 audioLinks:
 - name: Money Grows On Your Knees
   url: http://eatenbymonsters.com/EbMBlog_mp3s/MikeTyler_MoneyGrows.mp3
