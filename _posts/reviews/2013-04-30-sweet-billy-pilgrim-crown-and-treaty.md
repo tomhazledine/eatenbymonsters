@@ -30,6 +30,7 @@ audioLinks:
   url: http://eatenbymonsters.com/EbMBlog_mp3s/SBP_JoyfulReunion.mp3
 - name: Stars Spill Out Of Cups
   url: http://eatenbymonsters.com/EbMBlog_mp3s/SBP_StarsSpill.mp3
+  album: We Just Did What Happened And No One Came
 ---
 
 Aylesbury four-piece **Sweet Billy Pilgrim** have decided to give away their most recent album for free, and many will be asking why. The album in question, *Crown & Treaty*, is only just a year old and has received almost universal critical acclaim, and the band themselves appear to have been on an upward trajectory ever since their previous effort – **2009**'s *Twice Born Men* – was nominated for a *Mercury Music Prize*. Giving your music away completely gratis often smacks of desperation, and the real worry is that not only does it devalue the music of the band in question, but also devalues all music in the eyes of anyone who receives such a gift. **Sweet Billy Pilgrim** are not a new band, and are certainly not a bad band, and one suspects that even as little as ten years ago it would never have come to this. But what the band _are_ is staunchly independent, and in [an impassioned missive to their fanbase](http://www.huffingtonpost.co.uk/tim-elsenburg/pilgrims-progress-ii-whats-the-value-of-free_b_3138221.html) band leader Tim Elsenburg outlined the reasoning behind this new strategy.

@@ -2,8 +2,8 @@
 
     {% assign count = 0 %}
     {% for audioLink in page.audioLinks %}
-        <div class="playlistSongWrapper amplitude-song-container" amplitude-song-index="{{ count }}">
-            <button class="playlistSongTrigger amplitude-play-pause amplitude-paused" amplitude-song-index="{{ count }}">
+        <div class="playlistSongWrapper song{{ count }}" data-song-index="{{ count }}">
+            <button class="playlistSongTrigger songPaused notPlayedYet" data-song-index="{{ count }}">
                 <span class="playPauseIcon"></span>
                 <span class="playlistInfo playlistSongName">{{ audioLink.name}}</span>
                 <span class="playlistInfo playlistInfoBandAlbum">
@@ -14,13 +14,13 @@
             <div class="songProgress clearfix">
 
                 <div class="songPlayTimer">
-                    <span class="amplitude-current-minutes" amplitude-song-index="{{ count }}">0</span>:<span class="amplitude-current-seconds" amplitude-song-index="{{ count }}">00</span>
+                    0:00
                 </div>
 
-                <input type="range" class="songProgressSlider amplitude-song-slider" amplitude-song-index="{{ count }}" value="0"/>
+                <input type="range" class="songProgressSlider" min="0" max="100" value="0" oninput="sliderScrub(value,{{ count }})"/>
 
                 <div class="songDuration">
-                    <span class="amplitude-duration-minutes" amplitude-song-index="{{ count }}">0</span>:<span class="amplitude-duration-seconds" amplitude-song-index="{{ count }}">00</span></span>
+                    0:00
                 </div>
 
             </div>

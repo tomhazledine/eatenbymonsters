@@ -851,14 +851,14 @@ input[type=range].songProgressSlider:focus::-ms-fill-upper {
     left: 0em;
     color: #fff8d8;
     text-align: center; }
-  .playlistSongTrigger.amplitude-paused:hover {
+  .playlistSongTrigger.songPaused:hover {
     background: #7fbbcb;
     background: rgba(127, 187, 203, 0.6); }
 
-.playlistSongTrigger.amplitude-playing {
+.playlistSongTrigger.songPlaying {
   background: #fbae17; }
 
-.playlistSongTrigger.amplitude-paused .playPauseIcon:before {
+.playlistSongTrigger.songPaused .playPauseIcon:before {
   content: "";
   display: block;
   position: absolute;
@@ -870,7 +870,7 @@ input[type=range].songProgressSlider:focus::-ms-fill-upper {
   border-left: 0.6em solid #fff8d8;
   border-bottom: 0.5em solid transparent; }
 
-.playlistSongTrigger.amplitude-playing .playPauseIcon:before {
+.playlistSongTrigger.songPlaying .playPauseIcon:before {
   content: "";
   display: block;
   position: absolute;
@@ -898,7 +898,7 @@ input[type=range].songProgressSlider:focus::-ms-fill-upper {
 
 .songProgress {
   height: 1em;
-  background: rgba(46, 204, 64, 0.4);
+  background: #7fbbcb;
   position: relative; }
   .songProgress .songPlayTimer, .songProgress .songDuration {
     width: 4em;
@@ -907,7 +907,8 @@ input[type=range].songProgressSlider:focus::-ms-fill-upper {
     top: 0;
     color: #333333;
     color: #fff8d8;
-    line-height: 1.2;
+    line-height: 1.5;
+    height: 1em;
     pointer-events: none;
     font-family: monospace; }
   .songProgress .songPlayTimer {

@@ -58,13 +58,13 @@
     color:$cream;
     text-align:center;
   }
-  &.amplitude-paused:hover{
+  &.songPaused:hover{
     background:$primary;
     background:rgba($primary,.6);
   }
 }
 
-.playlistSongTrigger.amplitude-playing{
+.playlistSongTrigger.songPlaying{
   background:$secondary;
   // background-image:linear-gradient(
   //     to right,
@@ -88,7 +88,7 @@
 //   }
 // }
 
-.playlistSongTrigger.amplitude-paused .playPauseIcon{
+.playlistSongTrigger.songPaused .playPauseIcon{
   &:before{
     content:"";
     display:block;
@@ -104,7 +104,7 @@
   }
 }
 
-.playlistSongTrigger.amplitude-playing .playPauseIcon{
+.playlistSongTrigger.songPlaying .playPauseIcon{
   &:before{
     content:"";
     display:block;
@@ -137,7 +137,7 @@
 
 .songProgress{
   height:1em;
-  background:rgba($green,.4);
+  background:$primary;
   position:relative;
   .songPlayTimer,.songDuration{
     width:4em;
@@ -146,7 +146,8 @@
     top:0;
     color:$black;
     color:rgba($cream,1);
-    line-height:1.2;
+    line-height:1.5;
+    height:1em;
     pointer-events:none;
     font-family:monospace;
   }
