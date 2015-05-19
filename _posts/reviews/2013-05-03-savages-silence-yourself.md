@@ -23,6 +23,8 @@ excerpt: Over-hyped, regressive, derivative, and simply terrible sounding, there
 
 categories:
 - review
+
+coverImage: covers/svgs1.jpg
 ---
 
 There are plenty of instances where I've been swept along with everyone else when the hype machine**†** rolls into town. For instance, everyone loves **Chvrches**, and I too love **Chvrches**. There are also a number of occasions where I've vehemently disagreed with popular opinion only to later have a change of heart and concede that, actually, all the fuss was justified. Everyone loved **Daughter** when I thought little of them, now I've turned full circle and [can't get enough of them](http://eatenbymonsters/review/daughter-if-you-leave/). The gist of my point is that my tastes are not all that different from the mainstream (and by ‘mainstream’ I mean the oxymoronic _alternative_ mainstream; all that X-factor/pop-charts-nonsense can take a hike).

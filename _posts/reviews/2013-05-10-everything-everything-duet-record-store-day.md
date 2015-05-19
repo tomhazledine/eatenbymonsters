@@ -23,6 +23,8 @@ excerpt: <strong>Everything Everything</strong> give away part of their soul wit
 
 categories:
 - review
+
+coverImage: covers/evrt1.jpg
 ---
 
 Yep, you read it right, **Everything Everything** went ‘all out’ for *Record Store Day 2013* by taking the unprecedented step of scribbling on the cover of their latest **7"** single, *Duet*. Okay, joking aside this maybe isn't the most impressive of the ‘special editions’ that were released for **RSD** this year (or ever), but at least they're making _some_ effort for a good cause.

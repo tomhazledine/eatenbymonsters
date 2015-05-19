@@ -33,6 +33,8 @@ audioLinks:
   url: http://eatenbymonsters.com/EbMBlog_mp3s/CWK_LostThatEasy.mp3
 - name: Bottled Affection
   url: http://eatenbymonsters.com/EbMBlog_mp3s/CWK_BottledAffection.mp3
+
+coverImage: covers/cldw1.jpg
 ---
 
 This record kicks of with classic **Cold War Kids** swagger; furious piano-bashing and the maniacal air of a band who know what they do best, and are happy to revel in it. But to the discerning ear there are subtle hints that *Dear Miss Lonelyhearts* is _not_ business-as-usual for the band. For starters, the guitar work here sounds _massive_. One of **CWK’**s defining features has always been the angular, caustic nature of the guitar playing, but on this record — and particularly on opener *Miracle Mile* — the guitar sounds considerably more produced, more considered, more punchy. Where early **Cold War Kids** records went for the neck, this one aims for the gut.

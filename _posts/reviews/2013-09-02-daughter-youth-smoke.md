@@ -23,6 +23,8 @@ excerpt: <strong>Youth</strong> has long been a favourite song of mine, but it's
 
 categories:
 - review
+
+coverImage: covers/dght1.jpg
 ---
 
 It's only a recent obsession, but lately I've come to _love_ **7"** singles. In many ways they're the perfect format: more real-estate for cover art that the fast-disapearing (one hopes) **CD** yet less unwieldy than a **10"** or **12"**, the aesthetic balance between label and bare vinyl is more pleasing than a larger record, and – most importantly – you're presented with a highly selective few minutes of music that the very process of putting on the record *forces* you to pay close attention to. A blessed side effect of this high level of editorial discipline is that the **b**-side is rarely wasted on a useless remix; and often it's the **b**-side that marks the single as something worth owning.

@@ -52,10 +52,10 @@ layout: default
 
     {% if page.coverImage %}
         <div class="coverImageWrapper">
-            <img src="/assets/images/covers/{{ page.coverImage }}" alt="The cover image of {{ page.recordTitle }} by {{ page.band }}">
+            <img src="/assets/images/{{ page.coverImage }}" alt="The cover image of {{ page.recordTitle }} by {{ page.band }}">
         </div>
     {% endif %}
-    
+
     {{ content }}
 
     {% if page.audioLinks %}

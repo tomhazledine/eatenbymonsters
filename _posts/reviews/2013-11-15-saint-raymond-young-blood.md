@@ -23,6 +23,8 @@ excerpt: <strong>Saint Raymond</strong> is the latest signing to singles-label <
 
 categories:
 - review
+
+coverImage: bandphotos/sntr1.jpg
 ---
 
 It looks like cooler-than-thou singles-label **[National Anthem](http://www.national-anthem.co.uk/artists/)** have secured themselves another upbeat indie act to add to their small-but-star-studded roster. They’ve already proved themselves to be reliable hipster bellwethers by putting out **7**"s by **Chvrches** and **Haim** “before they were cool” and even their less commercially successful releases have been remarkably good records (both **Atlas Genius**’ *Trojans* and **Sir Sly**’s *Ghost* have never strayed too far from my turntable).

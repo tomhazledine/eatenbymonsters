@@ -25,6 +25,8 @@ excerpt: If last year's <strong>Volcano Choir</strong> record hasn't sated your 
 categories:
 - review
 
+coverImage: covers/bfrv1.jpg
+
 audioLinks:
 - name: Bones
   url: http://somethingsomethingrecords.bandcamp.com/album/boo-forever

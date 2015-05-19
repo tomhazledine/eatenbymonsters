@@ -105,7 +105,7 @@ gulp.task('jslint', function() {
 // Set up image minification
 gulp.task('images', function() {
     return gulp.src('_uncompressed/images/**')
-        .pipe(cache(imagemin({ optimizationLevel: 9, progressive: true, interlaced: true })))
+        .pipe(imagemin({ optimizationLevel: 9, progressive: true, interlaced: true }))
         .pipe(gulp.dest('assets/images'))
         .pipe(livereload(server));
 });

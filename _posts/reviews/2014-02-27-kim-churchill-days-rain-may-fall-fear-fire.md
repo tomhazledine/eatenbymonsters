@@ -21,6 +21,8 @@ hasExcerpt: true
 excerpt: I find it all too easy to mock “surfer music”, but I'll think twice now I've
   heard <strong>Kim Churchill</strong>
 
+coverImage: bandphotos/kmch1.jpg
+
 categories:
 - review
 ---
