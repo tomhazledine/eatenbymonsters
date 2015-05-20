@@ -486,6 +486,24 @@ input[type=range].songProgressSlider:focus::-ms-fill-upper {
       width: 100%;
       margin: 0 0 0.5em 0; } }
 
+.paginatorLink {
+  display: block;
+  float: left;
+  padding: 0.5em;
+  line-height: 1;
+  background: #7fbbcb;
+  margin: 0 0.2em 0.2em 0;
+  color: #fff8d8;
+  font-family: "ff-meta-sc-web-pro", "ff-meta-web-pro", "Helvetica Neue", helvetica, arial, sans-serif;
+  text-transform: lowercase;
+  font-size: 0.8em; }
+  .paginatorLink:hover {
+    background: #fbae17; }
+  .paginatorLink.home {
+    background: #333333; }
+  .paginatorLink.current {
+    background: #bbb; }
+
 .mainHeader {
   position: relative; }
 

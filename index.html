@@ -69,6 +69,21 @@ layout: default
         <p class="small"><a href="/">Back to the home page</a>? <a href="{{ paginator.previous_page_path }}">The previous page</a>. <a href="{{ paginator.next_page_path }}">The next page</a>.</p>
 
     {% endif %}
+
+    
+    <div class="paginationList clearfix">
+        {% for i in (1..paginator.total_pages) %}
+            {% if i == 1 %}
+                <a class="paginatorLink home" href="/">Home</a>
+            {% else %}
+                {% if i == paginator.page %}
+                    <span class="paginatorLink current">{{ i }}</span>
+                {% else %}
+                    <a class="paginatorLink" href="/page{{ i }}">{{ i }}</a>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+    </div>
 </div>
 
 <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
