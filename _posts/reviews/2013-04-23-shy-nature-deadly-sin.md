@@ -33,6 +33,8 @@ These last few years have seen something of a renaissance in the arena of the �
 
 It also means that writing a blog such as this requires one to blast through a mass of singles in as short a time as possible. New sounds are given a few seconds to prove themselves, and if they can’t impress in the opening bars then they’re quickly discarded. Many readers won’t be surprised that many tracks aren’t listened to in their entirety, but it would probably shock everyone to discover exactly how many don’t get more than even 10 seconds.
 
+<div>{% include coverImg.html %}</div>
+
 So in this environment of short attention spans and brutal editing it takes something special to even get listened to, let alone written about. Mercifully for me, there are plenty of bands who make music that cuts through the mess of submissions easily.
 
 **Shy Nature** have just the right kind of sound to cleave through the detritus of a cluttered inbox like knife through a hot cliché. The joyful bounce of their single *Deadly Sin* ensured it got listened to, and there’s just enough grit and spiky attitude to warrant many more listens after that. The indie rock timbre of the piece has been in vogue now for a good many years but, as **Shy Nature** easily prove, there’s still scope for invention and – if nothing else – the sheer joy of a job done well.

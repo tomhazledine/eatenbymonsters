@@ -29,6 +29,8 @@ categories:
 
 **Broken Records** are back. They’re threatening a new album later in the year, but for those of us too eager to wait until May, they’ve put together a campaign over on [**Pledge Music**](http://www.pledgemusic.com/projects/broken-records). We all know how crowd-funding works by now, don’t we? You choose how much of your hard-earned to give to the band, and when they’ve finished making all their lovely stuff you get some of it; exactly what you get depends on how much you “pledged”.
 
+<div>{% include coverImg.html %}</div>
+
 In amongst the many album-related rewards is a new four-track **EP**, *Toska*, which you can get as a download or a **10**” vinyl. **Broken Records** have undergone a few changes since I last encountered them, not least of which is a line-up shift and decision to hide the glockenspiel. Mercifully, however, the resultant sound is still unmistakably **Broken Records**; bombastic and ambitious, just like they’ve always been.
 
 Beyond that, even having listened to the record repeatedly over the last week or so, that’s about as much as I can tell you about the first three tracks: they sound like they were written and performed by **Broken Records** – they have that _sound_ about them – but honestly they were all rather forgettable. Pleasant enough stuff, to be sure, but they go in one ear and out the other all to easily.

@@ -31,6 +31,8 @@ coverImage: covers/sprk1.jpg
 
 It could be because the American ‘traditional’ scene is so well curated that youngsters making their own music steer well clear of the established country and folk scenes, whereas here in England ‘folk music’ is such an abstract term that anyone with an acoustic guitar gravitates toward it. Or perhaps there's just something in the air over there.
 
+<div>{% include coverImg.html %}</div>
+
 Whatever the reason, acoustic music made by teenagers in England is generally pretty terrible while our American cousins do a brisk trade in well crafted heartfelt acoustic rock made by teenagers for teenagers.
 
 My tastes are currently almost parochial in their UK-centricity, but not long ago my ears sought only American sounds. **Spark Alaska** – or Lorenzo Cook as he's known to his friends – is not strictly-speaking a Yank, being as he grew up in Brussels, but listening to his music reminds me of everything my younger self looked for in those cherished **Deep Elm** imports and **Get Up Kids** bootlegs.

@@ -37,3 +37,5 @@ youtube:
 
 coverImage: covers/XXXX.jpg
 ---
+
+<div>{% include coverImg.html %}</div>

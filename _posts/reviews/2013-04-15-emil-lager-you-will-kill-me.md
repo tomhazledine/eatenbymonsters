@@ -28,6 +28,8 @@ coverImage: covers/emll1.jpg
 
 Another track from the depths of my inbox for you today. **Emil Lager** is a Swede who's wandered all over Europe and finally settled in London. His is a traditional take on the whiteman's blues, with it's spiritual roots firmly planted in route 66 and the American troubadour tradition.
 
+<div>{% include coverImg.html %}</div>
+
 Armed with little more than his guitar, his voice, and a stomping foot he's working on building a name for himself on the live circuit. Whether he'll actually break through the noise and gain some worthy recognition I can't say, as there are seemingly hordes of songwriters all operating in very similar territory, but Lager's efforts are better than most.
 
 His biggest claim to fame so far was being mistaken by many for Johnny Depp when he appeared briefly as **Django Reinhardt** in the Depp/Scorsese film *Hugo*. There's no mention of that in the email he sent me, so it might be that he's trying to make it in music on his own terms without any gimmicky attachments (in which case I doubt he'll thank me for bringing it up here).

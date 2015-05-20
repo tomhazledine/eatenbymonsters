@@ -30,6 +30,8 @@ coverImage: covers/ktnh1.jpg
 
 **Keaton Henson's** delicate, if arguably overly mannered, single *Sweetheart, What Have You Done?* was one of the best tracks I heard at the tail end of last year. Since then he's released a new album, *Birthdays*, which I've yet to hear, but I have found the time to dig out his back-catalogue, and I've been very impressed with what I found.
 
+<div>{% include coverImg.html %}</div>
+
 At times the fey crippled-by-shyness shtick can wear a bit thin, and I've yet to hear anything he's recorded with being struck by just how whiny he is. Nevertheless, there's an air to his delivery and to the gentle tone of his guitar that's got under my skin big time. So when I returned to the Music Nostalgia record shop for a quick browse I was rather excited to see that not only has Henson released another **7"**, but that it was a fancy Record Store Day release.  I was sure I'd [missed out on most of the **RSD** fun](http://eatenbymonsters/review/davy-graham-record-store-day/), but without the stern gaze of my better half compelling me to rush I was able to have a _proper_ rummage and found some real treats (more on these to follow).
 
 To make things even more exciting, this single was one of those swanky lazer-etched not-quite-a-picture-disc discs. Engraving on the vinyl does mean we're limited to one side of music only, but that one track is a corker. *You* is very similar to *Sweetheart...* in tone, delivery, atmosphere, and lyrical content, but to be honest it's a combination I'm happy to hear more of. If nothing else, this record has pushed **Henson's** album further up my ‘must listen too soon’ list.
