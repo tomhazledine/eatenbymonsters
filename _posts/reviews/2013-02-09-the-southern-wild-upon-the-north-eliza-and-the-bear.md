@@ -20,6 +20,8 @@ miniDescription: Eliza and the Bear do it the old fashioned way
 hasExcerpt: true
 excerpt: The split A-side of <strong>The Southern Wild / Upon The North</strong> is simply a good band with good songs doing their thing really well.
 
+coverImage: covers/eatb2.jpg
+
 categories:
 - review
 ---

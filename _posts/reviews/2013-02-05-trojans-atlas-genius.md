@@ -21,6 +21,8 @@ hasExcerpt: true
 excerpt: National Anthem are a singles label with a good ear for
   a good record, and they've picked another gem with <strong>Atlas Genius</strong>.
 
+coverImage: covers/atls1.jpg
+
 categories:
 - review
 ---

@@ -20,6 +20,8 @@ miniDescription: A lovely instrumental single from Darbishire trio Haiku Salut.
 hasExcerpt: true
 excerpt: Pitched between Mogwai and Yann Tiersen, <strong>Haiku Salut</strong> are a trio of Darbishire lasses with a mesmerizing sonic palate and a distinct francophile sensibility.
 
+coverImage: covers/hksl1.jpg
+
 categories:
 - review
 ---

@@ -23,6 +23,8 @@ excerpt: This music is new, this music is effortless, this music is important. <
 categories:
 - review
 
+coverImage: covers/thsr1.jpg
+
 soundcloud:
 - http://api.soundcloud.com/tracks/68950657
 ---

@@ -18,8 +18,9 @@ buyItLinkTitle: Bandcamp
 
 miniDescription: A charming single from Joanna Gruesome
 hasExcerpt: true
-excerpt: <strong>Joanna Gruesome</strong> have a fantastic name and a fantastic record label. Their
-  single's pretty good, too.
+excerpt: <strong>Joanna Gruesome</strong> have a fantastic name and a fantastic record label. Their single's pretty good, too.
+
+coverImage: covers/jnng1.jpg
 
 categories:
 - review

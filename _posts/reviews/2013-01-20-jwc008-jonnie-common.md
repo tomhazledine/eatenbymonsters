@@ -20,6 +20,8 @@ miniDescription:
 hasExcerpt: false
 excerpt: REMEMBER_MARKUP
 
+coverImage: covers/jnnc2.jpg
+
 categories:
 - review
 ---

@@ -20,6 +20,8 @@ miniDescription: Eels return to what they do best on their new album.
 hasExcerpt: true
 excerpt: <strong>Eels</strong> go through the motions on their new record, <em>Wonderful, Glorious</em>. But when the motions are this good, who’s complaining?!
 
+coverImage: covers/eels1.jpg
+
 categories:
 - review
 ---
