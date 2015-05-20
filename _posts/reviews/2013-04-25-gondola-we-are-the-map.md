@@ -22,6 +22,8 @@ excerpt: <strong>Gondola</strong> run the gamut from breezy acoustic pop to rowd
 
 categories:
 - review
+
+coverImage: covers/gndl1.jpg
 ---
 
 You could easily be forgiven for looking at the last few months' output from this site and concluding that my favourite kind of music is electro-pop, but you'd be very wrong. It just so happens that there's been a lot of music of that ilk that's popped up on my radar of late, and yes I do like it, but my main focus is still very much that which can be best described by the phrase ‘vaguely acoustic indie rock’. Given the overwhelming dominance of the synthetic on these pages of late, it's always with a sigh of relief that I find a great record that's more in line with my real desires. Brooklyn-based five-piece **Gondola** hit the target slap bang in the bullseye, and I love them for it.

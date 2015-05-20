@@ -22,6 +22,8 @@ excerpt: Long-time fans rejoice as <strong>Matthew and the Atlas</strong> herald
 
 categories:
 - review
+
+coverImage: bandphotos/mata1.jpg
 ---
 
 In **2009** I played a show where the only people in attendance were either venue staff or musicians actually playing at the event themselves. These kinds of turnouts are sent to test young musicians; a rite-of-passage that separates the wheat from the chaff, the men from the boys, and the true artists from the dilettantes. Myself, I grew tired of the non-existent, hostile, or (even worse!) ambivalent audiences pretty quickly, and have long-since retreated to the sidelines and the more cosy surrounds of an ‘informed observer’. One of the acts that shared the bill with me that night was not so easily defeated.

@@ -25,6 +25,8 @@ excerpt: Record Store Day <strong>2013</strong> heralds a re-issue of the disc t
 categories:
 - review
 
+coverImage: covers/dvyg1.jpg
+
 audioLinks:
 - name: Anji
   url: http://eatenbymonsters.com/EbMBlog_mp3s/Graham_Anji.mp3

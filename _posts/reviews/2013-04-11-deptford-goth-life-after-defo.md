@@ -23,6 +23,8 @@ excerpt: <strong>Deptford Goth</strong>'s last single, <em>Union</em>, is one of
 categories:
 - review
 
+coverImage: covers/dptf1.jpg
+
 audioLinks:
 - name: Union
   url: http://eatenbymonsters.com/EbMBlog_mp3s/DeptfordGoth_Union.mp3

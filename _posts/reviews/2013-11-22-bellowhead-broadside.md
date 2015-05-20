@@ -23,6 +23,8 @@ excerpt: It&#8217;s taken several albums to achieve, but <strong>Bellowhead</str
 
 categories:
 - review
+
+coverImage: covers/bllw1.jpg
 ---
 
 There are some bands that should only ever be heard on record, and some that should only be heard live. I'd put **The National** and **Death Cab For Cutie** squarely in the first camp; two of my favourite bands, to be sure, but ones that only reach their full potential in the studio. A band I'd previously put in the latter camp is the rowdy folk orchestra/collective **Bellowhead**.

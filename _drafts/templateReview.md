@@ -34,4 +34,6 @@ soundcloud:
 
 youtube:
 - FULL_URL
+
+coverImage: covers/XXXX.jpg
 ---

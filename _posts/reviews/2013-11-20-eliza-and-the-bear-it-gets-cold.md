@@ -22,6 +22,8 @@ excerpt: <em>It Gets Cold</em> is the new single from Eaten by Monsters favourit
 
 categories:
 - review
+
+coverImage: bandphotos/eatb1.jpg
 ---
 
 It’s a refreshing experience to find a band that continue to live up to their early promise. [**Eliza and the Bear**](http://elizaandthebear.com/) made a big impression with their [*Upon The North/The Southern Wild* double-**a**-side](http://eatenbymonsters/review/the-southern-wild-upon-the-north-eliza-and-the-bear/) at the start of this year, and their latest single, *It Gets Cold*, is at least as good as their past efforts. In fact, it may even be better. Too often bands who kick things off with an instant-sure-fire-smash-hit debut single fade away into the background in less time than it takes for a post about them to be pushed off the front page of a blog feed.

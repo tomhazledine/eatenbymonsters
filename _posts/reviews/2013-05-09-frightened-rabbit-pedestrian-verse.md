@@ -31,6 +31,8 @@ audioLinks:
   url: http://eatenbymonsters.com/EbMBlog_mp3s/FrightenedRabbit/TheWoodpile.mp3
 - name: Dead Now
   url: http://eatenbymonsters.com/EbMBlog_mp3s/FrightenedRabbit/DeadNow.mp3
+
+coverImage: covers/frgt1.jpg
 ---
 
 It's no secret that **Frightened Rabbit** are something of a house favourite here at **EbM**, and the **EP**s that preceded their most recent album have all been well received on these pages. *[A Frightened Rabbit EP](http://eatenbymonsters/music/a-frightened-rabbit-ep-frightened-rabbit/)*, and [*State Hospital*](http://eatenbymonsters/review/state-hospital-frightened-rabbit/) both appeared to drop hints as to what the next album would bring; a rougher, less anthemic record than [*Winter of Mixed Drinks*](http://eatenbymonsters/music/the-winter-of-mixed-drinks-frightened-rabbit/), more in the vein of their breakthrough album, [*Midnight Organ Fight*](http://eatenbymonsters/music/the-midnight-organ-fight-frightened-rabbit/). In some regards, that prediction turned out to be true, but in others it was just plain wrong. *Pedestrian Verse*, the band's fourth **LP**, is undeniably more ‘edgy’ than its predecessor, but in many ways is actually _more_ anthemic and slick.

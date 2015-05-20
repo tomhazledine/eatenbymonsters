@@ -23,6 +23,8 @@ excerpt: <em>Summer Palace</em> is the new scratchy, rough-as-sandpaper <strong>
 
 categories:
 - review
+
+coverImage: covers/vrgn1.jpg
 ---
 
 I often wonder how tiny musicians (in terms of fanbase/budget/etc. not actual physical size) existed before the digital revolution. With the advancement of home recording and the inevitable democratization of the means of production, modern music consumers are continually bombarded by records of all qualities; good and bad. At times I despair of the situation I find myself in, as the signal-to-noise ratio is so skewed by the vast hulking mass of terrible records, but at other times I rejoice, for back in the good ol' days there's simply no way I would have ever heard a record by an unknown artist from, say, Seattle, who makes sparse, lo-fi works of intrigue and confusion. Partly because such an artist could never have secured the capital necessary to be able to spend time in a recording studio, and partly because even if such a record had been made, there's no conceivable way it could have traveled to the depths of provincial England; I'd simply never have had the chance to hear it.

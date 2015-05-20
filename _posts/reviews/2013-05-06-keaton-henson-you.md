@@ -24,6 +24,8 @@ excerpt: <strong>Keaton Henson</strong> treats us to another piece of his love-l
 
 categories:
 - review
+
+coverImage: covers/ktnh1.jpg
 ---
 
 **Keaton Henson's** delicate, if arguably overly mannered, single *Sweetheart, What Have You Done?* was one of the best tracks I heard at the tail end of last year. Since then he's released a new album, *Birthdays*, which I've yet to hear, but I have found the time to dig out his back-catalogue, and I've been very impressed with what I found.

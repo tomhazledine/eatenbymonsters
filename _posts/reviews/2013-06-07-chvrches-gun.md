@@ -27,6 +27,8 @@ categories:
 audioLinks:
 - name: Gun
   url: http://eatenbymonsters.com/EbMBlog_mp3s/Chvrches_Gun.mp3
+
+coverImage: covers/chvr1.jpg
 ---
 
 The past three **Chvrches** singles were notable for their immediacy; *Lies*, *The Mother We Share*, and *Recover* were all instantly-accessible pop hits. This applies both in terms of medium _and_ construction: instantly available to stream on the ’net – emerging fully formed and universally embraced with the kind of fervour only the very best best hype-bands can manage – and instantly understandable from a musical perspective. There are no secrets of structure here, no complex mystery that has to be coaxed out over many listening sessions. This is pop music, plain and simple.
