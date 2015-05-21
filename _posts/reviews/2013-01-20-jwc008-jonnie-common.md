@@ -20,11 +20,15 @@ miniDescription:
 hasExcerpt: false
 excerpt: REMEMBER_MARKUP
 
+coverImage: covers/jnnc2.jpg
+
 categories:
 - review
 ---
 
 There's nothing **Jonnie Common** has made that I don't like. There's something about his folksy lo-fi charm married with his exquisite electronic noodling that just hits all the right spots for me. His _Master of None_ **LP** was as close to perfect as albums get, and this new release is yet another strong addition to his canon.
+
+<div>{% include coverImg.html %}</div>
 
 What really piqued my interest, however, was the gimmicky way this **19** minute **EP** is presented. _JWC008_ comes as a screenprinted glass badge. I'm always wrestling with ways to combine the physical and digital sides of music. The fact that mp3s are just _so_ convenient is unavoidable, but there's something about holding a record in your hands that just feels, well, _better_. And it doesn't have to be an actual record, either; I find myself buying tapes that I know I'll never actually play because they come with a download, but simply having the physical artefact means I instantly have a stronger connection with the music.
 

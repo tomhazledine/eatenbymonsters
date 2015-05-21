@@ -31,6 +31,8 @@ coverImage: covers/prds1.jpg
 
 When they were writing *Out of the Blue* there was a lot of debate [within **Prides**](http://thepopcop.co.uk/2013/05/constructing-the-perfect-pop-song-prides-out-of-the-blue/) as to whether or not it sounded too much like *Kids* by **MGMT**. There’s no denying there are definite parallels in tone and structure, but Prides were right to stick to their guns, let comparisons be damned and let the song set its own course.
 
+<div>{% include coverImg.html %}</div>
+
 Lately I’ve been finding this brand of electro-pop to be very easy on the ears indeed. To tell the truth, I’m more than a little confused and troubled by this newfound passion of mine. This music is so far from what I’ve always considered to be ‘proper’ music, and yet I can’t help but find it infectious and addictive.
 
 What does strikes me – even through my love-blind obsession – is that generally these acts are very nearly one-hit-wonders. **MGMT** have two fantastic songs, but nothing else of merit, and the same can be said of **M83** (two blistering singles, and everything else is utter dross). **Chvrches** have so far released nothing but singles: three good ones so far, but how long can they keep that up for? I’ll bet all the money in my pockets against all the money in your pockets that their album will be choked to death with filler.

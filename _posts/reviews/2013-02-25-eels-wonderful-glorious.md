@@ -20,11 +20,15 @@ miniDescription: Eels return to what they do best on their new album.
 hasExcerpt: true
 excerpt: <strong>Eels</strong> go through the motions on their new record, <em>Wonderful, Glorious</em>. But when the motions are this good, who’s complaining?!
 
+coverImage: covers/eels1.jpg
+
 categories:
 - review
 ---
 
 It's a well established fact that bands need to change and grow to have any hopes of longevity, but change can be a double edged sword. **Eels** - originally a trio and now the vehicle of “E”, a.k.a. Mark Oliver Everett - have been wonderfully, mystically, inevitably prolific and, in the early days at least, there was no way of knowing what the next record would sound like. By E's own admission this strategy caused a few problems in the early days; tours would be booked on the basis of a hard-rockin' gutsy album, and E would show up with a gentle set-list and a string quartet, then another tour would be booked in seemingly suitable concert-hall venues and E would turn up to those sporting bleached blonde hair and accompanied by a barrage of overdriven guitars.
+
+<div>{% include coverImg.html %}</div>
 
 Venue confusion aside, constant evolution was a gamble that paid off critically, and the early **Eels** albums are some of the best around; sophisticated, urbane, dark, witty, bleak, and hopeful in equal measure. It's not all been plain sailing lately, however, and the last few records (there really have been loads of **Eels** albums) have begun to show signs of creative fatigue. From *Blinking lights...* onward it has sounded like E's been rehashing the same old themes and material. Always entertaining, certainly, but not particularly *interesting*.
 

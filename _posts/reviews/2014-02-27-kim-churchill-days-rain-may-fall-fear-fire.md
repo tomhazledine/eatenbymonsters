@@ -29,6 +29,8 @@ categories:
 
 Living in a ‘surfer’ town has given me a heightened sense of cynicism and distain when it comes to self-styled _wandering troubadours_. Far too often these camper-van-living dropouts think that playing acoustic guitar _and_ ukelele makes them an multi-instrumentalist, and knowing a couple of jaunty cadences and a major 7th chord makes them a songwriter. Even the ones with genuine talent (the **John Butlers** and **Xavier Rudds** of the world) rarely feel like a ‘complete package’ – the guitar playing will be excellent, but the lyrics will leave a lot to be desired, for instance†.
 
+<div>{% include coverImg.html %}</div>
+
 What's worse is that their success invariably pulls a horde of also-rans and wannabes into the spotlight with them. The market place is simply swamped; surfer-singer-songwriter supply far exceeds demand, and there wasn't all that much demand to start with. In short, to make a mark in this genre, to impress, to be taken seriously, an act has to be very, _very_ good indeed. Multi-instrumentalist singer-songwriter and surfer **Kim Churchill** is exactly that good.
 
 The double-**A**-side **7**" single *Some Days The Rain May Fall / Fear The Fire* came out in late January as a teaser for his upcoming album. You can download *Some Days The Rain May Fall* for free on [his Bandcamp page](http://kimchurchill.bandcamp.com/track/some-days-the-rain-may-fall), and it's a really nice track; subtly produced with a good ear for layering and textures, this is already a cut above most other singer-songwriters. However, it's the second track, *Fear The Fire*, that's had me constantly resetting the needle on this fine **7"**.

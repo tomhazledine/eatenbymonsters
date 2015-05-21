@@ -37,7 +37,9 @@ audioLinks:
 coverImage: covers/cldw1.jpg
 ---
 
-This record kicks of with classic **Cold War Kids** swagger; furious piano-bashing and the maniacal air of a band who know what they do best, and are happy to revel in it. But to the discerning ear there are subtle hints that *Dear Miss Lonelyhearts* is _not_ business-as-usual for the band. For starters, the guitar work here sounds _massive_. One of **CWK’**s defining features has always been the angular, caustic nature of the guitar playing, but on this record — and particularly on opener *Miracle Mile* — the guitar sounds considerably more produced, more considered, more punchy. Where early **Cold War Kids** records went for the neck, this one aims for the gut.
+This record kicks of with classic **Cold War Kids** swagger; furious piano-bashing and the maniacal air of a band who know what they do best, and are happy to revel in it. But to the discerning ear there are subtle hints that *Dear Miss Lonelyhearts* is _not_ business-as-usual for the band. For starters, the guitar work here sounds _massive_. One of **CWK’s** defining features has always been the angular, caustic nature of the guitar playing, but on this record — and particularly on opener *Miracle Mile* — the guitar sounds considerably more produced, more considered, more punchy. Where early **Cold War Kids** records went for the neck, this one aims for the gut.
+
+<div>{% include coverImg.html %}</div>
 
 An obvious explanation for the change in sound is the change in personnel. Veteran axe-man Jonnie Russell has left the band, to be replaced by former **Modest Mouse** guitarist Dann Gallucci, who also handles the production duties for *Dear Miss Lonelyhearts*. Aside from the change in guitar treatment, Gallucci may well — in his role as producer — be behind the other shift in sound, too. There’s an undercurrent of pulsing, synthetic, ominous electronica that swirls under many of the tracks; never dominating, but surfacing from time to time like the uneasy ghost of Giorgio Moroder’s younger-self.
 

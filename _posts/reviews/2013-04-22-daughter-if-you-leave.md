@@ -34,6 +34,8 @@ coverImage: covers/dght2.jpg
 
 Sometimes I’m amazed at how quickly my previously trenchant opinions can be overturned in an instant. When **Daughter** made the [*Blog Sound* longlist](/blog-sound-of-2013-long-list-results) at the end of last year (for the [second time running](/blog-sound-of-2012-short-list)) I described their track *Medicine* as being “not too offensive” and went about my business without giving them a second thought.
 
+<div>{% include coverImg.html %}</div>
+
 Skip forward a couple of months and their track *Human* was made available as iTunes’ ‘Single of the Week’, which I dutifully downloaded almost on autopilot. Before hearing the end of the second verse I’d already pre-ordered the album, *If You Leave*, and begun writing a [gushing review](/daughter-human) of *Human*.
 
 *If You Leave* is not a radically new sound, and nor is it full of invention and originality. If you threw **Foals**-circa-*Spanish Sahara* and first-album-XX into a blender with an acoustic guitar or two, the overall tone of *If You Leave* would most likely be the result. What sets this record head and shoulders above the mere sum of it’s influences is the sheer quality of the work on display.

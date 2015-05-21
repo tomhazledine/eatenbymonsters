@@ -29,6 +29,8 @@ coverImage: covers/bllw1.jpg
 
 There are some bands that should only ever be heard on record, and some that should only be heard live. I'd put **The National** and **Death Cab For Cutie** squarely in the first camp; two of my favourite bands, to be sure, but ones that only reach their full potential in the studio. A band I'd previously put in the latter camp is the rowdy folk orchestra/collective **Bellowhead**.
 
+<div>{% include coverImg.html %}</div>
+
 **Bellowhead** is made up of 11 fantastic instrumentalists, ranging from folk staples like fiddles, melodeons and bouzouki to more outré selections like a helicon and oboe. Their live shows are rowdy, frenetic and never less than thoroughly entertaining, and if you only take one thing from a **Bellowhead** concert it's that traditional English folk music is all about _dancing_. For a beard-scratching pedagogue like myself, this has proved to be a decidedly non-trivial obstacle to enjoying their music in the decidedly sedentary comfort of my own home.
 
 Live, **Bellowhead** are fantastically skilful; their sound is brash, bold and powerful, but the band are tight enough to ensure every instrument gets a chance to show itself off during the course of a show, and they show a masterful command of dynamics – diving from delicate moment to bombastic frenzy with sure-footedness and confidence. On record, however, they've struggled to meet the high standard their live shows have set. The raw power is lost, the dynamics disappear, and the music sounds flat as a result.

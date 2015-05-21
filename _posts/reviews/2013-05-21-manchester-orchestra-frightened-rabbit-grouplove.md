@@ -34,6 +34,8 @@ coverImage: covers/mnch1.jpg
 
 At times I worry this site is become a [**Frightened Rabbit** fan-page](http://eatenbymonsters/?s=frightened+rabbit), as whenever they release anything it tends to drown out other records. But if this blog is anything at all, it's a reflection of what I'm listening to and what I'm enjoying; to hide my fandom under a bushel would be to defeat the point. I _do_ like **Manchester Orchestra** – the lynchpin of this two-track 12" – on his own merit, but probably wouldn't have shelled out for this [Record Store Day special release](http://www.recordstoreday.co.uk/) had it not had the **FR** name on the cover.
 
+<div>{% include coverImg.html %}</div>
+
 The format is simple: two songs, both co-written by **Manchester Orchestra** and another band. Side one, *Make It To Me*, is a collaboration with **Grouplove**, an act previously unknown to me, and side two, **Architect**, is a joint effort with **FR**. As I've said many times before, Scott Hutchinson's songwriting is remarkably consistent, and his influence is clear on this record. Hutchison and **MO** frontman Andy Hull's voices blend well together, both tending towards the ‘strained’ end of the performance spectrum, and the duo's writing styles are so similar it's hard to pick out who contributed what.
 
 ![Make It To Me cover](http://eatenbymonsters/wp-content/uploads/2013/05/make-it-to-me-100x100.jpg)
