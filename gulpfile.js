@@ -28,7 +28,7 @@ var onError = function (err) {
 
 // Compile Our Sass
 gulp.task('sass', function() {
-    return gulp.src('_uncompressed/scss/*.scss')
+    return gulp.src('_uncompressed/scss/main.scss')
         .pipe(sass({errLogToConsole: true}))
         .pipe(autoprefixer('last 2 version', 'safari 5', 'ie 8', 'ie 9', 'opera 12.1', 'ios 6', 'android 4'))
         .pipe(size({title: 'css'}))
@@ -37,6 +37,20 @@ gulp.task('sass', function() {
         .pipe(minifycss())
         .pipe(size({title: 'css.min'}))
         .pipe(gulp.dest('assets/css'))
+        // .pipe(livereload(server));
+});
+
+// Compile Our Critical Path Sass
+gulp.task('cpsass', function() {
+    return gulp.src('_uncompressed/scss/criticalPath.scss')
+        .pipe(sass({errLogToConsole: true}))
+        .pipe(autoprefixer('last 2 version', 'safari 5', 'ie 8', 'ie 9', 'opera 12.1', 'ios 6', 'android 4'))
+        .pipe(size({title: 'css'}))
+        .pipe(gulp.dest('_includes/'))
+        .pipe(rename({suffix: '.min'}))
+        .pipe(minifycss())
+        .pipe(size({title: 'css.min'}))
+        .pipe(gulp.dest('_includes/'))
         // .pipe(livereload(server));
 });
 
