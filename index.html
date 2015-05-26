@@ -20,9 +20,6 @@ layout: default
 {% else %}
 
     <article class="postContent mainContent">
-        {% if paginator.page == 2 %}
-            <p class="small">You made it to page two. Congratulations; you are the 1%. Go forth, multiply, and be prosperous. With your positive attitude, the world is yours for the taking.</p>
-        {% endif %}
 
         <div class="dividerWrapper">
             <h6>Reviews: Page {{ paginator.page }}</h6>
@@ -46,44 +43,52 @@ layout: default
 
     {% if paginator.page == 1 %}
 
-        <h5><strong>There are {{ site.posts | size }} posts on this site</strong> so there are {{ paginator.total_pages }} pages</h5>
+        <h5><strong>There are {{ site.posts | size }} posts on this site</strong> spread over {{ paginator.total_pages }} pages</h5>
 
         <p class="small">That's a lot of pages. Most people don't ever make it past the first. So tell me; have <em>you</em> got what it takes? Is your commitment to music unfaltering? </p>
 
-        <a href="{{ paginator.next_page_path }}" class="genericButton block bottomMargin">Oh yeah! Take me to the next page, baby!</a>
+        <div class="clearfix littleButtons">
 
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="genericButton block">No way. Get me out of here!</a>
+            <a href="{{ paginator.next_page_path }}" class="genericButton block bottomMargin half">Yes! Take me to the next page!</a>
+
+            <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="genericButton block half right">No way. Get me out of here!</a>
+
+        </div>
 
     {% else %}
-        <h5><strong>You are on page {{ paginator.page }}</strong> there are {{ paginator.total_pages }} pages in total</h5>        
-    {% endif %}
-
-    {% if paginator.page == 2 %}
-
-        <p class="small">So where to now? <a href="/">Back to the home page?</a> Or are you made of sterner stuff? <a href="{{ paginator.next_page_path }}">Come further up, come further in.</a></p>
-
-    {% endif %}
-
-    {% if paginator.page == 3 %}
-
-        <p class="small"><a href="/">Back to the home page</a>? <a href="{{ paginator.previous_page_path }}">The previous page</a>. <a href="{{ paginator.next_page_path }}">The next page</a>.</p>
-
-    {% endif %}
-
-    
-    <div class="paginationList clearfix">
-        {% for i in (1..paginator.total_pages) %}
-            {% if i == 1 %}
-                <a class="paginatorLink home" href="/">Home</a>
-            {% else %}
-                {% if i == paginator.page %}
-                    <span class="paginatorLink current">{{ i }}</span>
-                {% else %}
-                    <a class="paginatorLink" href="/page{{ i }}">{{ i }}</a>
+        <h5><strong>You are on page {{ paginator.page }}</strong> {% if paginator.page == 2 %}
+            So where to now?
+        {% endif %}
+        {% if paginator.page == 3 %}
+            Come further up, come further in!
+        {% endif %}
+        {% if paginator.page != 1 %}
+            {% if paginator.page != 2 %}
+                {% if paginator.page != 3 %}
+                    Can you make it to the end?
                 {% endif %}
             {% endif %}
-        {% endfor %}
-    </div>
+        {% endif %}</h5>        
+    {% endif %}
+
+    {% if paginator.page != 1 %}
+
+    
+        <div class="paginationList clearfix">
+            {% for i in (1..paginator.total_pages) %}
+                {% if i == 1 %}
+                    <a class="paginatorLink home" href="/">Home</a>
+                {% else %}
+                    {% if i == paginator.page %}
+                        <span class="paginatorLink current">{{ i }}</span>
+                    {% else %}
+                        <a class="paginatorLink" href="/page{{ i }}">{{ i }}</a>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+        </div>
+
+    {% endif %}
 </div>
 
 <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
