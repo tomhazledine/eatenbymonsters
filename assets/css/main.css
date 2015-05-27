@@ -12,13 +12,6 @@ a::selection {
   color: #333333;
   background: rgba(251, 174, 23, 0.5); }
 
-@font-face {
-  font-family: 'iconFont';
-  src: url('../fonts/icons/icons.eot');
-  src: url('../fonts/icons/icons.eot?#iefix') format('embedded-opentype'), url('../fonts/icons/icons.woff') format('woff'), url('../fonts/icons/icons.ttf') format('truetype'), url('../fonts/icons/icons.svg#icons') format('svg');
-  font-weight: normal;
-  font-style: normal; }
-
 .utilityButton.openDown:before, .hiddenSectionWrap:before, .siteTitle:before, .clearfix:before, .utilityButton.openDown:after, .hiddenSectionWrap:after, .siteTitle:after, .clearfix:after {
   content: ' ';
   display: table; }
@@ -180,14 +173,10 @@ blockquote {
   text-transform: uppercase;
   line-height: 1;
   font-style: italic;
-  letter-spacing: 0.1em;
-  -webkit-box-shadow: inset #fbae17 0 0 0 0, inset #7fbbcb 0 -1.8em 0 0;
-          box-shadow: inset #fbae17 0 0 0 0, inset #7fbbcb 0 -1.8em 0 0; }
+  letter-spacing: 0.1em; }
   .genericButton:hover {
     background: #fbae17;
-    color: #ffffff;
-    -webkit-box-shadow: inset #fbae17 0 -1.8em 0 0, inset #7fbbcb 0 -1.8em 0 0;
-            box-shadow: inset #fbae17 0 -1.8em 0 0, inset #7fbbcb 0 -1.8em 0 0; }
+    color: #ffffff; }
   .genericButton:active {
     color: #333333; }
   .genericButton:focus {
@@ -322,6 +311,13 @@ input[type=range].songProgressSlider::-ms-fill-upper {
 
 input[type=range].songProgressSlider:focus::-ms-fill-upper {
   background: #7fbbcb; }
+
+.half {
+  width: 49%;
+  float: left;
+  margin-right: 2%; }
+  .half.right {
+    margin-right: 0; }
 
 .recordMeta {
   display: block;
@@ -510,13 +506,16 @@ input[type=range].songProgressSlider:focus::-ms-fill-upper {
     background: #333333;
     cursor: default; }
 
+.pagination .small {
+  margin: 0; }
+
 .mainHeader {
   position: relative; }
 
 .logo {
   text-align: center;
   position: relative;
-  z-index: 4; }
+  z-index: 5; }
 
 .siteTitle {
   font-family: 'abril-fatface';
@@ -577,13 +576,9 @@ input[type=range].songProgressSlider:focus::-ms-fill-upper {
   -webkit-transition-duration: 0.2s;
           transition-duration: 0.2s;
   position: relative;
-  z-index: 3;
-  -webkit-box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 -1px;
-          box-shadow: rgba(127, 187, 203, 0.3) 0 0 0 -1px; }
+  z-index: 4; }
   .navToggle:focus {
     outline: none; }
-  .navToggle.open {
-    background: #7fbbcb; }
 
 @-webkit-keyframes buttonPulse {
   0% {
@@ -693,7 +688,7 @@ input[type=range].songProgressSlider:focus::-ms-fill-upper {
   width: 100%;
   padding-top: 0em;
   padding-bottom: 0em;
-  z-index: 2;
+  z-index: 3;
   background: #7fbbcb;
   -webkit-transition: max-height, padding, top;
           transition: max-height, padding, top;
@@ -1001,6 +996,9 @@ input[type=range].songProgressSlider:focus::-ms-fill-upper {
 
 .bottomMargin {
   margin-bottom: 1em; }
+
+.littleButtons {
+  font-size: 0.8em; }
 
 .testWrap {
   width: 100%;
