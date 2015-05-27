@@ -1,0 +1,2 @@
+> THEN: Entertainment reporters saw themselves as independent arbiters in search of the truth. NOW: Entertainment reporters are idiots in it for the access. Such that no one trusts the hype complex.
+[Lefsetz](http://lefsetz.com/wordpress/index.php/archives/2015/05/19/thennow-3/)
