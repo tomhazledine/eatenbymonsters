@@ -365,7 +365,7 @@ input[type=range].songProgressSlider:focus::-ms-fill-upper {
   clear: both;
   padding: 0.5em 0;
   border-top: 0.2em solid #333333;
-  background: rgba(127, 187, 203, 0.6);
+  background: rgba(127, 187, 203, 0.3);
   border-bottom: 0 solid #333333;
   max-height: 0;
   overflow: hidden;
@@ -544,6 +544,55 @@ input[type=range].songProgressSlider:focus::-ms-fill-upper {
 
 .pagination .small {
   margin: 0; }
+
+.bandButton {
+  background: #7fbbcb;
+  padding: 0.5em;
+  margin: 0.5em;
+  display: inline-block;
+  position: relative;
+  -webkit-box-shadow: rgba(51, 51, 51, 0.2) -0.3em 0.3em 0 0;
+          box-shadow: rgba(51, 51, 51, 0.2) -0.3em 0.3em 0 0;
+  cursor: pointer;
+  font-family: 'abril-fatface'; }
+
+.bl_result_sub {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  width: 10em;
+  margin-left: -5em;
+  background: #ffffff;
+  max-height: 0;
+  -webkit-transition: max-height;
+          transition: max-height;
+  -webkit-transition-duration: 0.2s;
+          transition-duration: 0.2s;
+  overflow: hidden;
+  text-align: center;
+  z-index: 2;
+  -webkit-box-shadow: rgba(51, 51, 51, 0.2) -0.3em 0.3em 0 0;
+          box-shadow: rgba(51, 51, 51, 0.2) -0.3em 0.3em 0 0; }
+
+.bandButton.open .bl_result_sub {
+  max-height: 20em; }
+
+.bandButtonSubInner {
+  border-bottom: 0.4em solid #333333; }
+
+.bl_result_sub li {
+  font-family: "ff-meta-web-pro", "Helvetica Neue", helvetica, arial, sans-serif;
+  font-style: italic;
+  color: #333333; }
+  .bl_result_sub li a {
+    display: block;
+    border-top: 1px solid rgba(127, 187, 203, 0.3);
+    padding: 0.5em;
+    font-size: 0.8em; }
+    .bl_result_sub li a:hover {
+      background: #fbae17; }
+  .bl_result_sub li:first-of-type a {
+    border-top: none; }
 
 .mainHeader {
   position: relative; }
