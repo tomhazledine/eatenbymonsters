@@ -38,9 +38,12 @@
   a{
     // color:$primary;
     border-bottom:1px solid $black;
+    // transition:border;
+    // transition-duration:.2s;
     &:hover{
-      background:none;
-      color:rgba($black,.6);
+      background:$primary;
+      // color:rgba($black,.6);
+      // border-bottom-color:$secondary;
     }
   }
 }

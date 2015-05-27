@@ -10514,7 +10514,13 @@ function bl_layout(array,term){
                 output += '<a href="';
                 output += array[i].posts[i2].link;
                 output += '">';
-                output += array[i].posts[i2].recordTitle;
+                if (array[i].posts[i2].recordTitle != '') {
+                    output += array[i].posts[i2].recordTitle;
+                } else {
+                    // console.log(array[i].posts[i2].postTitle);
+                    output += array[i].posts[i2].postTitle;
+                }
+                // output += array[i].posts[i2].recordTitle;
                 output += '</a>';
                 output += '</li>';
             }
