@@ -22,23 +22,37 @@ layout: default
 <div class="hiddenSectionWrap">
 
     <div class="recordMetaBox hiddenSection showPostMetaBox">
+        <div class="recordMetaBoxInner clearfix">
         
-        {% if page.label %}
-            <span class="recordMeta"><span class="recordMetaKey">Record Label:</span> {{ page.label }}</span>
-        {% endif %}
+            {% if page.label %}
+                <span class="recordMeta">
+                    <span class="recordMetaKey">Record Label:</span>
+                    <span class="recordMetaValue">{{ page.label }}</span>
+                </span>
+            {% endif %}
 
-        {% if page.producer %}
-            <span class="recordMeta"><span class="recordMetaKey">Producer:</span> {{ page.producer }}</span>
-        {% endif %}
+            {% if page.producer %}
+                <span class="recordMeta">
+                    <span class="recordMetaKey">Producer:</span>
+                    <span class="recordMetaValue">{{ page.producer }}</span>
+                </span>
+            {% endif %}
 
-        {% if page.releaseDate %}
-            <span class="recordMeta"><span class="recordMetaKey">Release Date:</span> {{ page.releaseDate | date: "%B, %Y" }}</span>
-        {% endif %}
+            {% if page.releaseDate %}
+                <span class="recordMeta">
+                    <span class="recordMetaKey">Release Date:</span>
+                    <span class="recordMetaValue">{{ page.releaseDate | date: "%B, %Y" }}</span>
+                </span>
+            {% endif %}
 
-        {% if page.buyItLink %}
-            <span class="recordMeta"><span class="recordMetaKey">Buy it here:</span> <a href="{{ page.buyItLink }}">{{ page.buyItLinkTitle }}</a></span>
-        {% endif %}
+            {% if page.buyItLink %}
+                <span class="recordMeta">
+                    <span class="recordMetaKey">Buy it here:</span>
+                    <span class="recordMetaValue"><a href="{{ page.buyItLink }}">{{ page.buyItLinkTitle }}</a></span>
+                </span>
+            {% endif %}
 
+        </div>
     </div>
 
     <button class="button utilityButton openDown showPostMetaToggle">More Info</button>

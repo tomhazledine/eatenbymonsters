@@ -334,8 +334,23 @@ input[type=range].songProgressSlider:focus::-ms-fill-upper {
   text-transform: lowercase;
   display: inline-block;
   min-width: 8em;
-  text-align: right;
-  margin-right: 0.5em; }
+  margin: 0 0.5em; }
+  @media (max-width: 750px) {
+    .recordMetaKey {
+      width: 50%;
+      float: left;
+      text-align: right;
+      margin: 0;
+      padding: 0 0.5em; } }
+
+.recordMetaValue {
+  margin: 0 0.5em; }
+  @media (max-width: 750px) {
+    .recordMetaValue {
+      width: 50%;
+      float: left;
+      margin: 0;
+      padding: 0 0.5em; } }
 
 .hiddenSectionWrap {
   margin-bottom: 0.5em; }
@@ -346,6 +361,7 @@ input[type=range].songProgressSlider:focus::-ms-fill-upper {
   clear: both;
   padding: 0.5em 0;
   border-top: 0.2em solid #333333;
+  background: rgba(127, 187, 203, 0.6);
   border-bottom: 0 solid #333333;
   max-height: 0;
   overflow: hidden;
@@ -355,9 +371,25 @@ input[type=range].songProgressSlider:focus::-ms-fill-upper {
   -webkit-transition-duration: 0.2s;
           transition-duration: 0.2s; }
   .recordMetaBox.open {
-    padding: 0.5em 0;
     max-height: 10em;
     border-bottom: 0.2em solid #333333; }
+
+.recordMetaBoxInner {
+  margin: 0.5em 0;
+  position: relative; }
+  .recordMetaBoxInner:before {
+    content: "";
+    display: block;
+    width: 2px;
+    background: #333333;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-left: -1px; }
+    @media (max-width: 750px) {
+      .recordMetaBoxInner:before {
+        display: none; } }
 
 .postSnippet {
   margin-bottom: 1em; }
