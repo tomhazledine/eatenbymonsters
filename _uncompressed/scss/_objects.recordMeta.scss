@@ -35,6 +35,14 @@
     margin:0;
     padding:0 .5em;
   }
+  a{
+    // color:$primary;
+    border-bottom:1px solid $black;
+    &:hover{
+      background:none;
+      color:rgba($black,.6);
+    }
+  }
 }
 
 .hiddenSectionWrap{

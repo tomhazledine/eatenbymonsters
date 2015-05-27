@@ -74,6 +74,7 @@
 .utilityButton.openDown{
   @extend %cf;
   float:right;
+  // margin:0 auto;
   position:relative;
   top:-.2em;
   padding:.2em 1em .2em 1em;

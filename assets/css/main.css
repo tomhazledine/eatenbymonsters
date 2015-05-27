@@ -351,6 +351,11 @@ input[type=range].songProgressSlider:focus::-ms-fill-upper {
       float: left;
       margin: 0;
       padding: 0 0.5em; } }
+  .recordMetaValue a {
+    border-bottom: 1px solid #333333; }
+    .recordMetaValue a:hover {
+      background: none;
+      color: rgba(51, 51, 51, 0.6); }
 
 .hiddenSectionWrap {
   margin-bottom: 0.5em; }
