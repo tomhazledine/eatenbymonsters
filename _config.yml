@@ -14,6 +14,9 @@ include: ['.htaccess']
 exclude:
 - sass/
 - node_modules
+- package.json
+- gulpfile.js
+- README.md
 
 kramdown:
   auto_ids: false

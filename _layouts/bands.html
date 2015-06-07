@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<div class="post">
+
+    <header class="post-header">
+        <h1 class="post-title">{{ page.title }}</h1>
+    </header>
+
+    <article class="postContent articleContent mainContent">
+        {% if page.intro %}
+            <h3>{{ page.intro}}</h3>
+        {% endif %}
+        {{ content }}
+    </article>
+
+    <section>
+
+        <div class="bl_search">
+            <label for="bl_search">Search for a record:</label>
+            <input type="search" id="bl_searchInput" class="bl_search" name="bl_search">
+        </div>
+        
+        <div class="loadingImage">Loading...</div>
+        
+        <div class="bl_output">
+            
+        </div>
+
+    </section>
+
+</div>
