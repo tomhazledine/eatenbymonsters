@@ -5,7 +5,7 @@
 .logo{
   text-align:center;
   position:relative;
-  z-index:4;
+  z-index:5;
 }
 
 .siteTitle{
@@ -81,8 +81,8 @@
   transition:background, box-shadow;
   transition-duration:.2s;
   position:relative;
-  z-index:3;
-  box-shadow:rgba($primary,.3) 0 0 0 -1px;
+  z-index:4;
+  // box-shadow:rgba($primary,.3) 0 0 0 -1px;
   &:hover{
     // animation:buttonPulse 2s infinite;
     // box-shadow:rgba($primary,.3) 0 0 0 10px;
@@ -91,7 +91,7 @@
     outline:none;
   }
   &.open{
-    background:$primary;
+    // background:$primary;
   }
 }
 
@@ -169,7 +169,7 @@
   width:100%;
   padding-top:0em;
   padding-bottom:0em;
-  z-index:2;
+  z-index:3;
   background:$primary;
   // max-height:0;
   // overflow:hidden;

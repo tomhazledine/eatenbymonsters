@@ -26,6 +26,7 @@ layout: null
                             {% assign first = false %}
                         {% endfor %}
                     ],
+                    "postTitle": "{{ post.title }}",
                     "recordTitle": "{{ post.recordTitle }}",
                     "label": "{{ post.label }}",
                     "recordFormat": "{{ post.recordFormat }}",

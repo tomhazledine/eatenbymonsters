@@ -55,7 +55,7 @@
 @import "base.buttons";
 @import "base.songSlider";
 //@import "base.forms";
-//@import "base.layout";
+@import "base.layout";
 
 // 05. OBJECTS
 @import "objects.recordMeta";
@@ -63,7 +63,7 @@
 @import "objects.dividers";
 @import "objects.coverImages";
 @import "objects.pagination";
-//@import "objects.homeIntro";
+@import "objects.bandsearch";
 
 // 06. COMPONENTS
 @import "components.header";

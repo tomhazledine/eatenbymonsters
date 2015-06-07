@@ -29,6 +29,9 @@ function bl_getStartList(){
         bl_layout(data,"");
     })
     .always(function(){
+        // Set up button clicks
+        var bandButtons = bl_wrapper.find('.bandButton');
+        getBandButtons(bandButtons);
         // Hide the loading image when complete
         bl_loader.addClass('hidden');
     });
@@ -42,6 +45,9 @@ function bl_getResults(term){
         bl_layout(data,term);
     })
     .always(function(){
+        // Set up button clicks
+        var bandButtons = bl_wrapper.find('.bandButton');
+        getBandButtons(bandButtons);
         // Hide the loading image when complete
         bl_loader.addClass('hidden');
     });
@@ -54,6 +60,14 @@ function bl_layout(array,term){
     
     bl_length = array.length;
 
+    // Shuffle the results
+    array.sort(function(a, b){
+        if(a.band < b.band) return -1;
+        if(a.band > b.band) return 1;
+        return 0;
+    })
+
+
     output = '<ul class="bl_results">';
     for (var i = 0; i < bl_length; i++) {
         // console.log(array[i]);
@@ -61,23 +75,29 @@ function bl_layout(array,term){
         // Check array.name against the search term
         if (bl_band.search(term) != -1) {
             // Build the <li> entries:
-            output += '<li>';
+            output += '<li class="bl_result bandButton">';
             output += bl_band;
-            output += '<ul>';
+            output += '<ul class="bl_result_sub"><div class="bandButtonSubInner">';
             
             // Count how many posts the band has
             var postNumber = array[i].posts.length;
             // Loop through them and echo out each one as a link
             for (var i2 = 0; i2 < postNumber; i2++) {
-                output += '<li> – ';
+                output += '<li>';
                 output += '<a href="';
                 output += array[i].posts[i2].link;
                 output += '">';
-                output += array[i].posts[i2].recordTitle;
+                if (array[i].posts[i2].recordTitle != '') {
+                    output += array[i].posts[i2].recordTitle;
+                } else {
+                    // console.log(array[i].posts[i2].postTitle);
+                    output += array[i].posts[i2].postTitle;
+                }
+                // output += array[i].posts[i2].recordTitle;
                 output += '</a>';
                 output += '</li>';
             }
-            output += '</ul>';
+            output += '</div></ul>';
             output += '</li>';
         }
     }

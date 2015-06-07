@@ -15,17 +15,17 @@
   line-height:1;
   font-style:italic;
   letter-spacing:.1em;
-  box-shadow:
-    inset $secondary 0 0 0 0,
-    inset $primary 0 -1.8em 0 0,
-    ;
+  // box-shadow:
+  //   inset $secondary 0 0 0 0,
+  //   inset $primary 0 -1.8em 0 0,
+  //   ;
   &:hover{
     background:$secondary;
     color:$white;
-    box-shadow:
-      inset $secondary 0 -1.8em 0 0,
-      inset $primary 0 -1.8em 0 0,
-      ;
+    // box-shadow:
+    //   inset $secondary 0 -1.8em 0 0,
+    //   inset $primary 0 -1.8em 0 0,
+    //   ;
   }
   &:active{
     color:$black;
@@ -74,6 +74,7 @@
 .utilityButton.openDown{
   @extend %cf;
   float:right;
+  // margin:0 auto;
   position:relative;
   top:-.2em;
   padding:.2em 1em .2em 1em;
