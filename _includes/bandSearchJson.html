@@ -1,0 +1,44 @@
+<script type="text/javascript">
+    var bandData = [
+        {% assign first = true %}
+        {% for tag in site.tags %}
+            {% unless first %},{% endunless %}
+            {
+                "band": "{{ tag[0] }}",
+                "open": false,
+                "class": "",
+                {% assign tagSlug = tag[0] %}
+                "posts": [
+                    {% assign first = true %}
+                    {% for post in site.tags[tagSlug] %}
+                        {% unless first %},{% endunless %}
+                        {
+                            "link": "{{ post.url }}",
+                            "recordTitle": "{{ post.recordTitle }}",
+                            "bands": [
+                                {% assign first = true %}
+                                {% for tag in post.tags %}
+                                    {% unless first %},{% endunless %}
+                                    {
+                                        "band": "{{ tag }}"
+                                    }
+                                    {% assign first = false %}
+                                {% endfor %}
+                            ],
+                            "postTitle": "{{ post.title }}",
+                            "recordTitle": "{{ post.recordTitle }}",
+                            "label": "{{ post.label }}",
+                            "recordFormat": "{{ post.recordFormat }}",
+                            "miniDescription": "{{ post.miniDescription }}"{% if post.hasExcerpt == true %},
+                            "excerpt": "{{ post.excerpt | json }}"
+                            {% endif %}
+                        }
+                        {% assign first = false %}
+                    {% endfor %}
+                ]
+            }
+            {% assign first = false %}
+
+        {% endfor %}
+    ];
+</script>
