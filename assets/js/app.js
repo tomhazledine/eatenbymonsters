@@ -18954,15 +18954,16 @@ if (bandDataWrapper.length) {
             },
 
             openBandPosts: function(item) {
-                this.bandsData.forEach(function(band){
-                    band.$set('open',false);
-                });
-                item.$set('open',true);
-                // if (item.class == '') {
-                //     item.class = 'open';
-                // } else {
-                //     item.class = '';
-                // }
+                // console.log('boo!');
+                if (item.open == false) {
+                    this.bandsData.forEach(function(band){
+                        band.$set('open',false);
+                    });
+                    item.$set('open',true);
+                } else {
+                    item.$set('open',false);
+                }
+                // item.$set('open',true);
             }
 
 
