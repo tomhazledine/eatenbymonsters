@@ -38,13 +38,15 @@ layout: default
                         | orderBy 'band'
                     "
                     v-on="click: openBandPosts(this)"
-                    class="bl_result bandButton {% raw %}{{ class }}{% endraw %}"
+                    v-el="bandButtons"
+                    v-class="open: open"
+                    class="bl_result bandButton"
                 >
                     {% raw %}{{ band }}{% endraw %}
                     <div class="bl_result_sub">
                         <ul class="bandButtonSubInner">
                             <li v-repeat="posts">
-                                <a href="{% raw %}{{ link }}{% endraw %}">{% raw %}{{ recordTitle }}{% endraw %}</a>
+                                <a href="{% raw %}{{ link }}{% endraw %}">{% raw %}{{{ recordTitle }}}{% endraw %}</a>
                             </li>
                         </ul>
                     </div>

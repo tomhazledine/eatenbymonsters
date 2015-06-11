@@ -18935,47 +18935,52 @@ return /******/ (function(modules) { // webpackBootstrap
 var bandDataWrapper = $('#bandSearchWrapper');
 
 if (bandDataWrapper.length) {
-    console.log(bandData);
-}
 
-new Vue({
+    new Vue({
 
-    el: '#bandSearchWrapper',
+        el: '#bandSearchWrapper',
 
-    data: {
+        data: {
 
-        bandsData: bandData
+            bandsData: bandData
 
-    },
-
-    methods: {
-
-        searchEntry: function() {
-            // console.log('searching');
-            closeAllBandPostLists();
         },
 
-        openBandPosts: function(item) {
-            console.log(item.class);
-            if (item.class == '') {
+        methods: {
+
+            searchEntry: function() {
+                // console.log('searching');
                 closeAllBandPostLists();
-                item.class = 'open';
-            } else {
-                closeAllBandPostLists();
-                item.class = '';
+            },
+
+            openBandPosts: function(item) {
+                this.bandsData.forEach(function(band){
+                    band.$set('open',false);
+                });
+                item.$set('open',true);
+                // if (item.class == '') {
+                //     item.class = 'open';
+                // } else {
+                //     item.class = '';
+                // }
             }
+
+
         }
 
+    });
 
-    }
-
-});
+}
 
 function closeAllBandPostLists(){
     // console.log(target);
     // if (target)
     $('.bandButton').removeClass('open');
     // target.toggleClass('open');
+}
+
+function testFunc(item){
+    console.log(item);
 }
 var audioWrapper = $('#audio');
 var rawAudioData = $('#audioData');
