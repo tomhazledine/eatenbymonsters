@@ -14,19 +14,48 @@ layout: default
         {{ content }}
     </article>
 
-    <section>
+    <section id="bandSearchWrapper">
 
         <div class="bl_search">
-            <label for="bl_search">Search for a record:</label>
-            <input type="search" id="bl_searchInput" class="bl_search" name="bl_search">
+            <label class="visuallyhidden" for="bl_search">Search for a band:</label>
+            <input
+                placeholder="Enter a bandname"
+                type="search"
+                id="bl_searchInput"
+                class="bl_search"
+                name="bl_search"
+                v-on="keyup: searchEntry"
+                v-model="search"
+            >
         </div>
         
-        <div class="loadingImage">Loading...</div>
-        
         <div class="bl_output">
-            
+            <ul class="bl_results">
+                <li
+                    v-repeat="
+                        bandsData
+                        | filterBy search 'band'
+                        | orderBy 'band'
+                    "
+                    v-on="click: openBandPosts(this)"
+                    class="bl_result bandButton {% raw %}{{ class }}{% endraw %}"
+                >
+                    {% raw %}{{ band }}{% endraw %}
+                    <div class="bl_result_sub">
+                        <ul class="bandButtonSubInner">
+                            <li v-repeat="posts">
+                                <a href="{% raw %}{{ link }}{% endraw %}">{% raw %}{{ recordTitle }}{% endraw %}</a>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
         </div>
 
     </section>
+
+    <div id="bandData">
+        {% include bandSearchJson.html %}
+    </div>
 
 </div>
