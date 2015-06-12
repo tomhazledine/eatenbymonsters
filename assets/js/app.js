@@ -18914,22 +18914,21 @@ var songsData = songs;
 function AudioPlayer(songData,playerWrapper){
     
     var playPauseButtons = playerWrapper.getElementsByClassName('playlistSongTrigger');
-    var currentSongIndex = false;
+    var currentSongIndex;
     var myAudio = [];
+    var playTimer = playerWrapper.getElementsByClassName('songPlayTimer');
+    var progressBar = playerWrapper.getElementsByClassName('songProgressSlider');
     
-    // Setup event listeners
-    for (i = 0; i < playPauseButtons.length; i++) {
-        playPauseButtons[i].addEventListener('click',_playPauseAudio,false);
-    }
-
-    // Initialise Audio
-    for (var i = 0; i < songData.length; i++) {
+    for (i = 0; i < songData.length; i++) {
+        // Initialize Audio
         myAudio[i] = new Audio(songData[i].url);
+        // Setup event listeners
+        playPauseButtons[i].addEventListener('click',_playPauseAudio,false);
+        myAudio[i].addEventListener('timeupdate', _updateProgress, false);
     }
 
     function _playPauseAudio(){
         var targetSong = this.getAttribute('data-song-index');
-        // playSong(targetSong);
         if (_hasClass(this,'songPlaying')) {
             pauseAll();
             _removeClass(this,'songPlaying');
@@ -18940,8 +18939,6 @@ function AudioPlayer(songData,playerWrapper){
             playSong(targetSong);
             _addClass(this,'songPlaying');
         }
-
-
     }
 
     function pauseAll(){
@@ -18951,17 +18948,44 @@ function AudioPlayer(songData,playerWrapper){
     }
 
     function playSong(index){
-        // console.log(index);
-        // console.log(myAudio);
-        
         currentSongIndex = index;
         for (var i = 0; i < songs.length; i++) {
-            // console.log(myAudio[i]);
             if (i != index) {
                 myAudio[i].pause();
             }
         }
         myAudio[index].play();
+    }
+
+    function _updateProgress(){
+        var progress = myAudio[currentSongIndex].currentTime;
+        var duration = myAudio[currentSongIndex].duration;
+        progressParsed = _secondsToMMSS(progress);
+        playTimer[currentSongIndex].innerHTML = progressParsed;
+
+        var progressPercent = (progress / duration * 100).toFixed(2);
+
+        progressBar[currentSongIndex].value = progressPercent;
+    }
+
+    function _secondsToMMSS(seconds){
+        var mins = Math.floor(seconds % 3600 / 60);
+        mins = mins.toFixed(0);
+        mins = mins.toString();
+        var secs = Math.floor(seconds % 3600 % 60);
+        secs = secs.toFixed(0);
+        secs = secs.toString();
+        if (secs < 10) {
+        secs = '0' + secs;
+        };
+        var mmss = mins + ':' + secs;
+        return mmss;
+    }
+
+    function sliderScrub(newPosition,index){
+        var duration = myAudio[index].duration;
+        var targetTime = duration * (newPosition / 100);
+        myAudio[index].currentTime = targetTime;
     }
 
     // Simulate jQuery helpers
@@ -18994,6 +19018,14 @@ function AudioPlayer(songData,playerWrapper){
         else {
             el.className = el.className.replace(new RegExp('(^|\\b)' + className.split(' ').join('|') + '(\\b|$)', 'gi'), ' ');
         }
+    }
+
+    function testPublic(){
+        console.log('a public function');
+    }
+
+    return {
+        testPublic: testPublic()
     }
 
 }
