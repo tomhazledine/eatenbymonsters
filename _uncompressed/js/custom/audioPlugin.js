@@ -1,12 +1,3 @@
-var audioWrapper = $('#audio');
-var rawAudioData = $('#audioData');
-
-var playerWrapper = document.getElementById('player');
-// console.log(playerWrapper);
-var songsData = songs;
-
-// console.log(songs);
-
 function AudioPlayer(songData,playerWrapper){
 
     var playPauseButtons = playerWrapper.getElementsByClassName('playlistSongTrigger');
@@ -22,13 +13,6 @@ function AudioPlayer(songData,playerWrapper){
         // Setup event listeners
         playPauseButtons[i].addEventListener('click',_playPauseAudio,false);
         myAudio[i].addEventListener('timeupdate', _updateProgress, false);
-        // myAudio[i].addEventListener('canplay', _setLengthDisplay(i), false);
-        // myAudio[i].addEventListener('ended', _setLengthDisplay(i), false);
-        // myAudio[i].onLoad(function(){
-        //     _setLengthDisplay(i);
-        //     console.log('Song ' + i + ' loaded.');
-        // });
-        // _setLengthDisplay(i);
     }
 
     function pauseAll(){
@@ -150,5 +134,3 @@ function AudioPlayer(songData,playerWrapper){
     }
 
 }
-
-var myAudioPlayer = AudioPlayer(songsData,playerWrapper);
