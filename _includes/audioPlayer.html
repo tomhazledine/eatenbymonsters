@@ -17,7 +17,7 @@
                     0:00
                 </div>
 
-                <input type="range" class="songProgressSlider" min="0" max="100" value="0" oninput="AudioPlayer.testPublic()">
+                <input type="range" class="songProgressSlider" min="0" max="100" value="0" oninput="myAudioPlayer.sliderScrub(this.value, {{ count }})">
 
                 <!--oninput="sliderScrub(value,{{ count }})"/>-->
 

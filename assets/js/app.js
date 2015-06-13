@@ -19025,12 +19025,12 @@ function AudioPlayer(songData,playerWrapper){
     }
 
     return {
-        testPublic: testPublic()
+        sliderScrub: sliderScrub
     }
 
 }
 
-AudioPlayer(songsData,playerWrapper);
+var myAudioPlayer = AudioPlayer(songsData,playerWrapper);
 // function getBandButtons(buttons){
 //     // bandButtons = data.find('.bandButton');
 //     // console.log(buttons);
