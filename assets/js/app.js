@@ -18918,6 +18918,7 @@ function AudioPlayer(songData,playerWrapper){
     var myAudio = [];
     var playTimer = playerWrapper.getElementsByClassName('songPlayTimer');
     var progressBar = playerWrapper.getElementsByClassName('songProgressSlider');
+    var songLengthBox = playerWrapper.getElementsByClassName('songDuration');
     
     for (i = 0; i < songData.length; i++) {
         // Initialize Audio
@@ -18938,6 +18939,10 @@ function AudioPlayer(songData,playerWrapper){
             }
             playSong(targetSong);
             _addClass(this,'songPlaying');
+            if (_hasClass(this,'notPlayedYet')) {
+                _setLengthDisplay(targetSong);
+                _removeClass(this, 'notPlayedYet');
+            }
         }
     }
 
@@ -18980,6 +18985,13 @@ function AudioPlayer(songData,playerWrapper){
         };
         var mmss = mins + ':' + secs;
         return mmss;
+    }
+
+    function _setLengthDisplay(index){
+        var songLength = myAudio[index].duration;
+        var duration = _secondsToMMSS(songLength);
+        var songClass = '.song' + index;
+        songLengthBox[index].innerHTML = duration;
     }
 
     function sliderScrub(newPosition,index){
@@ -19025,7 +19037,9 @@ function AudioPlayer(songData,playerWrapper){
     }
 
     return {
-        sliderScrub: sliderScrub
+        sliderScrub: sliderScrub,
+        playSong: playSong,
+        pauseAll: pauseAll
     }
 
 }
