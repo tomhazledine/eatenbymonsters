@@ -8,7 +8,7 @@ var songsData = songs;
 // console.log(songs);
 
 function AudioPlayer(songData,playerWrapper){
-    
+
     var playPauseButtons = playerWrapper.getElementsByClassName('playlistSongTrigger');
     var currentSongIndex;
     var myAudio = [];
@@ -22,6 +22,35 @@ function AudioPlayer(songData,playerWrapper){
         // Setup event listeners
         playPauseButtons[i].addEventListener('click',_playPauseAudio,false);
         myAudio[i].addEventListener('timeupdate', _updateProgress, false);
+        // myAudio[i].addEventListener('canplay', _setLengthDisplay(i), false);
+        // myAudio[i].addEventListener('ended', _setLengthDisplay(i), false);
+        // myAudio[i].onLoad(function(){
+        //     _setLengthDisplay(i);
+        //     console.log('Song ' + i + ' loaded.');
+        // });
+        // _setLengthDisplay(i);
+    }
+
+    function pauseAll(){
+        for (var i = 0; i < songs.length; i++) {
+            myAudio[i].pause();
+        }
+    }
+
+    function playSong(index){
+        currentSongIndex = index;
+        for (var i = 0; i < songs.length; i++) {
+            if (i != index) {
+                myAudio[i].pause();
+            }
+        }
+        myAudio[index].play();
+    }
+
+    function sliderScrub(newPosition,index){
+        var duration = myAudio[index].duration;
+        var targetTime = duration * (newPosition / 100);
+        myAudio[index].currentTime = targetTime;
     }
 
     function _playPauseAudio(){
@@ -42,27 +71,15 @@ function AudioPlayer(songData,playerWrapper){
         }
     }
 
-    function pauseAll(){
-        for (var i = 0; i < songs.length; i++) {
-            myAudio[i].pause();
-        }
-    }
-
-    function playSong(index){
-        currentSongIndex = index;
-        for (var i = 0; i < songs.length; i++) {
-            if (i != index) {
-                myAudio[i].pause();
-            }
-        }
-        myAudio[index].play();
-    }
-
     function _updateProgress(){
         var progress = myAudio[currentSongIndex].currentTime;
         var duration = myAudio[currentSongIndex].duration;
         progressParsed = _secondsToMMSS(progress);
         playTimer[currentSongIndex].innerHTML = progressParsed;
+
+        if (progress >= duration) {
+            _removeClass(playPauseButtons[currentSongIndex], 'songPlaying');
+        }
 
         var progressPercent = (progress / duration * 100).toFixed(2);
 
@@ -88,12 +105,6 @@ function AudioPlayer(songData,playerWrapper){
         var duration = _secondsToMMSS(songLength);
         var songClass = '.song' + index;
         songLengthBox[index].innerHTML = duration;
-    }
-
-    function sliderScrub(newPosition,index){
-        var duration = myAudio[index].duration;
-        var targetTime = duration * (newPosition / 100);
-        myAudio[index].currentTime = targetTime;
     }
 
     // Simulate jQuery helpers
