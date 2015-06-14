@@ -18909,13 +18909,6 @@ return /******/ (function(modules) { // webpackBootstrap
  */
 function AudioPlayer(songData,playerWrapper){
 
-    var playPauseButtons = playerWrapper.getElementsByClassName('playlistSongTrigger');
-    var currentSongIndex;
-    var myAudio = [];
-    var playTimer = playerWrapper.getElementsByClassName('songPlayTimer');
-    var progressBar = playerWrapper.getElementsByClassName('songProgressSlider');
-    var songLengthBox = playerWrapper.getElementsByClassName('songDuration');
-
     /**
      * ------------------------
      * INITIALIZE
@@ -18923,6 +18916,13 @@ function AudioPlayer(songData,playerWrapper){
      * from the input data
      * ------------------------
      */
+    
+    var playPauseButtons = playerWrapper.getElementsByClassName('playlistSongTrigger');
+    var currentSongIndex;
+    var myAudio = [];
+    var playTimer = playerWrapper.getElementsByClassName('songPlayTimer');
+    var progressBar = playerWrapper.getElementsByClassName('songProgressSlider');
+    var songLengthBox = playerWrapper.getElementsByClassName('songDuration');
 
     /**
      * Loop over song data to create audio instances for each song.
@@ -19073,16 +19073,16 @@ function AudioPlayer(songData,playerWrapper){
     }
 
     /**
-     * --------------------------
+     * ------------------------------------
      * HELPERS
-     * These are basic utilities,
-     * mostly replacing the need
-     * to use jQuery.
+     * These are basic utilities that allow
+     * for cross-browser support, replacing
+     * the need to use jQuery.
      *
      * Has Class
      * Add Class
      * Remove Class
-     * --------------------------
+     * ------------------------------------
      */
     
     /**
