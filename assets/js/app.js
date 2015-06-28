@@ -19142,9 +19142,13 @@ function AudioPlayer(songData,playerWrapper){
 // var rawAudioData = $('#audioData');
 
 var playerWrapper = document.getElementById('player');
-var songsData = songs;
 
-var myAudioPlayer = AudioPlayer(songsData,playerWrapper);
+if (typeof songs !== 'undefined') {
+    var songsData = songs;
+    // if (myAudioPlayer != null) {
+        var myAudioPlayer = AudioPlayer(songsData,playerWrapper);
+    // }
+}
 // function getBandButtons(buttons){
 //     // bandButtons = data.find('.bandButton');
 //     // console.log(buttons);
