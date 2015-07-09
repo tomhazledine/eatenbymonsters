@@ -2,26 +2,37 @@
     // background:$primary;
     // color:$cream;
     // text-align:center;
+    // display:none;
+    &.wrapperVisible{
+        // display:block;
+    }
+}
+
+.bl_search{
+    font-size:1.2em;
+    margin:0 auto 1em;
+    display:block;
 }
 
 .bandButton{
     background:$primary;
     padding:.5em;
     margin:.5em;
-    display:inline-block;
+    display:block;//inline-block;
     position:relative;
     box-shadow:rgba($black,.2) -.3em .3em 0 0;
     cursor:pointer;
     font-family:$display;
+    text-align:center;
     // color:$white;
 }
 
 .bl_result_sub{
-    position:absolute;
-    top:100%;
-    left:50%;
-    width:10em;
-    margin-left:-5em;
+    // position:absolute;
+    // top:100%;
+    // left:50%;
+    width:100%;//10em;
+    // margin-left:-5em;
     background:$white;
     max-height:0;
     transition:max-height;

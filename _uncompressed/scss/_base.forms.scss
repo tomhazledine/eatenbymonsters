@@ -1,9 +1,27 @@
-input,textarea{
-    width:100%;
-    max-width:100%;
-    font-size:1em;
+// input,textarea{
+//     width:100%;
+//     max-width:100%;
+//     font-size:1em;
+//     border:0;
+//     padding:1em;
+//     margin-bottom:1em;
+//     font-family:$text;
+// }
+
+input.inputClass{
+    // border-radius:.5rem;
+    // font-size:1.5em;
+    padding:.6em .5em .4em;
+    line-height:1;
     border:0;
-    padding:1em;
-    margin-bottom:1em;
-    font-family:$text;
+    border-bottom:.2em solid $black;
+    font-family:$body;
+    box-shadow:rgba($black,.2) -.3em .3em 0 0;
+    &:focus{
+        outline:none;
+        box-shadow:
+            rgba($black,.2) -.3em .3em 0 0,
+            inset $secondary 0 0 0 .2em 
+            ;
+    }
 }

@@ -19181,6 +19181,8 @@ if (typeof songs !== 'undefined') {
 // });
 var bandDataWrapper = $('#bandSearchWrapper');
 
+// console.log(bandData);
+
 if (bandDataWrapper.length) {
 
     new Vue({

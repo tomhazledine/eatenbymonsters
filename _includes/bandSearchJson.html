@@ -14,7 +14,11 @@
                         {% unless first %},{% endunless %}
                         {
                             "link": "{{ post.url }}",
-                            "recordTitle": "{{ post.recordTitle }}",
+                            {% if post.recordTitle %}
+                                "recordTitle": "{{ post.recordTitle }}",
+                            {% else %}
+                                "recordTitle": "{{ post.title }}",
+                            {% endif %}
                             "bands": [
                                 {% assign first = true %}
                                 {% for tag in post.tags %}
@@ -26,7 +30,6 @@
                                 {% endfor %}
                             ],
                             "postTitle": "{{ post.title }}",
-                            "recordTitle": "{{ post.recordTitle }}",
                             "label": "{{ post.label }}",
                             "recordFormat": "{{ post.recordFormat }}",
                             "miniDescription": "{{ post.miniDescription }}"{% if post.hasExcerpt == true %},

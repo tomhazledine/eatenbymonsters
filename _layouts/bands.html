@@ -12,6 +12,12 @@ layout: default
             <h3>{{ page.intro}}</h3>
         {% endif %}
         {{ content }}
+
+        <div class="dividerWrapper">
+            <h6>Search</h6>
+            <div class="arrow down"></div>
+        </div>
+
     </article>
 
     <section id="bandSearchWrapper">
@@ -22,14 +28,14 @@ layout: default
                 placeholder="Enter a bandname"
                 type="search"
                 id="bl_searchInput"
-                class="bl_search"
+                class="bl_search inputClass"
                 name="bl_search"
                 v-on="keyup: searchEntry"
                 v-model="search"
             >
         </div>
         
-        <div class="bl_output">
+        <div class="bl_output {% raw %}{{ wrapperClass }}{% endraw %}">
             <ul class="bl_results">
                 <li
                     v-repeat="
