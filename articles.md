@@ -11,7 +11,7 @@ mainMenu: true
     {% for post in site.categories['comment'] %}
         <li>
             <h2>
-                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                <a href="{{ site.url }}{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h2>
         </li>
     {% endfor %}

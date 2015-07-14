@@ -1,6 +1,6 @@
 <div class="postSnippet">
     <h2>
-        <a href="{{ post.url | prepend: site.baseurl }}">
+        <a href="{{ site.url }}{{ post.url | prepend: site.baseurl }}">
             {% if post.miniDescription %}
                 {{ post.miniDescription }}
             {% else %}
@@ -37,5 +37,5 @@
         <p class="snippetExcerpt">{{ post.excerpt }}</p>
     {% endif %}
 
-    <a href="{{ post.url | prepend: site.baseurl }}" class="genericButton">Read the full {% if post.layout == 'review' %}review{% endif %}{% if post.layout == 'post' %}article{% endif %}</a>
+    <a href="{{ site.url }}{{ post.url | prepend: site.baseurl }}" class="genericButton">Read the full {% if post.layout == 'review' %}review{% endif %}{% if post.layout == 'post' %}article{% endif %}</a>
 </div>
