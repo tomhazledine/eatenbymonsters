@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+
+    <!-- Critical Path CSS -->
+    <style type="text/css">::-moz-selection{background:rgba(127,187,203,.5)}::selection{background:rgba(127,187,203,.5)}a::-moz-selection{color:#333;background:rgba(251,174,23,.5)}a::selection{color:#333;background:rgba(251,174,23,.5)}body{font-family:ff-meta-web-pro,"Helvetica Neue",helvetica,arial,sans-serif;color:#333;font-size:1.2em;line-height:1.6}.globalWrapper{padding:1em 1em 0}.mainWrap{margin:.5em 4em;padding:6em 1em;background:#fff8d8}@media (max-width:750px){.mainWrap{margin:.5em 2em;padding:4em 1em}}@media (max-width:400px){.mainWrap{margin:.5em 1em;padding:2em 1em}}h1{font-size:3em;font-family:abril-fatface;line-height:1.1;padding:0 0 1em}h2{font-size:1.4em;font-family:abril-fatface;font-style:italic;padding:.2em 0 0;line-height:1.3}p{padding-bottom:1em}@media (max-width:400px){p{padding-bottom:2em}}em{font-style:italic}strong{font-family:ff-meta-sc-web-pro,ff-meta-web-pro,"Helvetica Neue",helvetica,arial,sans-serif;text-transform:lowercase}li{list-style:none}.mainHeader{position:relative}.logo{text-align:center;position:relative;z-index:4}.siteTitle{font-family:abril-fatface;line-height:1;padding:.5em .5em 0;display:inline-block;height:1.5em;position:relative;-webkit-transition:left,width;transition:left,width;-webkit-transition-duration:.2s;transition-duration:.2s;width:3.2em;font-size:1em}.siteTitle:hover{background:inherit}.logoInitial{font-size:1em;display:block;height:1em;line-height:1;width:1em;float:left;overflow:hidden;text-align:left;-webkit-transition:width;transition:width;-webkit-transition-duration:.2s;transition-duration:.2s;letter-spacing:.05em}.logoInitial.letterE{width:.6em;margin-right:.05em}.logoInitial.letterB{width:.6em}.logoInitial.letterM{width:.85em}.navToggle{padding:6px;border-radius:50%;width:32px;height:32px;margin:-.5em auto 0;position:relative}.navicon{width:20px;height:3px;background:#333;display:block;margin-top:5px;margin-bottom:6px;position:relative;border-radius:1px}.navicon:after,.navicon:before{position:absolute;content:"";display:block;width:20px;height:3px;background:#333;left:50%;margin-left:-10px;border-radius:1px}.navicon:before{-webkit-transform-origin:50% 50%;-ms-transform-origin:50% 50%;transform-origin:50% 50%;top:-6px}.navicon:after{bottom:-6px}.mainMenu{position:absolute;top:-40em}</style>
+    
+    <title>Max Richter | Infra</title>
+    <meta name="description" content="REMEMBER_MARKUP">
+
+    <link rel="stylesheet" href="/assets/css/main.min.css">
+    <link rel="shortcut icon" href="/assets/images/favicon.ico" />
+
+    <!-- Modernizr -->
+    <script src="/assets/js/static/modernizr-2.6.2.min.js"></script>
+
+    <!-- Page-Specific Scripts -->
+    
+
+    <!-- Google+ -->
+    <link href='http://fonts.googleapis.com/css?family=Abril+Fatface' rel='stylesheet' type='text/css'>
+
+    <!-- Typekit JS -->
+    <script src="//use.typekit.net/ejw1ruu.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
+
+    <!-- Polyfills -->
+    <!-- [if lt IE 9]>
+    <script src="/assets/js/static/respond.min.js" type="text/javascript"></script>
+    <script src="/assets/js/static/html5.js" type="text/javascript"></script>
+    <![endif] -->
+
+    <link rel="canonical" href="http://ebm.dev/infra-max-richter">
+    <link rel="alternate" type="application/rss+xml" title="Eaten by Monsters" href="http://ebm.dev/feed.xml" />
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-36292016-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+
+</head>
+
+    <body>
+
+        <header class="mainHeader">
+    
+    <div class="logo">
+        <a href="/" class="siteTitle">
+            <span class="logoInitial letterE">Eaten </span>
+            <span class="logoInitial letterB">by </span>
+            <span class="logoInitial letterM">Monsters</span>
+        </a>
+    </div>
+
+    <button id="mobileNavToggle" class="navToggle"><span class="navicon"></span><span class="visuallyhidden">Menu</span></button>
+    
+    <nav>
+        <ul id="mainMenu" class="mainMenu">
+
+            
+                
+            
+                
+                    
+                        <li>
+                            <a href="/about/">
+                                <span class="menuLinkInner">
+                                    
+                                        About Eaten by Monsters
+                                    
+                                </span>
+                            </a>
+                        </li>
+                    
+                
+            
+                
+                    
+                        <li>
+                            <a href="/articles/">
+                                <span class="menuLinkInner">
+                                    
+                                        Browse all long-form articles
+                                    
+                                </span>
+                            </a>
+                        </li>
+                    
+                
+            
+                
+                    
+                        <li>
+                            <a href="/bands/">
+                                <span class="menuLinkInner">
+                                    
+                                        Search Reviews by Band Name
+                                    
+                                </span>
+                            </a>
+                        </li>
+                    
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                    
+                        <li>
+                            <a href="/records/">
+                                <span class="menuLinkInner">
+                                    
+                                        Search Reviews by Record Title
+                                    
+                                </span>
+                            </a>
+                        </li>
+                    
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+
+        </ul>
+    </nav>
+</header>
+
+        <div class="mainWrap">
+            <div class="testWrap">
+                <h1 class="postTitle">
+    
+        Max Richter | Infra
+    
+</h1>
+
+<span class="postMetaIntro">
+    
+    Thoughts about <span class="recordTitle">Infra</span>, <span class="formatPre">an</span> <span class="recordFormat">album</span> by <span class="recordArtist">Max Richter.</span>
+</span>
+
+<div class="hiddenSectionWrap">
+
+    <div class="recordMetaBox hiddenSection showPostMetaBox">
+        <div class="recordMetaBoxInner clearfix">
+        
+            
+                <span class="recordMeta">
+                    <span class="recordMetaKey">Record Label:</span>
+                    <span class="recordMetaValue">130701</span>
+                </span>
+            
+
+            
+
+            
+                <span class="recordMeta">
+                    <span class="recordMetaKey">Release Date:</span>
+                    <span class="recordMetaValue">October, 2010</span>
+                </span>
+            
+
+            
+                <span class="recordMeta">
+                    <span class="recordMetaKey">Buy it here:</span>
+                    <span class="recordMetaValue"><a href="http://www.maxrichter.com/">Composer's website</a></span>
+                </span>
+            
+
+        </div>
+    </div>
+
+    <button class="button utilityButton openDown showPostMetaToggle">More Info</button>
+
+</div>
+
+<main class="postContent reviewContent mainContent">
+    
+
+    <p><img src="http://eatenbymonsters.files.wordpress.com/2010/10/maxrichter_infra.jpg?w=300" alt="" /></p>
+
+<p>Much as with the last time I reviewed a <strong><a href="http://www.maxrichter.com/">Max Richter</a></strong> album (<strong>2009’s</strong> re-issue of<em><a href="http://eatenbymonsters.wordpress.com/2010/01/16/memoryhouse-max-richter/"> Memoryhouse</a></em>), this is a record it’s taken me ages to get around to reviewing. In truth, it’s the “absorption” part of the review process that has stumped me this time around. Whilst ostensibly having thirteen tracks, <strong>Max Richter’s</strong> latest effort, <em><a href="http://fat-cat.co.uk/fatcat/release.php?id=321">Infra</a></em>, is in essence one forty-five minute piece of music. Now, finding time to listen to a record of this nature shouldn’t have been too much of a challenge; I almost exclusively listen to albums in their entirety, and I have a strong academic interest in what - for want of a better word - I shall call “classical” music, which commands much more interaction from the listener that the usual fare that graces these pages. So why was absorbing <em>Infra</em> such a laborious process?</p>
+
+<p>Much like <em>Memoryhouse</em>, <em>Infra</em> lies in a muddy hinterland. Richter’s compositional style sits well with those who embrace a more overtly cinematic aesthetic, such as the excellent <strong>John Murphy</strong>* (who earned his epithet as a result of his work for Danny Boyle on both <em>28 Days Later</em> and <em>Sunshine*</em>), but his work with soundscapes and found sounds - which make up a substantial part of <em>Infra -</em> suggests that Richter is yearning to be thought of as more avant-garde than any mere “film composer”. Thus the question of how to approach an album like this remains a tricky one; <em>Infra</em> was initially commissioned to accompany a Royal Ballet piece by Wayne McGregor and artist Julian Opie, but now surfaces, in slightly re-worked form, as a stand-alone album, so how does one actually listen to it? Much of the issues I’ve had with Richter’s earlier works were centred around the fact that they sound like soundtracks; hearing them is isolation left the listener wanting more. The scope was there, but the music felt like it was only a part of a much bigger whole, and to hear just the one element was to miss the point. And with <em>Infra</em> there is certainly the same feeling of this being merely music for the accompaniment of something else.</p>
+
+<p>Many works that were conceived as soundtracks can stand on their own two feet and have artistic merit as pieces in isolation, but those are the ones that feel “complete”. Although the themes are simplistic - after all, soundtrack music is designed to fulfill one purpose alone; to invoke a scene-specific emotion and no more - the work of people like John Murphy (an overtly commercial and “wham, bam” approach) and Michael Nyman (widely accepted as a “real” composer, despite working extensively in the soundtrack field) has a depth of timbre that allows it to have an independent life of it’s own. Richter’s efforts, by comparison, feel more like sketches than finished works. There’s a space and atmosphere on <em>Infra</em> that is clearly intended to invoke strong emotional currents, but which on balance feels far too superficial to actually achieve anything. In fact, the more potentially outré and avant-garde elements do little more than break the “fourth wall” and make the listener acutely aware of the composer’s ambitions.</p>
+
+<p>Sadly, beyond this superficial “ooh, isn’t this experimental” vibe, there’s nothing at all innovative here, either. At his best, Richter’s chordal work can be majestic and evocative, but most of the time it feels formulaic and overly simple. And not as the result of any kind of academic rigour, either - there’s no sign of serialism or extended technique at work here, the tonality is extremely conservative, and although there could be an argument that his approach is that of a minimalist, it’s too simple even for that. That may sound facetious, but the melodic simplicity of the minimalists was tempered by a rhythmic and timbral complexity that is depressingly absent from this work. In fact, closer examination reveals that the melodic lines that do rise above the rest of the morass are in fact nothing more that an “homage” to Schubert’s dark and moody <em>Winterreise</em>, with Richter directly quoting on several occasions. Richter’s one saving grace is that he appears to have the occasional moment of melodic and harmonic inspiration, but now even those moments are cast into suspicion.</p>
+
+<p>In the final summation, it seems the question of how to approach <em>Infra</em> was not the most relevant one. The real question was “should I be listening to it at all?” And, well, the only answer I can come up with for the moment is: maybe. Despite my vitriolic rant against the processes at work here, when listened to purely as an autonomous piece of music <em>Infra</em> does deliver plenty of great moments. The soundscape parts do still sound tacked-on, but when one strips those away what you’re left with is ten minutes or so of good ideas. The trouble is that Richter’s finesse with a string quintet and synths is most definitely sullied by his own ambitions. The more he attempts to push the envelope, the more his traditional elements look shaky and out of place. I feel terrible for chastising a composer for their ambition, but in this instance there’s a clear case to be made for staying within your abilities. <strong>Max Richter</strong> can produce a moving, compelling and emotionally uplifting tune when he puts his mind to it; if only he’d do it a little bit more.</p>
+
+<p>*You may not be familiar with the name, but I’d bet my bottom dollar you know his piece <em>In the House - In a Heartbeat</em>.</p>
+
+
+    
+        <div id="audio">
+            <div class="dividerWrapper">
+                <h6>Hear it in action</h6>
+            </div>
+
+            <div id="player" class="player">
+
+    
+    
+        <div class="playlistSongWrapper song0" data-song-index="0">
+            <button class="playlistSongTrigger songPaused notPlayedYet" data-song-index="0">
+                <span class="playPauseIcon"></span>
+                <span class="playlistInfo playlistSongName">Infra 4</span>
+                <span class="playlistInfo playlistInfoBandAlbum">
+                    <span class="playlistBandName">Max Richter</span> – <span class="playlistAlbumName"><em>Infra</em></span>
+                </span>
+            </button>
+
+            <div class="songProgress clearfix">
+
+                <div class="songPlayTimer">
+                    0:00
+                </div>
+
+                <input type="range" class="songProgressSlider" min="0" max="100" value="0" oninput="myAudioPlayer.sliderScrub(this.value, 0)">
+
+                <!--oninput="sliderScrub(value,0)"/>-->
+
+                <div class="songDuration">
+                    0:00
+                </div>
+
+            </div>
+        </div>
+        
+    
+        <div class="playlistSongWrapper song1" data-song-index="1">
+            <button class="playlistSongTrigger songPaused notPlayedYet" data-song-index="1">
+                <span class="playPauseIcon"></span>
+                <span class="playlistInfo playlistSongName">Infra 5</span>
+                <span class="playlistInfo playlistInfoBandAlbum">
+                    <span class="playlistBandName">Max Richter</span> – <span class="playlistAlbumName"><em>Infra</em></span>
+                </span>
+            </button>
+
+            <div class="songProgress clearfix">
+
+                <div class="songPlayTimer">
+                    0:00
+                </div>
+
+                <input type="range" class="songProgressSlider" min="0" max="100" value="0" oninput="myAudioPlayer.sliderScrub(this.value, 1)">
+
+                <!--oninput="sliderScrub(value,1)"/>-->
+
+                <div class="songDuration">
+                    0:00
+                </div>
+
+            </div>
+        </div>
+        
+    
+
+
+
+    <!-- <div id="player-top">
+        
+        <div id="now-playing-title" amplitude-song-info="name"></div>
+        <div class="album-information"><span amplitude-song-info="artist"></span> - <span amplitude-song-info="album"></span></div>
+
+    </div>
+    <div id="player-bottom">
+        
+        <div id="control-container">
+            <button class="amplitude-prev">Prev</button>
+            <button class="amplitude-play-pause amplitude-paused" amplitude-main-play-pause="true">Play/Pause</button>
+            <button class="amplitude-next">Next</button>
+        </div>
+
+        <div id="current-song-information">
+            <span id="current-time">
+                <span class="amplitude-current-minutes" amplitude-single-current-minutes="true">0</span>:<span class="amplitude-current-seconds" amplitude-single-current-seconds="true">00</span>
+            </span>
+            <input type="range" id="song-time-slider" class="amplitude-song-slider" amplitude-singular-song-slider="true" value="0"/>
+            <span id="audio-duration">
+                <span class="amplitude-duration-minutes" amplitude-single-duration-minutes="true">0</span>:<span class="amplitude-duration-minutes" amplitude-single-duration-seconds="true">00</span>
+            </span>
+        </div> -->
+</div>
+        </div>
+
+    
+</main>
+
+<div class="postFooter mainContent">
+    <h5>Written 
+         by Tom
+        on the
+         
+        27th
+        
+        October, 
+        2010.</h5>
+</div>
+
+            </div>
+        </div>
+
+        <footer>
+
+    <nav>
+        <ul id="footerMenu" class="footerMenu clearfix">
+
+            
+                
+            
+                
+                    
+                        <li>
+                            <a href="/about/">
+                                
+                                    About
+                                
+                            </a>
+                        </li>
+                    
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                    
+                        <li>
+                            <a href="/contact/">
+                                
+                                    Contact
+                                
+                            </a>
+                        </li>
+                    
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+
+        </ul>
+    </nav>
+
+    <span class="credits">Est. MMVIII</span>
+
+    <div class="footerMeta">
+
+        <div class="scripts">
+            
+                <!-- Audio Data -->
+                <script type="text/javascript">
+    var songs = [
+            
+            
+                
+                {
+                    
+                        "name": "Infra 4",
+                    
+
+                    
+                        "artist":"Max Richter",
+                    
+
+                    
+                        "album":"Infra",
+                    
+
+                    
+                        "cover_art_url":"/",
+                    
+
+                    
+                        "url": "http://www.bearfacedrecords.com/EbMBlog_mp3s/MaxRichter/MaxRichter_Infra4.mp3"
+                    
+                }
+                
+            
+                ,
+                {
+                    
+                        "name": "Infra 5",
+                    
+
+                    
+                        "artist":"Max Richter",
+                    
+
+                    
+                        "album":"Infra",
+                    
+
+                    
+                        "cover_art_url":"/",
+                    
+
+                    
+                        "url": "http://www.bearfacedrecords.com/EbMBlog_mp3s/MaxRichter/MaxRichter_Infra5.mp3"
+                    
+                }
+                
+            
+        ];
+</script>
+            
+            <!-- Javascript -->
+            <script id="audioData" src="/assets/js/app.js"></script>
+        </div>
+
+
+    </div>
+</footer>
+
+    </body>
+
+</html>
