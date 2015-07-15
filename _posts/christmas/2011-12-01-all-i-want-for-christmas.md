@@ -16,10 +16,6 @@ releaseDate: 2011-12-01
 buyItLink: http://www.xopublicity.com/xofortheholidays4.html
 buyItLinkTitle: XO for the holidays
 
-miniDescription: XX
-hasExcerpt: true
-excerpt: REMEMBER_MARKUP
-
 categories:
 - christmas
 - review
