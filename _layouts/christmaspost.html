@@ -1,0 +1,94 @@
+---
+layout: default
+---
+
+<h1 class="postTitle">
+    {% if page.miniDescription %}
+        {{ page.miniDescription }}
+    {% else %}
+        {{ page.title }}
+    {% endif %}
+</h1>
+
+<span class="postMetaIntro">
+    {% if page.recordFormat == 'single' %}
+        {% assign formatArticle = 'a' %}
+    {% else %}
+        {% assign formatArticle = 'an' %}
+    {% endif %}
+    Thoughts about <span class="recordTitle">{{ page.recordTitle }}</span>, <span class="formatPre">{% if page.recordFormat %}{{ formatArticle }}</span> <span class="recordFormat">{{ page.recordFormat }}</span> {% endif %}by <span class="recordArtist">{{ page.band }}.</span>
+</span>
+
+<div class="hiddenSectionWrap">
+
+    <div class="recordMetaBox hiddenSection showPostMetaBox">
+        <div class="recordMetaBoxInner clearfix">
+        
+            {% if page.label %}
+                <span class="recordMeta">
+                    <span class="recordMetaKey">Record Label:</span>
+                    <span class="recordMetaValue">{{ page.label }}</span>
+                </span>
+            {% endif %}
+
+            {% if page.producer %}
+                <span class="recordMeta">
+                    <span class="recordMetaKey">Producer:</span>
+                    <span class="recordMetaValue">{{ page.producer }}</span>
+                </span>
+            {% endif %}
+
+            {% if page.releaseDate %}
+                <span class="recordMeta">
+                    <span class="recordMetaKey">Release Date:</span>
+                    <span class="recordMetaValue">{{ page.releaseDate | date: "%B, %Y" }}</span>
+                </span>
+            {% endif %}
+
+            {% if page.buyItLink %}
+                <span class="recordMeta">
+                    <span class="recordMetaKey">Buy it here:</span>
+                    <span class="recordMetaValue"><a href="{{ page.buyItLink }}">{{ page.buyItLinkTitle }}</a></span>
+                </span>
+            {% endif %}
+
+        </div>
+    </div>
+
+    <button class="button utilityButton openDown showPostMetaToggle">More Info</button>
+
+</div>
+
+<main class="postContent reviewContent mainContent">
+    {%if page.hasExcerpt == true %}
+        <h3>{{ page.excerpt }}</h3>
+    {% endif %}
+
+    {{ content }}
+
+    {% if page.audioLinks %}
+        <div id="audio">
+            <div class="dividerWrapper">
+                <h6>Hear it in action</h6>
+            </div>
+
+            {% include audioPlayer.html %}
+        </div>
+
+    {% endif %}
+</main>
+
+<div class="postFooter mainContent">
+    <h5>Written 
+        {% if page.author %} by {{ page.author }}{% endif %}
+        on the
+        {% assign d = page.date | date: "%-d"  %} 
+        {% case d %}
+            {% when '1' or '21' or '31' %}{{ d }}st
+            {% when '2' or '22' %}{{ d }}nd
+            {% when '3' or '23' %}{{ d }}rd
+            {% else %}{{ d }}th
+        {% endcase %}
+        {{ page.date | date: "%B" }}, 
+        {{ page.date | date: "%Y" }}.</h5>
+</div>

@@ -20,6 +20,14 @@ layout: default
 
     </article>
     
-    
+    <ul>
+        {% for post in site.categories['christmas'] %}
+            <li>
+                <h2>
+                    <a href="{{ site.url }}{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>
+            </li>
+        {% endfor %}
+    </ul>
 
 </div>
