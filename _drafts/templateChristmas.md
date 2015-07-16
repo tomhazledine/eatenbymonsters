@@ -10,15 +10,11 @@ tags:
 - BANDNAME
 recordTitle: FULLTITLE
 label: LABEL
-recordFormat: EP album single
+recordFormat: single
 releaseDate: YYYYDASHMMDASHDD
 
 buyItLink: FULL_URL
 buyItLinkTitle: XX
-
-miniDescription: XX
-hasExcerpt: true
-excerpt: REMEMBER_MARKUP
 
 categories:
 - christmas
@@ -26,15 +22,7 @@ categories:
 
 audioLinks:
 - name: XX
-  url: FULL_URL
-- name: XX
-  url: FULL_URL
-
-soundcloud:
-- FULL_URL
-
-youtube:
-- FULL_URL
+  url: http://audio.eatenbymonsters.com/
 
 coverImage: covers/XXXX.jpg
 ---
