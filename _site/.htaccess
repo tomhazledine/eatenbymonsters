@@ -1,7 +1,13 @@
 RedirectMatch 301 /review/(.*) /$1
 RedirectMatch 301 /article/(.*) /$1
 RedirectMatch 301 /ones-to-watch/(.*) /$1
+
+RedirectMatch 301 /list-2/24-alternative-christmas-songs/(.*) /christmas/
+RedirectMatch 301 /2012/11/26/24-alternative-christmas-songs/(.*) /christmas/
+
 RedirectMatch 301 /list-2/(.*) /$1
 RedirectMatch 301 /annual-lists/(.*) /$1
+
+
 
 ErrorDocument 404 /404.html
