@@ -45,8 +45,6 @@ layout: default
 
                             <input type="range" class="songProgressSlider" min="0" max="100" value="0" oninput="myAudioPlayer.sliderScrub(this.value, {{ count }})">
 
-                            <!--oninput="sliderScrub(value,{{ count }})"/>-->
-
                             <div class="songDuration">
                                 0:00
                             </div>
@@ -57,7 +55,7 @@ layout: default
                 {% endfor %}
             </div>
         {% endfor %}
-    </ul>
+    </div>
 
 </div>
 

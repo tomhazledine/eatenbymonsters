@@ -4,6 +4,10 @@ RedirectMatch 301 /ones-to-watch/(.*) /$1
 
 RedirectMatch 301 /list-2/24-alternative-christmas-songs/(.*) /christmas/
 RedirectMatch 301 /2012/11/26/24-alternative-christmas-songs/(.*) /christmas/
+RedirectMatch 301 /category/alternative-christmas/(.*) /christmas/
+RedirectMatch 301 /alternative-christmas/(.*) /christmas/
+RedirectMatch 301 /2011/12/(.*) /christmas/
+
 
 RedirectMatch 301 /list-2/(.*) /$1
 RedirectMatch 301 /annual-lists/(.*) /$1
@@ -11,3 +15,4 @@ RedirectMatch 301 /annual-lists/(.*) /$1
 
 
 ErrorDocument 404 /404.html
+ErrorDocument 500 /500.html
