@@ -25,9 +25,9 @@ categories:
 
 audioLinks:
 - name: Silver Dagger
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/JimMoray/JimMoray_SilverDagger.mp3
+  url: reviews/jimMoray/silverDagger.mp3
 - name: Jenny of the Moor
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/JimMoray/JimMoray_JennyOfTheMoor.mp3
+  url: reviews/jimMoray/jennyOfTheMoor.mp3
 ---
 
 ![](http://eatenbymonsters.files.wordpress.com/2010/10/jimmoray_inmodernhistory.gif)

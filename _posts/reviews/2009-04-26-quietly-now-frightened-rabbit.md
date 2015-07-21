@@ -23,7 +23,7 @@ excerpt: REMEMBER_MARKUP
 categories:
 - review
 
-audioLinks:
+NOaudioLinks:
 - name: Backwards Walk (live)
   url: http://www.bearfacedrecords.com/EbMBlog_mp3s/FrightenedRabbit/FrightenedRabbit_BackwardsWalk_live.mp3
 - name: Poke (live)

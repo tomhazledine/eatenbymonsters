@@ -24,6 +24,10 @@ excerpt: <strong>Youth</strong> has long been a favourite song of mine, but it's
 categories:
 - review
 
+audioLinks:
+- name: Youth
+  url: reviews/daughter/youth.mp3
+
 coverImage: covers/dght1.jpg
 ---
 

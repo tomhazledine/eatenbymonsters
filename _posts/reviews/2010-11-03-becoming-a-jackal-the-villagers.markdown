@@ -22,7 +22,7 @@ excerpt: REMEMBER_MARKUP
 categories:
 - review
 
-audioLinks:
+NOaudioLinks:
 - name: Home
   url: http://www.bearfacedrecords.com/EbMBlog_mp3s/Villagers/Villagers_Home.mp3
 - name: Ship of Promises

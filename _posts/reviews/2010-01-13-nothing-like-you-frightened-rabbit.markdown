@@ -24,7 +24,7 @@ categories:
 
 audioLinks:
 - name: Nothing Like You
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/FrightenedRabbit/FrightenedRabbit_NothingLikeYou.mp3
+  url: reviews/frightenedRabbit/nothingLikeYou.mp3
 ---
 
 ![](http://eatenbymonsters.files.wordpress.com/2010/01/frightenedrabbit_nothinglikeyou.jpg?w=297)

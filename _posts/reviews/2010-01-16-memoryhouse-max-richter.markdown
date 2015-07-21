@@ -24,9 +24,9 @@ categories:
 
 audioLinks:
 - name: Sarajevo
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/MaxRichter/MaxRichter_Sarajevo.mp3
+  url: reviews/maxRichter/sarajevo.mp3
 - name: November
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/MaxRichter/MaxRichter_November.mp3
+  url: reviews/maxRichter/november.mp3
 ---
 
 ![](http://eatenbymonsters.files.wordpress.com/2010/01/maxrichter_memoryhouse.jpg?w=300)

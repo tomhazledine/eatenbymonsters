@@ -24,9 +24,9 @@ categories:
 
 audioLinks:
 - name: With the Benefit of Hindsight
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/WeWerePromisedJetpacks/WeWerePromisedJetpacks_WithTheBenefitOfHindsight.mp3
+  url: reviews/weWerePromisedJetpacks/withTheBenefitOfHindsight.mp3
 - name: This Is My House, This Is My Home
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/WeWerePromisedJetpacks/WeWerePromisedJetpacks_ThisIsMyHouseThisIsMyHome.mp3
+  url: reviews/weWerePromisedJetpacks/thisIsMyHouseThisIsMyHome.mp3
 ---
 
 ![](http://eatenbymonsters.files.wordpress.com/2010/04/wewerepromised.jpg?w=300)

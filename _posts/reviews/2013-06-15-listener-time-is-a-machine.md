@@ -26,7 +26,7 @@ categories:
 
 audioLinks:
 - name: Eyes To The Ground For A Change
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/Listener_EyesToTheGround.mp3
+  url: reviews/listener/eyesToTheGround.mp3
 
 coverImage: covers/lstn1.jpg
 ---

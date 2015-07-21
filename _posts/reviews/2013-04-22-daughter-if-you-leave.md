@@ -25,9 +25,9 @@ categories:
 
 audioLinks:
 - name: Youth
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/Daughter_Youth.mp3
+  url: reviews/daughter/youth.mp3
 - name: Tomorrow
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/Daughter_Tomorrow.mp3
+  url: reviews/daughter/tomorrow.mp3
 
 coverImage: covers/dght2.jpg
 ---

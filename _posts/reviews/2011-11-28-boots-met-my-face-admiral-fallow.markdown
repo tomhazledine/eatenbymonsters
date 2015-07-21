@@ -24,9 +24,9 @@ categories:
 
 audioLinks:
 - name: Squealing Pigs
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/AdmiralFallow/AdmiralFallow_SquealingPigs.mp3
+  url: reviews/admiralFallow/squealingPigs.mp3
 - name: Subbuteo
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/AdmiralFallow/AdmiralFallow_Subbuteo.mp3
+  url: reviews/admiralFallow/subbuteo.mp3
 ---
 
 ![](http://eatenbymonsters.files.wordpress.com/2011/11/2808391-admiral-fallow-boots-met-my-face-deluxe-edition.jpg?w=300)

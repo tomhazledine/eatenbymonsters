@@ -24,9 +24,9 @@ categories:
 
 audioLinks:
 - name: Taste of her Lips
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/FriskaViljor/FriskaViljor_TasteOfHerLips.mp3
+  url: reviews/friskaViljor/tasteOfHerLips.mp3
 - name: On and On
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/FriskaViljor/FriskaViljor_OnAndOn.mp3
+  url: reviews/friskaViljor/onAndOn.mp3
 ---
 
 ![friskaviljor](http://eatenbymonsters.files.wordpress.com/2009/02/friskaviljor1.jpg)

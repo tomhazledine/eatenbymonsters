@@ -24,9 +24,9 @@ categories:
 
 audioLinks:
 - name: Infra 4
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/MaxRichter/MaxRichter_Infra4.mp3
+  url: reviews/maxRichter/infra4.mp3
 - name: Infra 5
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/MaxRichter/MaxRichter_Infra5.mp3
+  url: reviews/maxRichter/infra5.mp3
 ---
 
 ![](http://eatenbymonsters.files.wordpress.com/2010/10/maxrichter_infra.jpg?w=300)

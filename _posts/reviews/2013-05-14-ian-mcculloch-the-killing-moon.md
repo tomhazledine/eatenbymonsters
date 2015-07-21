@@ -27,7 +27,7 @@ categories:
 
 audioLinks:
 - name: The Killing Moon
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/TheKillingMoon.mp3
+  url: reviews/ianMcCulloch/theKillingMoon.mp3
 
 coverImage: covers/inmc1.jpg
 ---

@@ -25,7 +25,7 @@ categories:
 
 audioLinks:
 - name: Fuck This Place
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/FrightenedRabbit/FrightenedRabbit_FuckThisPlace.mp3
+  url: reviews/frightenedRabbit/fuckThisPlace.mp3
 ---
 
 ![](http://eatenbymonsters.files.wordpress.com/2011/11/frightened-rabbit-a-frightened-rabbit-ep-608x642.jpg?w=284)

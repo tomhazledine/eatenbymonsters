@@ -865,6 +865,8 @@
     
 
     
+
+    
     ,
     {
         "link": "/sinking-ship-port-isla",
@@ -1048,7 +1050,306 @@
     
     ,
     {
-        "link": "/all-i-want-for-christmas",
+        "link": "/christmas-the-very-foundation",
+        "band": "The Very Foundation",
+        "recordTitle": "All Lit Up (For Christmas)",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-jim-white",
+        "band": "Jim White",
+        "recordTitle": "Christmas Day",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-spiers-boden",
+        "band": "Spiers &amp; Boden",
+        "recordTitle": "On Christmas Day",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-withered-hand",
+        "band": "Withered Hand",
+        "recordTitle": "It's A Wonderful Lie",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-piney-gir",
+        "band": "Piney Gir",
+        "recordTitle": "Christmas Time",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-casiotone-for-the-painfully-alone",
+        "band": "Casiotone for the Painfully Alone",
+        "recordTitle": "Cold White Christmas",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-they-might-be-giants",
+        "band": "They Might Be Giants",
+        "recordTitle": "Santa's Beard",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-the-decemberists",
+        "band": "The Decemberists",
+        "recordTitle": "Please Daddy (Don't Get Drunk This Christmas)",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-branches",
+        "band": "Branches",
+        "recordTitle": "O Come All Ye Faithful",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-banjo-or-freakout",
+        "band": "Banjo or Freakout",
+        "recordTitle": "White Christmas",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-pictures-of-then",
+        "band": "Pictures of Then",
+        "recordTitle": "I Believe in Father Christmas",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-sufjan-stevens",
+        "band": "Sufjan Stevens",
+        "recordTitle": "That Was The Worst Christmas Ever!",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-the-winter-sounds",
+        "band": "The Winter Sounds",
+        "recordTitle": "The Anthem Is A Gift",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-lightspeed-champion",
+        "band": "Lightspeed Champion",
+        "recordTitle": "Another Song About Being Alone At Xmas",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-mogwai",
+        "band": "Mogwai",
+        "recordTitle": "Christmas Song",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-lindley-ruth",
+        "band": "Lindley RuthJordan Hull",
+        "recordTitle": "Merry Christmas From The Family",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-run-d-m-c",
+        "band": "Run-D.M.C.",
+        "recordTitle": "Christmas In Hollis",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-sonic-youth",
+        "band": "Sonic Youth",
+        "recordTitle": "Santa Doesn't Cop Out On Dope",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-frightened-rabbit",
+        "band": "Frightened Rabbit",
+        "recordTitle": "It's Christmas So We'll Stop",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-christopher-dennis",
+        "band": "Christopher Dennis",
+        "recordTitle": "The Christmas Sandwich",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-eels",
+        "band": "Eels",
+        "recordTitle": "Everything's Gonna Be Cool This Christmas",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-get-well-soon",
+        "band": "Get Well Soon",
+        "recordTitle": "Christmas in Adventure Parks",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-jimmy-eat-world",
+        "band": "Jimmy Eat World",
+        "recordTitle": "12.23.95",
+        "label": "LABEL",
+        "recordFormat": "single",
+        "miniDescription": ""
+    }
+    
+    
+
+    
+    ,
+    {
+        "link": "/christmas-master-slash-slave",
         "band": "Master Slash Slave",
         "recordTitle": "All I Want For Christmas",
         "label": "XO Publicity",
@@ -1449,6 +1750,8 @@
         "miniDescription": ""
     }
     
+    
+
     
 
     

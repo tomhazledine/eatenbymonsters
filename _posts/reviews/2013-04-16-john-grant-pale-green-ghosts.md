@@ -25,9 +25,9 @@ categories:
 
 audioLinks:
 - name: Pale Green Ghosts
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/JohnGrant_PaleGreenGhosts.mp3
+  url: reviews/johnGrant/paleGreenGhosts.mp3
 - name: Greatest Motherfucker
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/JohnGrant_GMF.mp3
+  url: reviews/johnGrant/GMF.mp3
 
 coverImage: covers/jngr1.jpg
 ---

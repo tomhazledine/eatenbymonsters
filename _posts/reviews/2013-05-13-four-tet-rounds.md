@@ -26,9 +26,9 @@ categories:
 
 audioLinks:
 - name: Hands
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/FourTet_Hands.mp3
+  url: reviews/fourTet/hands.mp3
 - name: My Angel Rocks Back And Forth
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/FourTet_MyAngel.mp3
+  url: reviews/fourTet/myAngel.mp3
 
 coverImage: covers/frtt1.jpg
 ---

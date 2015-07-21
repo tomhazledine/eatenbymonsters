@@ -29,10 +29,10 @@ categories:
 audioLinks:
 - name: City of the Dead
   band: Kim Janssen
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/Janssen_CityOfTheDead.mp3
+  url: reviews/Janssen/cityOfTheDead.mp3
 - name: Clouds Looming
   band: I Am Oak
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/IAmOak_CloudsLooming.mp3
+  url: reviews/IAmOak/cloudsLooming.mp3
 
 coverImage: covers/snws1.jpg
 ---

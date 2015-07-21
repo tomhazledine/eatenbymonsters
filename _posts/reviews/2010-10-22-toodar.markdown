@@ -25,9 +25,9 @@ categories:
 
 audioLinks:
 - name: Toy
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/Toodar/Toodar_Toy.mp3
+  url: reviews/toodar/toy.mp3
 - name: Ten Paces
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/Toodar/Toodar_TenPaces.mp3
+  url: reviews/toodar/tenPaces.mp3
 ---
 
 ![](http://eatenbymonsters.files.wordpress.com/2010/10/toodar.jpg?w=300)

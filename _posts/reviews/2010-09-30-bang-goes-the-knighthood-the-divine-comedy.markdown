@@ -24,9 +24,9 @@ categories:
 
 audioLinks:
 - name: Bang Goes the Knighthood
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/TheDivineComedy/TheDivineComedy_BangGoesTheKnighthood.mp3
+  url: reviews/theDivineComedy/bangGoesTheKnighthood.mp3
 - name: At the Indie Disco
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/TheDivineComedy/TheDivineComedy_AtTheIndieDisco.mp3
+  url: reviews/theDivineComedy/atTheIndieDisco.mp3
 ---
 
 ![](http://eatenbymonsters.files.wordpress.com/2010/09/divinecomedy_bandgoestheknighthood.jpg)

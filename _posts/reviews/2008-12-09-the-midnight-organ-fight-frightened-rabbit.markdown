@@ -22,7 +22,7 @@ excerpt: REMEMBER_MARKUP
 categories:
 - review
 
-audioLinks:
+NOaudioLinks:
 - name: The Modern Leper
   url: http://www.bearfacedrecords.com/EbMBlog_mp3s/FrightenedRabbit/FrightenedRabbit_TheModernLeper.mp3
 - name: Poke

@@ -24,7 +24,7 @@ categories:
 
 audioLinks:
 - name: Heart Heart
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/WitheredHand/WitheredHand_HeartHeart.mp3
+  url: reviews/witheredHand/heartHeart.mp3
 ---
 
 ![](http://eatenbymonsters.files.wordpress.com/2012/02/img_3532.jpg)

@@ -25,9 +25,9 @@ categories:
 
 audioLinks:
 - name: The Bigger Picture
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/Stornoway_BiggerPicture.mp3
+  url: reviews/stornoway/biggerPicture.mp3
 - name: Knock Me On The Head
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/Stornoway_KnockMeOnTheHead.mp3
+  url: reviews/stornoway/knockMeOnTheHead.mp3
 
 coverImage: covers/strn1.jpg
 ---

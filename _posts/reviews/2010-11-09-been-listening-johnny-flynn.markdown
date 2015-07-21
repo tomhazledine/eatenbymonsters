@@ -22,7 +22,7 @@ excerpt: REMEMBER_MARKUP
 categories:
 - review
 
-audioLinks:
+NOaudioLinks:
 - name: Kentucky Pill
   url: http://www.bearfacedrecords.com/EbMBlog_mp3s/JohnnyFlynn/JohnnyFlynn_KentuckyPill.mp3
 - name: The Water (with Laura Marling)

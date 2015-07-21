@@ -25,9 +25,9 @@ categories:
 
 audioLinks:
 - name: Swim Until You Can't See Land
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/FrightenedRabbit/FrightenedRabbit_SwimUntilYouCantSeeLand.mp3
+  url: reviews/frightenedRabbit/swimUntilYouCantSeeLand.mp3
 - name: Living in Colour
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/FrightenedRabbit/FrightenedRabbit_LivingInColour.mp3
+  url: reviews/frightenedRabbit/livingInColour.mp3
 ---
 
 Well this review has been a long time coming and no mistake. In the run up to the release of **[Frightened Rabbit](http://fat-cat.co.uk/fatcat/artist/frightened+rabbit)'s** third **LP**, *The Winter of Mixed Drinks*, I got very hot around the collar and posted all sorts of **FR** related news; any single or free download was lapped up and devoured with all the fervour of the newly-converted. So it may come as quite a surprise that I didn't review it as soon as the promo copy arrived on my doormat. It seems all the excitement meant that by the time the actual record arrived I had exhausted all my **FR** enthusiasm; I was well and truly spent.

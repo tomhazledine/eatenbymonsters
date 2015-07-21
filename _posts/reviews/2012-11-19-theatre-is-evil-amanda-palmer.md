@@ -24,9 +24,9 @@ categories:
 
 audioLinks:
 - name: The Killing Type
-  url: http://www.eatenbymonsters.com/EbMBlog_mp3s/AmandaPalmer_KillingType.mp3
+  url: reviews/amandaPalmer/killingType.mp3
 - name: Bottomfeeder
-  url: http://www.eatenbymonsters.com/EbMBlog_mp3s/AmandaPalmer_Bottomfeeder.mp3
+  url: reviews/amandaPalmer/bottomfeeder.mp3
 ---
 
 It's been a very long time since I've covered a full album on these pages, so it seems fitting that I break that streak with a record that's actually been put together like a real album. So many records these days seem to be just a collection of songs that happen to have been written at the same time, with the best ones put at the start to be sure of grabbing the listener's attention as quickly as possible. The worst ones are just a couple of singles strung haphazardly together with bona fide filler. A real album, by contrast, has an ebb and flow, a structure, a cohesive identity.

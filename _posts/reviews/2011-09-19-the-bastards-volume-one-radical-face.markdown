@@ -24,11 +24,11 @@ categories:
 
 audioLinks:
 - name: All is Well (It's Only Blood)
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/RadicalFace/RadicalFace_AllIsWellItsOnlyBlood.mp3
+  url: reviews/radicalFace/allIsWellItsOnlyBlood.mp3
 - name: All is Well (Goodbye, Goodbye)
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/RadicalFace/RadicalFace_AllIsWellGoodbyeGoodbye.mp3
+  url: reviews/radicalFace/allIsWellGoodbyeGoodbye.mp3
 - name: We're On Our Way
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/RadicalFace/RadicalFace_WereOnOurWay.mp3
+  url: reviews/radicalFace/wereOnOurWay.mp3
 ---
 
 ![](http://eatenbymonsters.files.wordpress.com/2011/09/splash1-e1316420902955.jpg?w=300)

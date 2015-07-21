@@ -30,9 +30,9 @@ audioLinks:
 
 audioLinks:
 - name: Lost That Easy
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/CWK_LostThatEasy.mp3
+  url: reviews/coldWarKids/lostThatEasy.mp3
 - name: Bottled Affection
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/CWK_BottledAffection.mp3
+  url: reviews/coldWarKids/bottledAffection.mp3
 
 coverImage: covers/cldw1.jpg
 ---

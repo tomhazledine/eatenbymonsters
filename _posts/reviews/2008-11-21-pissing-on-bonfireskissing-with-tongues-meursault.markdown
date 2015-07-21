@@ -24,9 +24,9 @@ categories:
 
 audioLinks:
 - name: The Furnace
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/Meursault/Meursault_TheFurnace.mp3
+  url: reviews/meursault/theFurnace.mp3
 - name: A Few Kind Words
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/Meursault/Meursault_AFewKindWords.mp3
+  url: reviews/meursault/aFewKindWords.mp3
 ---
 
 ![Pissing on Bonfires/Kissing With Tongues](http://eatenbymonsters.files.wordpress.com/2008/11/meursault_pissingkissingcover.jpg)

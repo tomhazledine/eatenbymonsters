@@ -25,9 +25,9 @@ categories:
 
 audioLinks:
 - name: XX
-  url: FULL_URL
+  url: reviews/BANDSLUG/SONGSLUG.mp3
 - name: XX
-  url: FULL_URL
+  url: reviews/BANDSLUG/SONGSLUG.mp3
 
 soundcloud:
 - FULL_URL

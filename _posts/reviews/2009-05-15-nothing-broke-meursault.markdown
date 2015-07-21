@@ -24,9 +24,9 @@ categories:
 
 audioLinks:
 - name: Nothing Broke
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/Meursault/NothingBroke.mp3) [audio http://www.bearfacedrecords.com/EbMBlog_mp3s/Meursault/NothingBroke.mp3
+  url: reviews/meursault/nothingBroke.mp3
 - name: Red Candle Bulb
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/Meursault/RedCandleBulb.mp3
+  url: reviews/meursault/redCandleBulb.mp3
 ---
 
 ![meursault-nothingbroke](http://eatenbymonsters.files.wordpress.com/2009/05/meursault-nothingbroke.jpg?w=300)

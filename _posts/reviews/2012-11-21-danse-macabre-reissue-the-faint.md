@@ -24,9 +24,9 @@ categories:
 
 audioLinks:
 - name: Falling Out Of Love At This Volume
-  url: http://www.eatenbymonsters.com/EbMBlog_mp3s/TheFaint_FallingOutOfLoveAtThisVolume.mp3
+  url: reviews/theFaint/fallingOutOfLoveAtThisVolume.mp3
 - name: Falling Out Of Love At This Volume
-  url: http://www.eatenbymonsters.com/EbMBlog_mp3s/BrightEyes_FallingOutOfLoveAtThisVolume.mp3
+  url: reviews/brightEyes/fallingOutOfLoveAtThisVolume.mp3
 
 soundcloud:
 - http://api.soundcloud.com/tracks/67710681

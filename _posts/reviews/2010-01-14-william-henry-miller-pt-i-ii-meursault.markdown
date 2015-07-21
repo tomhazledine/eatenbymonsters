@@ -24,9 +24,9 @@ categories:
 
 audioLinks:
 - name: William Henry Miller Pt. II
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/Meursault/Meursault_WHMII.mp3
+  url: reviews/meursault/williamHenryMillerII.mp3
 - name: A Few Kind Words
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/Meursault/Meursault_AFewKindWords.mp3
+  url: reviews/meursault/aFewKindWords.mp3
 ---
 
 ![](http://eatenbymonsters.files.wordpress.com/2010/01/meursault_whm12.jpg?w=300)

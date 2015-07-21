@@ -26,9 +26,9 @@ categories:
 
 audioLinks:
 - name: Flash Floods & Wildfire
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/Toodar/ToodarTOG_FlashFloodsAndWildfire.mp3
+  url: reviews/toodar/flashFloodsAndWildfire.mp3
 - name: Ten Paces
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/Toodar/TOG_TenPaces.mp3
+  url: reviews/theOctoberGame/tenPaces.mp3
 ---
 
 ![](http://eatenbymonsters.files.wordpress.com/2011/06/ffwf.jpg)

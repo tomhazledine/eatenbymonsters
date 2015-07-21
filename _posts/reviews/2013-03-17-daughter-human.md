@@ -27,7 +27,7 @@ coverImage: covers/dght3.jpg
 
 audioLinks:
 - name: Human
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/Daughter_Human.mp3
+  url: reviews/daughter/human.mp3
 ---
 
 <div>{% include coverImg.html %}</div>

@@ -27,9 +27,9 @@ coverImage: covers/styn1.jpg
 
 audioLinks:
 - name: Left
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/StayOnTheBike_Left.mp3
+  url: reviews/stayOnTheBike/left.mp3
 - name: Build
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/StayOnTheBike_Build.mp3
+  url: reviews/stayOnTheBike/build.mp3
 ---
 
 This eponymous **EP** from **Stay On The Bike** isn't released until tomorrow, and until then all I've got to go on are the two tracks that made their way into my inbox; the opening and closing tracks *Left** and *Build*. A definite degree of luck went into getting this record on my to-blog-about list, as the first few seconds of *Left* are dominated by the kind of pub-rock guitar lines that instantly scream “skip!” when I'm trawling through my emails. Mercifully the band had sent two songs, so what I skipped onto was the closer *Build*, and there's nothing at all in that track that would make me want to skip it. In fact, I played it several times in quick succession and then went back and gave *Left* a second chance.

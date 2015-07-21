@@ -25,9 +25,9 @@ categories:
 
 audioLinks:
 - name: Shell Games
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/BrightEyes/BrightEyes_ShellGames.mp3
+  url: reviews/brightEyes/shellGames.mp3
 - name: Haile Selassie
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/BrightEyes/BrightEyes_HaileSelassie.mp3
+  url: reviews/brightEyes/haileSelassie.mp3
 ---
 
 ![](http://eatenbymonsters.files.wordpress.com/2011/02/bright_eyes_the_peoples_key_album_cover_art_high_resolution.jpg?w=300)

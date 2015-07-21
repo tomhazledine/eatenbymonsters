@@ -25,7 +25,7 @@ categories:
 
 audioLinks:
 - name: Figurehead (FOUND's "The Wetter The Better" Remix)
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/FOUND_TheWetterTheBetter.mp3
+  url: reviews/found/theWetterTheBetter.mp3
 
 coverImage: covers/jnnc1.jpg
 

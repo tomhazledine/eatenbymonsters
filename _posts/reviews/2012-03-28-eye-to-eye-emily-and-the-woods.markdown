@@ -25,7 +25,7 @@ categories:
 
 audioLinks:
 - name: Steal His Heart
-  url: http://www.eatenbymonsters.com/EbMBlog_mp3s/EmilyAndTheWoods/EmilyAndTheWoods_StealHisHeart.mp3
+  url: reviews/emilyAndTheWoods/stealHisHeart.mp3
 
 soundcloud:
 - http://api.soundcloud.com/tracks/32776424

@@ -21,9 +21,9 @@ categories:
 
 audioLinks:
 - name: Scavengers
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/MatthewAndTheAtlas/MatthewAndTheAtlas_Scavengers.mp3
+  url: reviews/matthewAndTheAtlas/scavengers.mp3
 - name: Hide Under the Sun
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/MatthewAndTheAtlas/MatthewAndTheAtlas_HideUnderTheSun.mp3
+  url: reviews/matthewAndTheAtlas/hideUnderTheSun.mp3
 ---
 
 I caught Matt Hegarty, who trades under the moniker **Matthew and the Atlas**, live at the Zenith Bar in Islington a week or so ago [_note: this was in June 2009_].  I was thoroughly impressed with what I saw and managed to wheedle an **EP** out of the guy, and I'm pleased to report that, much like his performance that night, it's excellent.

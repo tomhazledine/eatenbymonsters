@@ -24,9 +24,9 @@ categories:
 
 audioLinks:
 - name: The Wrong Car
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/TheTwilightSad/TheTwilightSad_TheWrongCar.mp3
+  url: reviews/theTwilightSad/theWrongCar.mp3
 - name: The Room (Mogwai Remix)
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/TheTwilightSad/TheTwilightSad_TheRoom_MogwaiRemix.mp3
+  url: reviews/theTwilightSad/theRoom_MogwaiRemix.mp3
 ---
 
 ![](http://eatenbymonsters.files.wordpress.com/2010/10/thetwilightsad_thewrongcar.jpg?w=300)

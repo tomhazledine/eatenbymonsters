@@ -24,11 +24,11 @@ categories:
 
 audioLinks:
 - name: Inbetweens
-  url: http://www.eatenbymonsters.com/EbMBlog_mp3s/WitheredHand/WH_Inbetweens.mp3
+  url: reviews/witheredHand/inbetweens.mp3
 - name: (it's a) Wonderful Lie (new version)
-  url: http://www.eatenbymonsters.com/EbMBlog_mp3s/WitheredHand/WH_WonderfulLie.mp3
+  url: reviews/witheredHand/wonderfulLie.mp3
 - name: It's A Wonderful Lie (old version)
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/Christmas/WitheredHand_ItsAWonderfulLie.mp3
+  url: christmas/WitheredHand_ItsAWonderfulLie.mp3
 ---
 
 ![Inbetweens EP cover](http://eatenbymonsters.files.wordpress.com/2012/11/withered-hand-inbetweens.png)

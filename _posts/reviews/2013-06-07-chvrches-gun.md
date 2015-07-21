@@ -26,7 +26,7 @@ categories:
 
 audioLinks:
 - name: Gun
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/Chvrches_Gun.mp3
+  url: reviews/chvrches/gun.mp3
 
 coverImage: covers/chvr1.jpg
 ---

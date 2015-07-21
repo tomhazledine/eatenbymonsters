@@ -29,7 +29,7 @@ coverImage: covers/rbst1.jpg
 
 audioLinks:
 - name: Charcoal Black & the Bonnie Grey
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/RobStJohn_Charcoal.mp3
+  url: reviews/robStJohn/charcoal.mp3
 ---
 
 [**Rob St.John**](http://robstjohn.tumblr.com/) has always been a favourite here at **Eaten by Monsters**, and new releases of his are eagerly awaited and avidly consumed. It's always been clear, however, that his music is very much an acquired taste. To the unprepared, his ghostlike baritone and the meandering, lilting nature of his records can easily sweep far over their heads.

@@ -28,9 +28,9 @@ categories:
 
 audioLinks:
 - name: The Woodpile
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/FrightenedRabbit/TheWoodpile.mp3
+  url: reviews/frightenedRabbit/theWoodpile.mp3
 - name: Dead Now
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/FrightenedRabbit/DeadNow.mp3
+  url: reviews/frightenedRabbit/deadNow.mp3
 
 coverImage: covers/frgt1.jpg
 ---

@@ -29,9 +29,9 @@ coverImage: covers/swtb1.jpg
 
 audioLinks:
 - name: Joyful Reunion
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/SBP_JoyfulReunion.mp3
+  url: reviews/sweetBillyPilgrim/joyfulReunion.mp3
 - name: Stars Spill Out Of Cups
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/SBP_StarsSpill.mp3
+  url: reviews/sweetBillyPilgrim/starsSpill.mp3
   album: We Just Did What Happened And No One Came
 ---
 

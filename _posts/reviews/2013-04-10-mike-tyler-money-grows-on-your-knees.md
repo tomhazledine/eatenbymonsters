@@ -27,9 +27,9 @@ coverImage: covers/mkty1.jpg
 
 audioLinks:
 - name: Money Grows On Your Knees
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/MikeTyler_MoneyGrows.mp3
+  url: reviews/mikeTyler/moneyGrows.mp3
 - name: Corny Song
-  url: http://eatenbymonsters.com/EbMBlog_mp3s/MikeTyler_CornySong.mp3
+  url: reviews/mikeTyler/cornySong.mp3
 ---
 
 Given that it's about thee-and-a-half thousand miles away, I'm not speaking with any authority when I talk of New York, but this bonkers single from New Yorker **Mike Tyler** epitomizes what I see as the 'east-coast American sensibility'. There's a long tradition of off-the-wall yanks getting a good reaction here in good ol' Blighty, and I gather Tyler rather enjoyed the reception he got the last time he came to London. The b-side to this single is all about that experience; ever the cynical New Yorker, *Corny song* is Tyler's way of dealing with how well his **UK** trip went, apparently. The song is, of course, rather nuts, with a strained delivery that oozes irony from every pore. And the a-side is no less crazy.

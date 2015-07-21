@@ -22,7 +22,7 @@ excerpt: REMEMBER_MARKUP
 categories:
 - review
 
-audioLinks:
+NOaudioLinks:
 - name: Skinny Love
   url: http://www.bearfacedrecords.com/EbMBlog_mp3s/Top10AlbumsOf08/BonIver_SkinnyLove.mp3
 - name: Creature Fear (Daytrotter Session)

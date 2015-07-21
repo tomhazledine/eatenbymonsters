@@ -24,9 +24,9 @@ categories:
 
 audioLinks:
 - name: Pittsburgh
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/WeAreScientists/WeAreScientists_Pittsburgh.mp3
+  url: reviews/weAreScientists/pittsburgh.mp3
 - name: Break It Up
-  url: http://www.bearfacedrecords.com/EbMBlog_mp3s/WeAreScientists/WeAreScientists_BreakItUp.mp3
+  url: reviews/weAreScientists/breakItUp.mp3
 ---
 
 ![](http://eatenbymonsters.files.wordpress.com/2010/10/wearescientists_barbara.jpg?w=300)
