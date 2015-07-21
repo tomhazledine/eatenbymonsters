@@ -22,11 +22,9 @@ categories:
 
 audioLinks:
 - name: 12.23.95
-  url: http://audio.eatenbymonsters.com/Christmas/JimmyEatWorld_122395.mp3
+  url: christmas/JimmyEatWorld_122395.mp3
 
 coverImage: http://eatenbymonsters.files.wordpress.com/2011/11/jew.jpg
 ---
-
-<div>{% include coverImg.html %}</div>
 
 [Jimmy Eat World](http://www.jimmyeatworld.com/)'s album _Clarity_ is an all-time favourite of mine, and this cut from that record is pleasantly seasonal.  Enjoy.

@@ -19,12 +19,10 @@ categories:
 
 audioLinks:
 - name: Christmas In Hollis
-  url: http://audio.eatenbymonsters.com/Christmas/RunDMC_ChristmasInHollis.mp3
+  url: christmas/RunDMC_ChristmasInHollis.mp3
 
 coverImage: http://eatenbymonsters.files.wordpress.com/2011/12/rundmc.jpg
 ---
-
-<div>{% include coverImg.html %}</div>
 
 **Argyle:** Mind if we hear some tunes? [plays cassette tape] Hey, that'll work!
 

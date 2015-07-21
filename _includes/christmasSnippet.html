@@ -1,0 +1,15 @@
+<div class="christmasSnippet">
+    <h2>
+        {% if post.recordTitle %}
+            {{ post.recordTitle }}
+        {% else %}
+            {{ post.title }}
+        {% endif %}
+    </h2>
+
+    {% if post.band %}
+        <h5>by <strong><em>{{ post.band }}</em></strong></h5>
+    {% endif %}
+    
+    <p>{{ post.content }}</p>
+</div>

@@ -22,11 +22,9 @@ categories:
 
 audioLinks:
 - name: White Christmas
-  url: http://audio.eatenbymonsters.com/Christmas/BanjoOrFreakout_WhiteChristmas.mp3
+  url: christmas/BanjoOrFreakout_WhiteChristmas.mp3
 
 coverImage: http://eatenbymonsters.files.wordpress.com/2011/12/banjo-or-freakout.jpg
 ---
-
-<div>{% include coverImg.html %}</div>
 
 We've got another cover for you today, although this time it could be seen more as a 're-imagining', with [Banjo or Freakout](http://banjoorfreakout.bandcamp.com/) messing with the melody, scansion, and time signature of _White Christmas_ to create this ethereal, smoke-like version.
