@@ -27,4 +27,4 @@ audioLinks:
 coverImage: http://eatenbymonsters.files.wordpress.com/2011/12/banjo-or-freakout.jpg
 ---
 
-We've got another cover for you today, although this time it could be seen more as a 're-imagining', with [Banjo or Freakout](http://banjoorfreakout.bandcamp.com/) messing with the melody, scansion, and time signature of _White Christmas_ to create this ethereal, smoke-like version.
+Another cover, although this time it could be seen more as a 're-imagining', with [Banjo or Freakout](http://banjoorfreakout.bandcamp.com/) messing with the melody, scansion, and time signature of _White Christmas_ to create this ethereal, smoke-like version.

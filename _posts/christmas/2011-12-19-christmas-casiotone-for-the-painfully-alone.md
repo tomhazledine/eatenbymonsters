@@ -27,4 +27,4 @@ audioLinks:
 coverImage: http://eatenbymonsters.files.wordpress.com/2011/12/casio.jpg
 ---
 
-The [Casiotone For The Painfully Alone](http://www.cftpa.org/home.htm) brand has been retired for over a year now, but that's no reason not to enjoy this festive little ditty.  A reason not to enjoy it would be the stark bleakness of the lyrics; I'm a big believer in the 'cheer' part of Christmas, but nevertheless there's still a few less-than-cheerful numbers amongst my Christmas playlist, this being one of the more obvious examples.
+The [Casiotone For The Painfully Alone](http://www.cftpa.org/home.htm) brand has been retired, but that's no reason not to enjoy this festive little ditty. A reason not to enjoy it would be the stark bleakness of the lyrics; I'm a big believer in the 'cheer' part of Christmas, but nevertheless there's still a few less-than-cheerful numbers amongst my Christmas playlist, this being one of the more obvious examples.

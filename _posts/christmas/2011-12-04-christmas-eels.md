@@ -27,4 +27,4 @@ audioLinks:
 coverImage: http://eatenbymonsters.files.wordpress.com/2011/11/eels.jpg
 ---
 
-This is a genuine Christmas favourite of mine.  I've always loved [Eels](http://www.eelstheband.com/), and this track is the first in this series to display what I would call a genuine Christmas spirit.
+This is a genuine Christmas favourite of mine. I've always loved [Eels](http://www.eelstheband.com/), and this track displays what I would call a genuine Christmas spirit.

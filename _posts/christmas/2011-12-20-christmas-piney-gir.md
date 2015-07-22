@@ -27,4 +27,4 @@ audioLinks:
 coverImage: http://eatenbymonsters.files.wordpress.com/2011/12/pineygir.jpg
 ---
 
-This is the penultimate [XO for the Holidays](http://www.xopublicity.com/xofortheholidays4.html) entry in this festive collection, and what [Piney Gir](http://pineygir.com/)'s Christmas track lacks in length it more than makes up for in seasonal cheer.
+This is yet another [XO for the Holidays](http://www.xopublicity.com/xofortheholidays4.html) entry in this festive collection, and what [Piney Gir](http://pineygir.com/)'s Christmas track lacks in length it more than makes up for in seasonal cheer.
