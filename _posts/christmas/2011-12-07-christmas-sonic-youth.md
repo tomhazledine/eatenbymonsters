@@ -24,4 +24,4 @@ audioLinks:
 coverImage: http://eatenbymonsters.files.wordpress.com/2011/12/sonicyouth.jpg
 ---
 
-Following on from yesterday's move away from the saccharine sweet, schmaltzy nature of most Christmas songs, today's choice drags us down even further.  As with all Sonic Youth's output, it takes a not-inconsiderable effort just to sit through the bally thing but is ultimately well worth it.
+Continuing the move away from the saccharine sweet, schmaltzy nature of most Christmas songs, this choice drags us down even further. As with all Sonic Youth's output, it takes a not-inconsiderable effort just to sit through the bally thing but is ultimately well worth it.

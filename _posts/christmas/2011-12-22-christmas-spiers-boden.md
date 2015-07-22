@@ -27,4 +27,4 @@ audioLinks:
 coverImage: http://eatenbymonsters.files.wordpress.com/2011/12/spiersboden.png
 ---
 
-At this time of rejoicing and all-round general good cheer we ought to remind ourselves of the true meaning of Christmas.  Better known for their work at the centre of modern folk mainstays Bellowhead, [Spiers & Boden](http://www.spiersandboden.com/index1.html) are on hand to set us straight with this tale of a callous, vain and hardhearted Jesus.
+At this time of rejoicing and all-round general good cheer we ought to remind ourselves of the true meaning of Christmas. Better known for their work at the centre of modern folk mainstays Bellowhead, [Spiers & Boden](http://www.spiersandboden.com/index1.html) are on hand to set us straight with this tale of a callous, vain and hardhearted Jesus.

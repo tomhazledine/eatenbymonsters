@@ -29,4 +29,4 @@ audioLinks:
 coverImage: http://eatenbymonsters.files.wordpress.com/2011/12/lightspeed_champion.jpg
 ---
 
-Way back in 2007 - before he'd even released his first album, _Falling Off The Lavender Bridge_ - Dev Hynes, a.k.a. [Lightspeed Champion](http://www.lightspeedchampion.com/), built his reputation by releasing several home-recorded EPs.  One of those was the creatively-titled _Garageband Xmas EP_, the two best tracks of which can be found at the bottom of this post.
+Way back in 2007 - before he'd even released his first album, _Falling Off The Lavender Bridge_ - Dev Hynes, a.k.a. [Lightspeed Champion](http://www.lightspeedchampion.com/), built his reputation by releasing several home-recorded EPs. One of those was the creatively-titled _Garageband Xmas EP_, the two best tracks of which can be found at the bottom of this post.
