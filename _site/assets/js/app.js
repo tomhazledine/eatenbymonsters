@@ -19357,12 +19357,18 @@ function testFunc(item){
 //   // console.log(what);
 // }
 
-var mobileNavToggle = $('#mobileNavToggle');
+var mobileNavToggle = $('.mobileNavToggle');
 var mainMenu = $('#mainMenu');
+var relativeHeaderWrapper = $('.relativeHeaderWrapper');
+var fixedHeaderWrapper = $('.fixedHeaderWrapper');
+var mainHeader = $('.mainHeader');
 
 mobileNavToggle.on('click',function(){
-    $(this).toggleClass('open');
-    mainMenu.toggleClass('open');
+    mainHeader.toggleClass('open');
+    // mobileNavToggle.toggleClass('open');
+    // mainMenu.toggleClass('open');
+    // fixedHeaderWrapper.toggleClass('open');
+    // relativeHeaderWrapper.toggleClass('open');
 });
 // // Namespace bl_ = Band List
 
